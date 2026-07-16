@@ -1,25 +1,32 @@
 # Hamilton System Local Revival
 
-**Reviving Hamiltonian Principles at the State and Local Level**
+**Applying Hamiltonian Principles to Business, HR & Local Strategy**
 
-By Joshua Konkle — Chief of Staff Strategist for Sovereign Domestic Strength & Local Renewal
+By Joshua Konkle — Chief of Staff Strategist for Sovereign Strength & Practical Revival
 
 ## Vision
-The American System—Hamilton's engine of national economy, infrastructure, manufacturing revival, and opportunity—thrives when implemented locally. National leadership provides the momentum; state and local leaders deliver the results through merit, practical action, and high-performance execution.
+We translate the American System — Hamilton’s framework of domestic manufacturing, infrastructure, merit-based opportunity, and national strength — into actionable strategies for companies and local leaders.
 
-## Primary Audience
-State and local elected officials, policymakers, and civic-business organizers coordinating high-performance revival. Medium-sized manufacturers and producers are key implementers who benefit directly.
+**Focus Areas**:
+- Aligning HR practices with sovereign workforce development
+- Strategy frameworks (Business Model Canvas + Hamiltonian economics)
+- Local policy and business coordination for America First results
 
-## Core Principles
-1. **Sovereign Domestic Strength** — Build resilient local supply chains and manufacturing.
-2. **Merit and Opportunity** — Reward excellence and open real pathways.
-3. **Practical Local Action** — Data-driven projects aligned with national priorities.
-4. **High-Performance Execution** — Measurable outcomes: jobs, infrastructure, strengthened communities.
+## Core Offerings
+**Free Educational Resources**
+- Frameworks for local revival
+- HR & strategy playbooks
+
+**Paid Consulting**
+Chief of Staff support for companies and leaders who want high-performance implementation.
 
 ## Get Started
-Read the [Full Framework](./docs/framework.md)
+Explore the frameworks below and reach out for tailored engagements.
 
-**For Leaders Ready to Execute**: Engage for tailored consulting, playbooks, and Chief of Staff-level implementation support.
+---
 
-## Resources
-- [Platform Sovereignty Roadmap](./platform-roadmap.md)
+### Key Framework: American System for Business Strategy
+(Coming in next update — Business Model Canvas + Hamiltonian alignment)
+
+**Ready to Align Your Organization?**  
+Contact for consulting on HR modernization, strategy execution, and local-to-national impact.
