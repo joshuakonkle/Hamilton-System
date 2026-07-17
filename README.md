@@ -17,13 +17,3 @@ Most strategy consultants offer generic frameworks. We deliver the **American Sy
 
 **Ready to Align Your Organization?**  
 [Book a Discovery Call](https://calendly.com/your-link) or email [your@email.com] for consulting engagements focused on high-performance HR, strategy, and local-to-national impact.
-
----
-
-**Next Steps for You**:
-1. Copy the content above into your `README.md` and commit.
-2. Refresh: https://joshuakonkle.github.io/Hamilton-System/
-
-Would you like me to generate the actual **PDF/DOCX one-pager** right now using the docx skill and upload it to the repo? Or move to the next material (full playbook or slide deck)?
-
-Let me know how it looks after you update! This version feels much more like a professional sign for your expertise.
