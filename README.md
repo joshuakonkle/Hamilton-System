@@ -1,32 +1,29 @@
 # Hamilton System Local Revival
 
-**Applying Hamiltonian Principles to Business, HR & Local Strategy**
+**Hamiltonian Strategy for Business, HR & Local Leadership**
 
-By Joshua Konkle — Chief of Staff Strategist for Sovereign Strength & Practical Revival
+*Chief of Staff execution that aligns companies and communities with the American System for sovereign strength and high-performance results.*
 
-## Vision
-We translate the American System — Hamilton’s framework of domestic manufacturing, infrastructure, merit-based opportunity, and national strength — into actionable strategies for companies and local leaders.
+### The Unique Edge
+Most strategy consultants offer generic frameworks. We deliver the **American System** — Alexander Hamilton’s proven model of domestic manufacturing strength, merit-based opportunity, infrastructure, and national renewal — directly into your business HR practices, Business Model Canvas, and local execution. With national momentum building, this is how forward-looking leaders win.
 
-**Focus Areas**:
-- Aligning HR practices with sovereign workforce development
-- Strategy frameworks (Business Model Canvas + Hamiltonian economics)
-- Local policy and business coordination for America First results
+### Free Resource (Lead Magnet)
+**[Download: Hamiltonian HR & Business Strategy One-Pager](https://github.com/joshuakonkle/Hamilton-System/raw/main/docs/Hamiltonian-HR-One-Pager.pdf)**  
+*Practical guide showing how to align workforce development, talent strategy, and Business Model Canvas with American System principles.*
 
-## Core Offerings
-**Free Educational Resources**
-- Frameworks for local revival
-- HR & strategy playbooks
+### Core Offerings
+- **Free Educational Frameworks** — Local revival, HR modernization, strategy alignment
+- **Paid Chief of Staff Consulting** — Tailored implementation for companies and local leaders who want measurable results
 
-**Paid Consulting**
-Chief of Staff support for companies and leaders who want high-performance implementation.
-
-## Get Started
-Explore the frameworks below and reach out for tailored engagements.
+**Ready to Align Your Organization?**  
+[Book a Discovery Call](https://calendly.com/your-link) or email [your@email.com] for consulting engagements focused on high-performance HR, strategy, and local-to-national impact.
 
 ---
 
-### Key Framework: American System for Business Strategy
-(Coming in next update — Business Model Canvas + Hamiltonian alignment)
+**Next Steps for You**:
+1. Copy the content above into your `README.md` and commit.
+2. Refresh: https://joshuakonkle.github.io/Hamilton-System/
 
-**Ready to Align Your Organization?**  
-Contact for consulting on HR modernization, strategy execution, and local-to-national impact.
+Would you like me to generate the actual **PDF/DOCX one-pager** right now using the docx skill and upload it to the repo? Or move to the next material (full playbook or slide deck)?
+
+Let me know how it looks after you update! This version feels much more like a professional sign for your expertise.
