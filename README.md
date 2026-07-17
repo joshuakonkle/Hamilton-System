@@ -2,18 +2,18 @@
 
 **Hamiltonian Strategy for Business, HR & Local Leadership**
 
-*Chief of Staff execution that aligns companies and communities with the American System for sovereign strength and high-performance results.*
+*Chief of Staff execution that aligns companies and communities with the American System for sovereign domestic strength, merit-based opportunity, and high-performance results.*
 
-### The Unique Edge
-Most strategy consultants offer generic frameworks. We deliver the **American System** — Alexander Hamilton’s proven model of domestic manufacturing strength, merit-based opportunity, infrastructure, and national renewal — directly into your business HR practices, Business Model Canvas, and local execution. With national momentum building, this is how forward-looking leaders win.
+### The Unique Approach
+We combine Alexander Hamilton’s proven principles (domestic manufacturing strength, infrastructure, and opportunity) with modern business tools like the **Business Model Canvas** and HR modernization. This is not generic strategy — it is practical implementation that scales from local companies to national renewal.
 
-### Free Resource (Lead Magnet)
-**[Download: Hamiltonian HR & Business Strategy One-Pager](https://github.com/joshuakonkle/Hamilton-System/raw/main/docs/Hamiltonian-HR-One-Pager.pdf)**  
-*Practical guide showing how to align workforce development, talent strategy, and Business Model Canvas with American System principles.*
+### Free Educational Resource
+**Download: "Hamiltonian HR & Business Strategy One-Pager"**  
+(Actual file coming in next message — I'll generate the real DOCX/PDF for you to upload.)
 
-### Core Offerings
-- **Free Educational Frameworks** — Local revival, HR modernization, strategy alignment
-- **Paid Chief of Staff Consulting** — Tailored implementation for companies and local leaders who want measurable results
+### Connect With Me
+- **X (Twitter)**: [your X handle](https://x.com/yourhandle)
+- **Truth Social**: [your Truth handle](https://truthsocial.com/@yourhandle)
+- **Mobile**: Text or call [your phone number]
 
-**Ready to Align Your Organization?**  
-[Book a Discovery Call](https://calendly.com/your-link) or email [your@email.com] for consulting engagements focused on high-performance HR, strategy, and local-to-national impact.
+**Ready for tailored Chief of Staff support?** Reach out on the platforms above or email me directly to discuss HR alignment, strategy execution, or local revival projects.
