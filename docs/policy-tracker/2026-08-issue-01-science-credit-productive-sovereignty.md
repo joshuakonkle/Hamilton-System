@@ -84,6 +84,6 @@ If you would like support moving from these signals into a concrete 90-day opera
 
 **Joshua Konkle**  
 Chief of Staff Strategist  
-@7SwanSwimming  
+@7SwanSwimming on X.com
 512-423-5448  
 joshua@digitalknowledge.net
