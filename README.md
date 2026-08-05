@@ -8,7 +8,7 @@
 We combine Alexander Hamilton’s proven principles (domestic manufacturing strength, infrastructure, and opportunity) with modern business tools like the **Business Model Canvas** and HR modernization. This is not generic strategy — it is practical implementation that scales from local companies to national renewal.
 
 ### Free Educational Resource
-**Download: "[American (Hamilton) System Historic Baseline (draft)](https://github.com/joshuakonkle/Hamilton-System/blob/main/docs/drafts/american-system-historical-baseline.md)"** 
+**Download: "[American (Hamilton) System Historic Baseline (draft)](https://github.com/joshuakonkle/Hamilton-System/blob/main/docs/public/american-system-historical-baseline.md)"** 
 
 ### Connect With Me
 - **X (Twitter)**: [Joshua Konkle](https://x.com/7swanswimming)
