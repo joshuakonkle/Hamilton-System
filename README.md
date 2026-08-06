@@ -32,23 +32,23 @@ Five practical modules that re-orient familiar tools through a Hamiltonian lens:
 **Business Model Canvas Series (Free)**
 
 1. **Business Model Canvas**  
-   → [Slide Deck](docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pptx)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf)  
    → [Companion Materials](docs/webinar-resources/Module1-BMC-American-System-Supplementary-Materials.md)
 
 2. **OKRs**  
-   → [Slide Deck](docs/webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pptx)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pdf)  
    → [Companion Materials](docs/webinar-resources/Module2-BMC-American-System-Supplementary-Materials.md)
 
 3. **Operating Model + AI**  
-   → [Slide Deck](docs/webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pptx)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pdf)  
    → [Companion Materials](docs/webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md)
 
 4. **Value Streams / Lean**  
-   → [Slide Deck](docs/webinar-resources/Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean.pptx)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean.pdf)  
    → [Companion Materials](docs/webinar-resources/Module4-BMC-American-System-Supplementary-Materials.md)
 
 5. **Workforce Strategy**  
-   → [Slide Deck](docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pptx)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf)  
    → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md)
 
 **Coming Next – Entrepreneurial Operating System (EOS) Series**  
