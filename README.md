@@ -26,8 +26,35 @@ A practical reading guide to the key primary and secondary sources that define t
 Concise monthly briefings that connect national policy signals (science, credit, workforce, industrial capacity) to practical business and local action.  
 → [View Issue 1](docs/policy-tracker/)
 
-**Webinar Series (Coming Soon)**  
-Five practical modules that update familiar strategy and operating tools — Business Model Canvas, OKRs, Operating Models, Value Streams, and Workforce Strategy — through a Hamiltonian lens.
+**Webinar Series – Updating Strategy & Operations for the American System**  
+Five practical modules that re-orient familiar tools through a Hamiltonian lens: productive sovereignty, high-skill American capability, and innovation-driven strength.
+
+**Business Model Canvas Series (Free)**
+
+1. **Business Model Canvas**  
+   → [Slide Deck](docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pptx)  
+   → [Companion Materials](docs/webinar-resources/Module1-BMC-American-System-Supplementary-Materials.md)
+
+2. **OKRs**  
+   → [Slide Deck](docs/webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pptx)  
+   → [Companion Materials](docs/webinar-resources/Module2-BMC-American-System-Supplementary-Materials.md)
+
+3. **Operating Model + AI**  
+   → [Slide Deck](docs/webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pptx)  
+   → [Companion Materials](docs/webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md)
+
+4. **Value Streams / Lean**  
+   → [Slide Deck](docs/webinar-resources/Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean.pptx)  
+   → [Companion Materials](docs/webinar-resources/Module4-BMC-American-System-Supplementary-Materials.md)
+
+5. **Workforce Strategy**  
+   → [Slide Deck](docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pptx)  
+   → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md)
+
+**Coming Next – Entrepreneurial Operating System (EOS) Series**  
+A full Hamiltonian re-orientation of the Entrepreneurial Operating System is in development. Same core principles, tighter operational rhythm, built for leaders who run on EOS and want it aligned with productive sovereignty and American capability.
+
+Custom workshops, 90-day execution plans, and Chief of Staff-style implementation support are available now.
 
 ---
 
