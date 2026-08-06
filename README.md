@@ -33,23 +33,27 @@ Five practical modules that re-orient familiar tools through a Hamiltonian lens:
 
 1. **Business Model Canvas**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf)  
-   → [Companion Materials](docs/webinar-resources/Module1-BMC-American-System-Supplementary-Materials.md)
+   → [Companion Materials](docs/webinar-resources/Module1-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
 
 2. **OKRs**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pdf)  
-   → [Companion Materials](docs/webinar-resources/Module2-BMC-American-System-Supplementary-Materials.md)
+   → [Companion Materials](docs/webinar-resources/Module2-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
 
 3. **Operating Model + AI**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pdf)  
-   → [Companion Materials](docs/webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md)
+   → [Companion Materials](docs/webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
 
 4. **Value Streams / Lean**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean.pdf)  
-   → [Companion Materials](docs/webinar-resources/Module4-BMC-American-System-Supplementary-Materials.md)
+   → [Companion Materials](docs/webinar-resources/Module4-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
 
 5. **Workforce Strategy**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf)  
-   → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md)
+   → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+
+**Free Starting Point – 90-Day Action Plan Outlines**  
+Each module includes a practical 90-day outline you can use immediately.  
+These outlines are the free starting point. Customized 90-day execution plans and ongoing Chief of Staff-style support are available on request.
 
 **Coming Next – Entrepreneurial Operating System (EOS) Series**  
 A full Hamiltonian re-orientation of the Entrepreneurial Operating System is in development. Same core principles, tighter operational rhythm, built for leaders who run on EOS and want it aligned with productive sovereignty and American capability.
