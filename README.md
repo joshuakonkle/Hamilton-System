@@ -92,3 +92,5 @@ Joshua Konkle
 Chief of Staff Strategist  
 
 Helping mid-sized companies and local leaders align strategy, workforce, and operations with the principles of productive sovereignty.
+
+(c) 2026, Digital Knowledge / Patriots Locked In, and In Control.
