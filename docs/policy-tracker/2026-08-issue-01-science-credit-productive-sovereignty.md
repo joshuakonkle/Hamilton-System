@@ -93,11 +93,3 @@ Chief of Staff Strategist
 @7SwanSwimming on X.com
 512-423-5448  
 joshua@digitalknowledge.net
-
----
-
-**Related Issue**  
-Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity: State & Local Execution Pathways  
-→ [Read Issue 2](docs/policy-tracker/Policy-Tracker-Issue-2-Nuclear-Quantum-Sovereign-Capacity.md)
-
----
