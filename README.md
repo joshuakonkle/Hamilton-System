@@ -23,8 +23,13 @@ A practical reading guide to the key primary and secondary sources that define t
 → [Read the Baseline](docs/public/american-system-historical-baseline.md)
 
 **America First Policy Tracker**  
-Concise monthly briefings that connect national policy signals (science, credit, workforce, industrial capacity) to practical business and local action.  
-→ [View Issue 1](docs/policy-tracker/)
+Concise briefings that connect national policy signals to practical business and local action.
+
+- Issue 1 – Science, Golden Age & Sovereign Capacity  
+  → [View Issue 1](docs/policy-tracker/)
+
+- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
+  → [View Issue 2](docs/policy-tracker/Policy-Tracker-Issue-2-Nuclear-Quantum-Sovereign-Capacity.md)
 
 **Webinar Series – Updating Strategy & Operations for the American System**  
 Five practical modules that re-orient familiar tools through a Hamiltonian lens: productive sovereignty, high-skill American capability, and innovation-driven strength.
