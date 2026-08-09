@@ -20,6 +20,12 @@ These themes are not isolated. They are beginning to shape the environment for c
 
 ---
 
+**Related Issue**  
+Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity: State & Local Execution Pathways  
+→ [Read Issue 2](docs/policy-tracker/Policy-Tracker-Issue-2-Nuclear-Quantum-Sovereign-Capacity.md)
+
+---
+
 ### 2. Credit, Tax, and the Bessent–Warsh Vector
 
 Treasury Secretary Scott Bessent and the emerging influence of Kevin Warsh at the Federal Reserve are reinforcing the same direction through financial channels:
