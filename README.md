@@ -1,4 +1,4 @@
-**[Modules](#free-educational-resources)** · **[Trackers](#america-first-policy-tracker)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/about-the-team.md)**
+**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#america-first-policy-tracker)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/about-the-team.md)**
 
 # Hamiltonian System Local Revival
 
@@ -34,10 +34,9 @@ Concise briefings that connect national policy signals to practical business and
 - Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
   → [View Issue 2](docs/policy-tracker/2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)
 
-**Webinar Series – Updating Strategy & Operations for the American System**  
-Five practical modules that re-orient familiar tools through a Hamiltonian lens: productive sovereignty, high-skill American capability, and innovation-driven strength.
+### Webinar Modules – Business Model Canvas Series
 
-**Business Model Canvas Series (Free)**
+Five practical modules that re-orient familiar tools through a Hamiltonian lens: productive sovereignty, high-skill American capability, and innovation-driven strength.
 
 1. **Business Model Canvas**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf)  
