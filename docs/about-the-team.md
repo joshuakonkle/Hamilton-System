@@ -75,14 +75,6 @@ Regular program checkpoints include:
 This is the operating system behind the free educational modules, the policy trackers, the short-form content, and the ongoing research into productive American capacity.
 
 ---
-### About
-
-Joshua Konkle  
-Chief of Staff Strategist  
-
-Helping mid-sized companies and local leaders align strategy, workforce, and operations with the principles of productive sovereignty.
-
-→ [How this work is produced – About the Team](docs/about-the-team.md)
 
 ### Contact
 
@@ -91,5 +83,7 @@ Chief of Staff Strategist
 X / Truth Social: @7SwanSwimming  
 joshua@digitalknowledge.net  
 Mobile: 512-423-5448
+
+Helping mid-sized companies and local leaders align strategy, workforce, and operations with the principles of productive sovereignty.
 
 © 2026 Digital Knowledge. Patriots Locked In and In Control.
