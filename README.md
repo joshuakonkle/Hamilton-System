@@ -60,6 +60,15 @@ Five practical modules that re-orient familiar tools through a Hamiltonian lens:
 Each module includes a practical 90-day outline you can use immediately.  
 These outlines are the free starting point. Customized 90-day execution plans and ongoing Chief of Staff-style support are available on request.
 
+### Paid Implementation Support
+
+**90-Day Sovereign Capacity Sprint**  
+Facilitated execution of the free module outlines. Fixed-scope engagement that turns the free 90-day plans into a living operating rhythm for your team.  
+
+Introductory range: $6,000 – $9,500  
+
+→ [View One-Pager (PDF)](docs/offers/90-Day-Sovereign-Capacity-Sprint.pdf)
+
 **Coming Next – Entrepreneurial Operating System (EOS) Series**  
 A full Hamiltonian re-orientation of the Entrepreneurial Operating System is in development. Same core principles, tighter operational rhythm, built for leaders who run on EOS and want it aligned with productive sovereignty and American capability.
 
