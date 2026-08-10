@@ -24,7 +24,8 @@ This site is the free educational front door for that work.
 A practical reading guide to the key primary and secondary sources that define the Hamiltonian tradition.  
 → [Read the Baseline](docs/public/american-system-historical-baseline.md)
 
-**America First Policy Tracker**  
+### America First Policy Tracker
+
 Concise briefings that connect national policy signals to practical business and local action.
 
 - Issue 1 – Science, Golden Age & Sovereign Capacity  
