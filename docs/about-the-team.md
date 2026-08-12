@@ -1,4 +1,4 @@
-**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#america-first-policy-tracker)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/about-the-team.md)**
+**[Modules](/#webinar-modules--business-model-canvas-series)** · **[Trackers](/#america-first-policy-tracker)** · **[Offerings](/#paid-implementation-support)** · **[About the Team](/docs/about-the-team.html)**
 
 # About the Team
 ### How the American System Local Revival work is produced
