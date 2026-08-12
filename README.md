@@ -34,6 +34,9 @@ Concise briefings that connect national policy signals to practical business and
 - Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
   → [View Issue 2](docs/policy-tracker/2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)
 
+- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit for Productive Capacity)  
+  → [View Issue 3](docs/policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)
+
 ### Webinar Modules – Business Model Canvas Series
 
 Five practical modules that re-orient familiar tools through a Hamiltonian lens: productive sovereignty, high-skill American capability, and innovation-driven strength.
@@ -111,4 +114,4 @@ Helping mid-sized companies and local leaders align strategy, workforce, and ope
 
 → [How this work is produced – About the Team](docs/about-the-team.md)
 
-© 2026 Digital Knowledge. Patriots Locked In and In Control.
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
