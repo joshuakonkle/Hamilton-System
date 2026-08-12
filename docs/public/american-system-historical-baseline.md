@@ -1,3 +1,5 @@
+**[Modules](/#webinar-modules--business-model-canvas-series)** · **[Trackers](/#america-first-policy-tracker)** · **[Offerings](/#paid-implementation-support)** · **[About the Team](/docs/about-the-team.html)**
+
 # American System Historical Baseline
 
 A practical reading and reference resource for understanding the Hamiltonian / American System through its key historical figures and original sources.
@@ -23,6 +25,28 @@ These pillars provide a consistent lens for both historical study and modern loc
 4. Return to primary sources periodically to stay grounded in original language.
 
 ## Primary Sources (Start Here)
+
+### Alexander Hamilton — National Bank and Productive Credit
+
+The American System tradition begins with Hamilton’s design for public credit and a national bank oriented to domestic productive strength, not to managing employment as a co-equal political goal.
+
+Hamilton’s national bank was meant to:
+- Augment the active, productive capital of the country
+- Support commerce and manufactures
+- Give the government reliable means to fund internal strength rather than dependence on foreign capital alone
+- Tie the interests of creditors to the success of the Union
+
+It was an instrument of **productive capacity and public credit**. A standing dual mandate that treats maximum employment as a co-equal objective with price stability would have been foreign to that design. Hamilton would have seen employment-centered monetary management as a different — and, in modern terms, more political and demand-side — project than a national bank built to strengthen real production and national independence.
+
+**Primary sources (full text):**
+- [Report on a National Bank (Second Report on Public Credit), 13 December 1790](https://founders.archives.gov/documents/Hamilton/01-07-02-0229-0003) — Founders Online, National Archives  
+- [Report on the Subject of Manufactures, 5 December 1791](https://founders.archives.gov/documents/Hamilton/01-10-02-0001-0007) — Founders Online, National Archives  
+- Alternate scan (National Bank report): [FRASER / St. Louis Fed](https://fraser.stlouisfed.org/title/report-secretary-treasury-alexander-hamilton-subject-a-national-bank-3677)
+
+**Bridge to current policy tracking:**  
+Issue 3 of the America First Policy Tracker scores the Warsh (Fed) and Bessent (Treasury) regime against this same Hamiltonian national-bank logic: whether credit and policy are being oriented toward productive capacity or remaining inside pure financialization. See [Issue 3 – Directed Credit for Productive Capacity](../policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md).
+
+*Deeper primary-source notes can be expanded later or via community contribution on GitHub.*
 
 ### Henry Clay
 - **“In Defense of the American System”** (Senate speech, February 2, 3, and 6, 1832)  
