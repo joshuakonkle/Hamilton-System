@@ -20,9 +20,11 @@ These themes are not isolated. They are beginning to shape the environment for c
 
 ---
 
-**Related Issue**  
-Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity: State & Local Execution Pathways  
-→ [Read Issue 2](docs/policy-tracker/Policy-Tracker-Issue-2-Nuclear-Quantum-Sovereign-Capacity.md)
+**Related Issues**  
+- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
+  → [Read Issue 2](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
+- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit)  
+  → [Read Issue 3](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)
 
 ---
 
@@ -93,3 +95,7 @@ Chief of Staff Strategist
 @7SwanSwimming on X.com
 512-423-5448  
 joshua@digitalknowledge.net
+
+---
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
