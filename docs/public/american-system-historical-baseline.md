@@ -67,3 +67,7 @@ Use these sources to:
 Modern examples (such as deliberate replacement of non-sovereign CDL drivers with American veterans) are contemporary expressions of the same principles.
 
 This baseline is intended as a living resource. Future updates may add additional primary texts, modern applications, or cross-references to strategy frameworks developed for state and local use.
+
+---
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
