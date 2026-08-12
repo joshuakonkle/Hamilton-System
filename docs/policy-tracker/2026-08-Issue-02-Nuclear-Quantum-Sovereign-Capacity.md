@@ -7,6 +7,14 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 
 ---
 
+**Related Issues**  
+- Issue 1 – Science, Golden Age & Sovereign Capacity  
+  → [Read Issue 1](2026-08-issue-01-science-credit-productive-sovereignty.md)  
+- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit)  
+  → [Read Issue 3](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)
+
+---
+
 ### 1. National Signal Snapshot
 
 1.1 The Department of Energy has moved from studies to deployment. In late 2025 it awarded $800 million to the Tennessee Valley Authority and Holtec to advance American light-water small modular reactors (SMRs: factory-built nuclear reactors designed for faster construction and lower upfront capital). Additional selections in 2026 expanded support for near-term SMR deployment. Parallel programs are accelerating microreactors and high-assay low-enriched uranium (HALEU).
@@ -101,3 +109,7 @@ Chief of Staff Strategist
 X / Truth Social: @7SwanSwimming  
 Mobile: 512-423-5448  
 joshua@digitalknowledge.net
+
+---
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
