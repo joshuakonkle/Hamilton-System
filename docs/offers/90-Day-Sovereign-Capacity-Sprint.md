@@ -58,3 +58,7 @@ American System Local Revival
 X / Truth Social: @7SwanSwimming  
 joshua@digitalknowledge.net  
 Mobile: 512-423-5448
+
+---
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
