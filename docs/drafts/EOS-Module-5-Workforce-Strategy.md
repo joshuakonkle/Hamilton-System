@@ -27,10 +27,10 @@ Does the 10-Year Target and 3-Year Picture explicitly include domestic productiv
 Quarterly Rocks should move the company toward greater capability, not merely keep seats filled. A Rock that reads “reduce contractor spend by 15%” is different from a Rock that reads “stand up an internal pipeline that produces two fully qualified American technicians for critical roles.”
 
 **Scorecard**  
-Most Scorecards track lagging cost and activity measures. Add a small number of leading indicators that reveal sovereign workforce health: percentage of critical seats held by long-term American employees, internal promotion rate into high-skill roles, retention of people who hold institutional knowledge, and progress on deliberate pipeline actions.
+Most Scorecards track lagging cost and activity measures. Add a small number of leading indicators that reveal sovereign workforce health: percentage of critical seats held by long-term American employees, internal promotion rate into high-skill roles, retention of people who hold institutional knowledge, and progress on deliberate pipeline actions. Keep metric language aligned with the free BMC Module 5 diagnostic so the same filter travels across operating systems.
 
 **People Analyzer / GWC**  
-When you evaluate whether someone Gets it, Wants it, and has the Capacity to do it, include a fourth practical question: does this person increase the organization’s long-term productive capacity, or are we simply renting hours? Seats themselves should be designed so that the work compounds knowledge rather than discarding it every rotation.
+Run standard GWC first (Gets it, Wants it, Capacity). For critical and core-capacity seats, ask one additional American System question after the standard GWC yes/no: does this person increase the organization’s long-term productive capacity, or are we simply renting hours? Seats themselves should be designed so that the work compounds knowledge rather than discarding it every rotation. For non-critical seats, the additional question remains useful coaching language, not a hard gate.
 
 ---
 
@@ -52,7 +52,7 @@ The difference shows up in the Rocks you set, the numbers you put on the Scoreca
 When elevators became reliable enough that a full-time operator was no longer required, the work did not disappear. It moved into higher-skill engineering, maintenance, and system-design roles. The same logic applies to any process innovation or automation: the goal is to elevate American workers, not simply eliminate hours.
 
 **Department of Transportation / Freedom Haulers**  
-The Department of Transportation is actively replacing non-sovereign CDL capacity with veterans who already hold the relevant experience. This is a live example of treating a critical skill set as sovereign capability rather than a seat to be filled by the lowest-cost temporary option.
+The Department of Transportation is actively replacing non-sovereign CDL capacity with veterans who already hold the relevant experience. The program is early-stage and expanding; it is a live example of treating a critical skill set as sovereign capability rather than a seat to be filled by the lowest-cost temporary option.
 
 **Nuclear and advanced manufacturing pipelines**  
 States that are serious about advanced nuclear (Texas, Tennessee, and others) are pairing reactor and fuel-cycle projects with deliberate workforce development. The same principle applies inside any company that needs high-skill technical roles: the pipeline must be built, not rented.
@@ -68,15 +68,15 @@ States that are serious about advanced nuclear (Texas, Tennessee, and others) ar
 
 **Days 31–60 – Redesign**  
 - Rewrite 1–2 Rocks so they explicitly build sovereign capability in the selected role family.  
-- Add 2–3 Scorecard metrics that track pipeline health and retention of institutional knowledge.  
-- Adjust the People Analyzer conversation for that role family so long-term capacity is part of the evaluation.
+- Add 2–3 Scorecard metrics that track pipeline health and retention of institutional knowledge (same language as the BMC Module 5 diagnostic).  
+- For that role family, run standard GWC, then the additional American System capacity question on critical seats.
 
 **Days 61–90 – Execute & Embed**  
 - Launch the new Rocks and Scorecard measures.  
 - Run at least one Level 10 Meeting cycle that IDS’s (Identify/Discuss/Solve) a concrete pipeline obstacle.  
 - Capture lessons and decide the next role family to bring into the same discipline.
 
-The free 90-Day Action Plan Outline that accompanies this module gives a ready structure for the work above. A customized, facilitated version remains available when an organization wants to move faster.
+A free 90-Day Action Plan Outline adapted for EOS will publish with the final module (draft companion available in the drafts folder while the full EOS set is completed). Preferred client path is the free BMC series first, then this module; teams already deep in EOS may start here and still use the BMC diagnostics in parallel.
 
 ---
 
@@ -87,7 +87,7 @@ Once the workforce logic is clear, Modules 1–4 can be rewritten so the Vision/
 
 The same free diagnostic, discussion prompts, and 90-day outline pattern used in the Business Model Canvas series will be adapted for the EOS versions.
 
-Custom workshops, facilitated 90-day plans, and ongoing Chief of Staff-style support are available for leadership teams that want to implement rather than simply study the material.
+No EOS-branded public promotion until the full EOS module set (including free diagnostic and 90-day outline) is completed and released.
 
 ---
 
@@ -96,3 +96,7 @@ Chief of Staff Strategist
 X / Truth Social: @7SwanSwimming  
 Mobile: 512-423-5448  
 joshua@digitalknowledge.net
+
+---
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
