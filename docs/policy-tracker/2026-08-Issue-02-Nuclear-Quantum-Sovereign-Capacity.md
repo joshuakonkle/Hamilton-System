@@ -73,6 +73,19 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 
 5.3 Customized 90-day plans, facilitated diagnostics, and ongoing Chief of Staff-style implementation support remain available when organizations are ready to move faster.
 
+### Scorecard (living)
+
+*(Refresh when major nuclear, quantum, supply-chain, or state-execution signals move.)*
+
+| Dimension | Current Reading | Notes |
+|-----------|-----------------|-------|
+| Nuclear treated as productive capacity (not only regulatory/environmental) | Positive / directional | State examples (e.g. TX, TN); dual-use sovereignty frame |
+| Quantum sensing / communications as industrial & defense capacity | Directional | Plain-English dual-use; not sci-fi |
+| Secure domestic supply chains (fuel, components, high-skill roles) | Directional | Workforce pipelines; permanent citizen capability preferred |
+| Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete | State funds/projects visible; federal credit tools still the Issue 3 test |
+
+Scores are directional, not grades. They update when evidence moves.
+
 ---
 
 ### 6. Sidebar – QAnon Patriots, Tesla, Trump, and the Long Thread
