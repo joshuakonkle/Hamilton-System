@@ -73,6 +73,19 @@ This is not training for its own sake. It is practical execution support: taking
 
 Future Policy Tracker issues will continue to reference the matching webinar module as the series expands across additional strategy and operating frameworks.
 
+### Scorecard (living)
+
+*(Refresh when major science, credit, or workforce signals move.)*
+
+| Dimension | Current Reading | Notes |
+|-----------|-----------------|-------|
+| Science & technology oriented to national productive capacity | Positive / directional | Kratsios frame: sovereign capability over pure prestige R&D |
+| Sovereign American workforce (citizens + genius-level only where needed) | Directional | National talent emphasis; temp-labor arbitrage is not the model |
+| Break with financialization-first innovation story | Directional | Innovation as capacity and cost-reducer, not asset narrative alone |
+| Pairing: science policy ↔ credit / industrial tools | Incomplete | Vision strong; operational directed-credit link still maturing (see Issue 3) |
+
+Scores are directional, not grades. They update when evidence moves.
+
 ---
 
 ### 6. Watch List – Next Signals to Monitor
