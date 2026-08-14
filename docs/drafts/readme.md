@@ -1,1 +1,1 @@
-## intentionaliy left blank
+### DRAFT — do not mirror until EOS series release.
