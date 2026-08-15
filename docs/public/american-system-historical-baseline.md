@@ -1,4 +1,4 @@
-**[Modules](/#webinar-modules--business-model-canvas-series)** · **[Trackers](/#america-first-policy-tracker)** · **[Offerings](/#paid-implementation-support)** · **[About the Team](/docs/about-the-team.html)**
+**[Modules](/#webinar-modules--business-model-canvas-series)** · **[Trackers](/#america-first-policy-tracker)** · **[Offerings](/#paid-implementation-support)** · **[About the Team](/docs/public/about-the-team)**
 
 # American System Historical Baseline
 
