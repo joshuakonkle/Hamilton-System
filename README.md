@@ -1,4 +1,4 @@
-**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#america-first-policy-tracker)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/about-the-team.md)**
+**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#america-first-policy-tracker)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/public/about-the-team.md)**
 
 # Hamiltonian System Local Revival
 
@@ -49,7 +49,7 @@ Five practical modules that re-orient familiar tools through a Hamiltonian lens:
    → [Slide Deck (PDF)](docs/webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pdf)  
    → [Companion Materials](docs/webinar-resources/Module2-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
 
-3. **Operating Model + AI**  
+3. **Operating Model**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pdf)  
    → [Companion Materials](docs/webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
 
@@ -61,8 +61,32 @@ Five practical modules that re-orient familiar tools through a Hamiltonian lens:
    → [Slide Deck (PDF)](docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf)  
    → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
 
+### Webinar Modules – Entrepreneurial Operating System (EOS) Series
+
+Same Hamiltonian filter applied to the Entrepreneurial Operating System (EOS): Vision/Traction Organizer (V/TO), Rocks, Scorecard, Core Processes, and People — without rewriting EOS. Built for leaders who already run on EOS and want capacity, not only cost, on the scoreboard.
+
+1. **Vision That Compounds** (Vision/Traction Organizer)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module1-EOS-American-System-Vision-VTO.pdf)  
+   → [Companion Materials](docs/webinar-resources/Module1-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+
+2. **Rocks That Build Capacity**  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module2-EOS-American-System-Rocks-Capacity.pdf)  
+   → [Companion Materials](docs/webinar-resources/Module2-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+
+3. **Scorecard That Measures Capacity**  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module3-EOS-American-System-Scorecard-Capacity.pdf)  
+   → [Companion Materials](docs/webinar-resources/Module3-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+
+4. **Process That Elevates Work** (Core Processes)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module4-EOS-American-System-Core-Processes.pdf)  
+   → [Companion Materials](docs/webinar-resources/Module4-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+
+5. **Workforce as Productive Capacity** (People)  
+   → [Slide Deck (PDF)](docs/webinar-resources/Module5-EOS-American-System-People-Workforce.pdf)  
+   → [Companion Materials](docs/webinar-resources/Module5-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+
 **Free Starting Point – 90-Day Action Plan Outlines**  
-Each module includes a practical 90-day outline you can use immediately.  
+Each module (BMC and EOS) includes a practical 90-day outline you can use immediately.  
 These outlines are the free starting point. Customized 90-day execution plans and ongoing Chief of Staff-style support are available on request.
 
 ### Paid Implementation Support
@@ -74,9 +98,6 @@ Introductory range: $6,000 – $9,500
 
 → [View One-Pager (PDF)](docs/offers/90-Day-Sovereign-Capacity-Sprint.pdf)
 
-**Coming Next – Entrepreneurial Operating System (EOS) Series**  
-A full Hamiltonian re-orientation of the Entrepreneurial Operating System is in development. Same core principles, tighter operational rhythm, built for leaders who run on EOS and want it aligned with productive sovereignty and American capability.
-
 Custom workshops, 90-day execution plans, and Chief of Staff-style implementation support are available now.
 
 ---
@@ -85,7 +106,7 @@ Custom workshops, 90-day execution plans, and Chief of Staff-style implementatio
 
 We combine:
 - Hamiltonian / American System principles (productive investment, domestic capacity, merit, sovereign workforce)
-- Modern business tools (Business Model Canvas, OKRs, operating model design, Lean)
+- Modern business tools (Business Model Canvas, Entrepreneurial Operating System (EOS), OKRs, operating model design, Lean)
 - Chief of Staff-style implementation support
 
 The goal is not more slides. The goal is clearer decisions and stronger execution.
@@ -112,6 +133,6 @@ Chief of Staff Strategist
 
 Helping mid-sized companies and local leaders align strategy, workforce, and operations with the principles of productive sovereignty.
 
-→ [How this work is produced – About the Team](docs/about-the-team.md)
+→ [How this work is produced – About the Team](docs/public/about-the-team.md)
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
