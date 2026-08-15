@@ -1,12 +1,11 @@
-# America First Policy Tracker  
-## Issue 1 | August 2026
+# America First Policy Tracker – Issue 1
+**Science, Credit, and the Return of Productive Sovereignty**  
+**National signals → business and local execution**  
+August 2026
 
-**Focus**: Science, Credit, and the Return of Productive Sovereignty  
-**Prepared by** Joshua Konkle, Chief of Staff Strategist  
-**Contact**: @7SwanSwimming | 512-423-5448 | joshua@digitalknowledge.net
+This issue centers on the White House OSTP report *Science: A New Golden Age* (Michael Kratsios, July 2026) and the credit / tax environment taking shape under Bessent and Warsh influence. It connects sovereign science policy to productive capacity, workforce design, and practical action for companies and state/local leaders.
 
 ---
-
 ### 1. Key Policy Signal of the Month
 
 The White House Office of Science and Technology Policy released *Science: A New Golden Age* (Michael Kratsios, July 2026). The report is the clearest high-level statement yet that American scientific and technological leadership must be rebuilt on domestic productive capacity, merit, and a sovereign workforce.
