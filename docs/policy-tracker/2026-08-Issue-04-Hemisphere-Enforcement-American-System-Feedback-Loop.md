@@ -54,8 +54,11 @@ Simultaneous multi-country actions are evidence of rising enforcement pressure a
 - OFAC and related AML actions against cartel-linked finance, fuel-smuggling schemes, and laundering channels; record or near-record penalties in adjacent AML cases underscoring financial-rail pressure.  
 - Parallel partner sanctions and joint European actions against CJNG-linked cells outside the hemisphere (context only; not the core of this scorecard).
 
+**Industrial base / shipbuilding (Finland Model)**  
+Presidential Memorandum on rebuilding the U.S. Navy and America’s shipbuilding industrial base (mid-August 2026) expands the “Finland Model” from the U.S.–Finland icebreaker MOU. Foreign allied yards may build initial hulls for speed; follow-on vessels shift to U.S. yards under domestic investment, equity or new-yard conditions, and tech transfer. Dual-use: hemisphere and maritime security on one side; U.S. yard workforce and productive sovereignty on the other. Foreign initial builds are a bridge, not the end state. Texas is already pairing local programs to that national signal — TWC ASCEND with dedicated shipbuilding training dollars, DOL-registered shipfitter apprenticeships (Gulf Copper with Lamar State College Port Arthur and Galveston College), MARAD Small Shipyard Grants to Gulf Copper, Port Arthur, and Kemah yards, and major yard commitments including Port of Brownsville / Saronic Port Alpha. National signal without state/local citizen pipelines stays thin; that pairing is the local half of the loop.
+
 **What this is not**  
-A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement that clears space for productive capacity — if credit and industrial tools move with it.
+A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it.
 
 **Link to Issue 3**  
 Bessent’s framing — productive capacity as power, essentials of national supply — is the economic half of the same sovereignty logic. Security gains without directed capacity tools leave the loop incomplete; capacity rhetoric without hemisphere control leaves supply chains and finance exposed.
@@ -63,16 +66,16 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 ---
 
 ### 4. Hamiltonian Scorecard
-*(Living scorecard — refresh with each major signal)*
+*(Living scorecard — refresh with each major signal. Four dimensions.)*
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
 | Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure on networks and rails |
 | Precondition for productive credit | Supportive | Clearing cartel control of ports, corridors, and finance is necessary ground for capacity investment |
 | Innovation-over-arbitrage / repatriation | Neutral | Enforcement does not by itself shift labor or innovation models; that remains company and credit-policy work |
-| Two-way loop (security ↔ capacity tools) | Incomplete | Security side is active; pairing with operational directed-credit / industrial tools is still the Issue 3 test |
+| Two-way loop (security ↔ capacity tools) | Incomplete | Security side active; Finland Model + TX yard/workforce programs are early local pairing evidence; operational directed-credit (Issue 3) and broader state pipelines still the test |
 
-**Overall:** Strong positive on the security/sovereignty side of the loop. Supportive precondition for productive credit. The incomplete score is intentional: the economic tools (Warsh/Bessent regime, state industrial execution) must still show operational pairing, not only parallel language.
+**Overall:** Strong positive on the security/sovereignty side of the loop. Supportive precondition for productive credit. The incomplete score is intentional: the economic tools (Warsh/Bessent regime, state industrial and workforce execution) must still show operational pairing, not only parallel language.
 
 ---
 
@@ -85,10 +88,11 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 
 **For state and local leaders**  
 - States that pair enforcement cooperation, port and logistics integrity, and industrial/workforce strategy will capture more of the upside when credit and capacity tools mature.  
-- Economic-development programs that ignore hemisphere security conditions will underperform when shocks hit corridors and finance.
+- Economic-development programs that ignore hemisphere security conditions will underperform when shocks hit corridors and finance.  
+- Yard and maritime states: registered apprenticeships, dedicated training grants, and community-college pipelines so follow-on hulls after any foreign initial builds land on citizen high-skill seats.
 
 **Soft bridge**  
-National signal and company execution are the same logic at two scales. Free modules and 90-day outlines map the company side. Issue 3 tracks the credit/capacity half of the loop. The 90-Day Sovereign Capacity Sprint is for teams ready to run implementation with ownership and cadence.
+National signal and company execution are the same logic at two scales. Free modules and 90-day outlines map the company side. Module 5 (Workforce Strategy) treats high-skill American workers as the foundation of productive capacity, not a pure cost center — yard and maritime seats are a direct application. Issue 3 tracks the credit/capacity half of the loop. The 90-Day Sovereign Capacity Sprint is for teams ready to run implementation with ownership and cadence.
 
 ---
 
@@ -98,7 +102,9 @@ National signal and company execution are the same logic at two scales. Free mod
 1. Do new enforcement waves continue to land on territorial nodes (ports, fuel, border corridors) or shift mainly to episodic raids?  
 2. Is OFAC/AML pressure producing durable recovery of assets and disruption of laundering rails, or designation without sustained follow-through?  
 3. Where, if anywhere, are productive-credit or industrial-capacity tools being explicitly paired with hemisphere security gains (federal or state)?  
-4. Which U.S. states are treating logistics and energy-node integrity as part of sovereign capacity strategy rather than pure regulation?
+4. Which U.S. states are treating logistics and energy-node integrity as part of sovereign capacity strategy rather than pure regulation?  
+5. Which states beyond Texas are pairing federal shipbuilding / Finland Model signals with concrete citizen workforce and yard-capital programs?  
+6. Are follow-on hulls after the first foreign builds actually shifting to U.S. yards with documented domestic investment, or is the transfer clause weak in practice?
 
 ---
 
@@ -108,6 +114,7 @@ National signal and company execution are the same logic at two scales. Free mod
 - U.S. Southern Command / Joint Task Force Western Hemisphere and Americas Counter-Cartel Coalition public reporting (Aug 2026).  
 - DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions.  
 - Open reporting on Colombia inauguration and early captures; Chile organized-crime agenda; Haiti Varreux PNH presence; five-country Amazon operation.  
+- Presidential Memorandum on Navy / shipbuilding industrial base and Finland Model expansion (mid-August 2026); Texas Workforce Commission ASCEND; Gulf Copper / Lamar / Galveston apprenticeship reporting; MARAD Small Shipyard Grants 2026; Port of Brownsville / Saronic Port Alpha announcements.  
 - Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum; Issue 3 – Fed/Warsh/Bessent Directed Credit (all on source / digitalknowledge.net).  
 - Free modules & 90-day outlines: [digitalknowledge.net](https://digitalknowledge.net)
 
