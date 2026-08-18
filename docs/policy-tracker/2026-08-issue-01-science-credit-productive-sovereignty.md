@@ -16,6 +16,19 @@ Key points that matter for business leaders:
 - Restoring pure merit in research funding and rebuilding domestic translation of science into industry are now explicit national priorities.
 
 These themes are not isolated. They are beginning to shape the environment for credit and capital allocation.
+---
+
+### 1A. Update — National Security Science & Technology Strategy (NSSTS), Aug 2026
+
+The White House / OSTP released the **National Security Science and Technology Strategy (NSSTS)** on or about 17 August 2026 (Michael Kratsios / OSTP). It builds on *Science: A New Golden Age* and the 2025 National Security Strategy.
+
+**Four pillars (high level):** focus technology competition; build technological resilience; accelerate innovation; protect national security S&T.
+
+**Critical and emerging technology areas that matter for productive capacity:** advanced manufacturing and materials, AI and autonomy, nuclear energy, semiconductors and microelectronics, sensing and signature management, quantum information technologies (expanded list), space technologies.
+
+**Talent tension (American System filter):** NSSTS language on “attracting and retaining top-tier global talent in critical national security S&T fields” sits in tension with earlier NSS posture that unconstrained global talent pipelines can undercut American workers. Compatible under this filter: genius-tier and critical-field retention where U.S. capability is genuinely thin. Not compatible: short-cycle temporary or visa labor as permanent capacity design for core seats. Soft bridge → Module 5 (Workforce Strategy) and this issue’s sovereign-workforce scorecard line.
+
+**Scorecard implication:** Watch whether implementation pairs directed R&D with citizen high-skill pipelines, not pure import of seats. Productive capacity + sovereign workforce remain the reading standard.
 
 ---
 
@@ -24,6 +37,8 @@ These themes are not isolated. They are beginning to shape the environment for c
   → [Read Issue 2](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
 - Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit)  
   → [Read Issue 3](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)
+- Issue 4 – Hemisphere Enforcement + American System Feedback Loop  
+  → [Read Issue 4](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)
 
 ---
 
@@ -78,10 +93,11 @@ Future Policy Tracker issues will continue to reference the matching webinar mod
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
-| Science & technology oriented to national productive capacity | Positive / directional | Kratsios frame: sovereign capability over pure prestige R&D |
-| Sovereign American workforce (citizens + genius-level only where needed) | Directional | National talent emphasis; temp-labor arbitrage is not the model |
+| Science & technology oriented to national productive capacity | Positive / directional | Kratsios + NSSTS: sovereign capability over pure prestige R&D; CET list includes manufacturing, nuclear, quantum, semiconductors |
+| Sovereign American workforce (citizens + genius-level only where needed) | Directional — tension | National talent emphasis; NSSTS “global talent” line must not become permanent temp/visa design for core seats |
 | Break with financialization-first innovation story | Directional | Innovation as capacity and cost-reducer, not asset narrative alone |
 | Pairing: science policy ↔ credit / industrial tools | Incomplete | Vision strong; operational directed-credit link still maturing (see Issue 3) |
+| Pairing: federal science signal ↔ state/local programs | Incomplete | Watch list item; local dollars and pipelines required (standard for all trackers) |
 
 Scores are directional, not grades. They update when evidence moves.
 
@@ -93,6 +109,8 @@ Scores are directional, not grades. They update when evidence moves.
 - Federal Reserve communications under Warsh-influenced direction regarding credit allocation and productive capacity
 - Implementation details following the Kratsios report (agency actions, funding priorities, research-security measures)
 - State-level responses that pair federal science and industrial signals with local workforce and manufacturing initiatives
+- NSSTS implementation: agency R&D priorities, research-security measures, and whether “global talent” language is operationalized as genius-tier only or as broad temporary pipelines
+- State/local programs that pair federal science and industrial signals with citizen workforce and manufacturing initiatives (local-pairing standard)
 
 ---
 
