@@ -6,6 +6,10 @@
 
 Chief of Staff execution that aligns companies and communities with the American System — sovereign domestic strength, merit-based opportunity, and high-performance results.
 
+Hamilton Economic Principles supercharged with the American System by Henry Clay; used by presidents Abraham Lincoln, William McKinley, Teddy Roosevelt, and now Donald Trump.
+
+Note: The American System is sometimes referred to as the [American School (economics)](https://grokipedia.com/page/American_School_(economics)); which is the antithesis to British classical liberalism, Rhodes Scholars, Chatham House, and/or British Imperial System.
+
 ---
 
 ### Why This Matters Now
