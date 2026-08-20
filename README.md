@@ -95,14 +95,25 @@ These outlines are the free starting point. Customized 90-day execution plans an
 
 ### Paid Implementation Support
 
-**90-Day Sovereign Capacity Sprint**  
-Facilitated execution of the free module outlines. Fixed-scope engagement that turns the free 90-day plans into a living operating rhythm for your team.  
+Three clear paths — free learning (above), low-touch self-serve execution, and high-touch facilitated engagement.
 
-Introductory range: $6,000 – $9,500  
+**Full ladder:** [Offers — Free → Low-touch → High-touch](docs/offers/Offers-Unified-Progression.md)
+
+#### Low-touch — BMC Module 1 Implementation Kit
+Self-serve 30-day operator path for Module 1: run-sheet, worksheet, and agentic walkthrough prompt as primary guidance. No human consulting on this SKU.
+
+Introductory **$159** · Standard $249  
+
+→ [Kit detail + purchase](docs/offers/BMC-Module1-Implementation-Kit.md)
+
+#### High-touch — 90-Day Sovereign Capacity Sprint
+Facilitated execution of the free module outlines. Fixed-scope engagement that turns the free 90-day plans into a living operating rhythm for your team.
+
+Introductory range: **$6,000 – $9,500**  
 
 → [View One-Pager (PDF)](docs/offers/90-Day-Sovereign-Capacity-Sprint.pdf)
 
-Custom workshops, 90-day execution plans, and Chief of Staff-style implementation support are available now.
+Custom workshops and Chief of Staff–style implementation support remain available on request (Fit conversation).
 
 ---
 
@@ -121,7 +132,9 @@ The goal is not more slides. The goal is clearer decisions and stronger executio
 
 **Free content** is available above.  
 
-**For tailored support** — 90-day execution plans, workshops, or ongoing Chief of Staff engagement — reach out directly:
+**Paid paths** — Module 1 Implementation Kit (low-touch) and 90-Day Sovereign Capacity Sprint (high-touch) — are under [Paid Implementation Support](#paid-implementation-support).
+
+**For a Fit conversation** or other tailored support, reach out directly:
 
 - **X**: [@7SwanSwimming](https://x.com/7SwanSwimming)
 - **Truth Social**: [@7SwanSwimming](https://truthsocial.com/@7SwanSwimming)
