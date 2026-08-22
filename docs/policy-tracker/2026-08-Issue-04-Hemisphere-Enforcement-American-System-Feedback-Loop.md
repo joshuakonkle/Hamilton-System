@@ -1,4 +1,4 @@
-# Policy Tracker Issue 4
+# American System Policy Tracker – Issue 4
 ## Hemisphere Enforcement + American System Feedback Loop
 ### Security Gains as Precondition for Productive Capacity
 

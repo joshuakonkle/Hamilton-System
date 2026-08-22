@@ -1,4 +1,4 @@
-# Policy Tracker Issue 3
+# American System Policy Tracker – Issue 3
 ## Reorienting the Federal Reserve to the American System
 ### Directed Credit for Productive Capacity
 
