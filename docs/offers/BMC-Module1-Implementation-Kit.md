@@ -3,7 +3,7 @@
 **Self-serve execution for the Hamiltonian Business Model Canvas**  
 Joshua Konkle · American System · Chief of Staff
 
-[← Back to free modules](https://digitalknowledge.net) · [90-Day Sprint](https://digitalknowledge.net/#paid-implementation-support)
+[← Back to free modules](https://digitalknowledge.net) · [90-Day Sprint](https://digitalknowledge.net/#implementation-support)
 
 ---
 
@@ -74,7 +74,7 @@ This purchase **does not include human consulting or support**.
 
 Guidance is limited to the included materials and the **Agentic Walkthrough Prompt** (the primary guidance mechanism in this kit).
 
-Human consulting and facilitated implementation are available only through the separate **[90-Day Sovereign Capacity Sprint](https://digitalknowledge.net/#paid-implementation-support)** or a Fit engagement.
+Human consulting and facilitated implementation are available only through the separate **[90-Day Sovereign Capacity Sprint](https://digitalknowledge.net/#implementation-support)** or a Fit engagement.
 
 ---
 

@@ -1,4 +1,4 @@
-**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#american-system-policy-trackers)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/public/about-the-team.md)**
+**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#american-system-policy-trackers)** · **[Implementation Support](#implementation-support)** · **[About the Team](docs/public/about-the-team.md)**
 
 # Hamiltonian System Local Revival
 
@@ -97,7 +97,7 @@ Same Hamiltonian filter applied to the Entrepreneurial Operating System (EOS): V
 Each module (BMC and EOS) includes a practical 90-day outline you can use immediately.  
 These outlines are the free starting point. Customized 90-day execution plans and ongoing Chief of Staff-style support are available on request.
 
-### Paid Implementation Support
+### Implementation Support
 
 Three clear paths — free learning (above), low-touch self-serve execution, and high-touch facilitated engagement.
 
@@ -136,7 +136,7 @@ The goal is not more slides. The goal is clearer decisions and stronger executio
 
 **Free content** is available above.  
 
-**Paid paths** — Module 1 Implementation Kit (low-touch) and 90-Day Sovereign Capacity Sprint (high-touch) — are under [Paid Implementation Support](#paid-implementation-support).
+**Paths** — Module 1 Implementation Kit (low-touch) and 90-Day Sovereign Capacity Sprint (high-touch) — are under [Implementation Support](#implementation-support).
 
 **For a Fit conversation** or other tailored support, reach out directly:
 
