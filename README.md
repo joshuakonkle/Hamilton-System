@@ -43,6 +43,9 @@ American System is the frame. Hamiltonian is the method: directed productive cre
 - Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit for Productive Capacity)  
   → [View Issue 3](docs/policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)
 
+- Issue 4 – Hemisphere Enforcement + American System Feedback Loop  
+  → [View Issue 4](docs/policy-tracker/2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)
+
 ### Webinar Modules – Business Model Canvas Series
 
 Train operators to design productive capacity under an American System filter — then act. Soft path: Free · Kit · Sprint.
