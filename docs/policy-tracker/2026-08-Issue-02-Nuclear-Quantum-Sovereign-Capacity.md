@@ -1,4 +1,4 @@
-# America First Policy Tracker – Issue 2
+# American System Policy Tracker – Issue 2
 **Nuclear + Quantum as Dual-Use Sovereign Capacity**  
 **State & Local Execution Pathways**  
 August 2026
