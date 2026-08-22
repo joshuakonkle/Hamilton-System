@@ -1,6 +1,6 @@
-# America First Policy Tracker
+# American System Policy Trackers
 
-Concise briefings that connect national policy signals (science, credit, workforce, industrial capacity, monetary regime) to practical business and local action.
+Concise briefings that connect national policy signals to practical business and local action under an American System frame.
 
 Issues are ordered chronologically. Each issue stands alone and cross-links to related issues and free modules.
 
