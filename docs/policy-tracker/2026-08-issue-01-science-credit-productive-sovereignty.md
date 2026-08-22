@@ -1,4 +1,4 @@
-# America First Policy Tracker – Issue 1
+# American System Policy Tracker – Issue 1
 **Science, Credit, and the Return of Productive Sovereignty**  
 **National signals → business and local execution**  
 August 2026
@@ -113,7 +113,7 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ### 7. Closing & Engagement
 
-This first issue of the America First Policy Tracker connects the new science strategy to the credit and capital environment now taking shape under Bessent and Warsh influence.
+This first issue of the American System Policy Tracker connects the new science strategy to the credit and capital environment now taking shape under Bessent and Warsh influence.
 
 If you would like support moving from these signals into a concrete 90-day operating plan, a deeper workshop, or ongoing Chief of Staff-style implementation help, reach out directly.
 
