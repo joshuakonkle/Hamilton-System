@@ -1,4 +1,4 @@
-**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#america-first-policy-tracker)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/public/about-the-team.md)**
+**[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#american-system-policy-trackers)** · **[Offerings](#paid-implementation-support)** · **[About the Team](docs/public/about-the-team.md)**
 
 # Hamiltonian System Local Revival
 
@@ -16,7 +16,7 @@ Note: The American System is sometimes referred to as the [American School (econ
 
 Most strategy and HR approaches still optimize for short-term cost and labor arbitrage.  
 
-The American System offers a different path: build real productive capacity, develop high-skill American talent, and direct capital and attention toward lasting national and local strength.
+The American System offers a different path: build real productive capacity, build high-skill American citizen capability, and direct capital and attention toward lasting national and local strength.
 
 This site is the free educational front door for that work.
 
@@ -28,9 +28,11 @@ This site is the free educational front door for that work.
 A practical reading guide to the key primary and secondary sources that define the Hamiltonian tradition.  
 → [Read the Baseline](docs/public/american-system-historical-baseline.md)
 
-### America First Policy Tracker
+### American System Policy Trackers
 
-Concise briefings that connect national policy signals to practical business and local action.
+Concise briefings that connect national policy signals to practical business and local action under an American System frame.
+
+American System is the frame. Hamiltonian is the method: directed productive credit and high-skill American citizen capability — not financialization.
 
 - Issue 1 – Science, Golden Age & Sovereign Capacity  
   → [View Issue 1](docs/policy-tracker/2026-08-issue-01-science-credit-productive-sovereignty.md)
@@ -43,7 +45,9 @@ Concise briefings that connect national policy signals to practical business and
 
 ### Webinar Modules – Business Model Canvas Series
 
-Five practical modules that re-orient familiar tools through a Hamiltonian lens: productive sovereignty, high-skill American capability, and innovation-driven strength.
+Train operators to design productive capacity under an American System filter — then act. Soft path: Free · Kit · Sprint.
+
+Five practical modules through a Hamiltonian lens: productive sovereignty, high-skill American citizen capability, and innovation-driven strength.
 
 1. **Business Model Canvas**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf)  

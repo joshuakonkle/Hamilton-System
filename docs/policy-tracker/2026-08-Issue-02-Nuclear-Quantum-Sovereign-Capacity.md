@@ -73,7 +73,9 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 
 5.3 Customized 90-day plans, facilitated diagnostics, and ongoing Chief of Staff-style implementation support remain available when organizations are ready to move faster.
 
-### Scorecard (living)
+### Issue 2 · Nuclear + Quantum Capacity — Scorecard
+
+American System frame: energy and advanced computation as dual-use productive capacity.
 
 *(Refresh when major nuclear, quantum, supply-chain, or state-execution signals move.)*
 
@@ -85,6 +87,8 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 | Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete | State funds/projects visible; federal credit tools still the Issue 3 test |
 
 Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
