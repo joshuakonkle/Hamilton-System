@@ -58,7 +58,10 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 ---
 
-### 4. Hamiltonian Scorecard
+### Issue 3 · Fed / Directed Credit — Scorecard
+
+American System frame: credit directed to real productive capacity, not financialization.
+
 *(EOS-aligned living scorecard — refresh with each major signal)*
 
 | Dimension | Current Reading | Notes |
@@ -69,6 +72,10 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 | Pairing of security / capacity tools | Developing | Clear on energy, supply chains, advanced manufacturing |
 
 **Overall:** Directional movement toward American System principles is visible and stronger on the Treasury side. The critical test is whether directed-credit and capacity tools become operational alongside monetary discipline.
+
+Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
