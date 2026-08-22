@@ -1,10 +1,10 @@
-**[Modules](/#webinar-modules--business-model-canvas-series)** · **[Trackers](/#america-first-policy-tracker)** · **[Offerings](/#paid-implementation-support)** · **[About the Team](/docs/public/about-the-team)**
+**[Modules](/#webinar-modules--business-model-canvas-series)** · **[Trackers](/#american-system-policy-trackers)** · **[Implementation Support](/#implementation-support)** · **[About the Team](/docs/public/about-the-team)**
 
 # American System Historical Baseline
 
 A practical reading and reference resource for understanding the Hamiltonian / American System through its key historical figures and original sources.
 
-This document underpins the five-module webinar series and the America First Policy Tracker. It is designed to help business leaders, local officials, and citizens build a clear mental model of productive sovereignty, directed credit for real production, innovation over labor arbitrage, and selective high-capability human capital.
+This document underpins the five-module webinar series and the American System Policy Trackers. It is designed to help business leaders, local officials, and citizens build a clear mental model of productive sovereignty, directed credit for real production, innovation over labor arbitrage, and selective high-capability human capital.
 
 ## Core Mental Model: Four Pillars
 
@@ -44,7 +44,7 @@ It was an instrument of **productive capacity and public credit**. A standing du
 - Alternate scan (National Bank report): [FRASER / St. Louis Fed](https://fraser.stlouisfed.org/title/report-secretary-treasury-alexander-hamilton-subject-a-national-bank-3677)
 
 **Bridge to current policy tracking:**  
-Issue 3 of the America First Policy Tracker scores the Warsh (Fed) and Bessent (Treasury) regime against this same Hamiltonian national-bank logic: whether credit and policy are being oriented toward productive capacity or remaining inside pure financialization. See [Issue 3 – Directed Credit for Productive Capacity](../policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md).
+Issue 3 of the American System Policy Trackers scores the Warsh (Fed) and Bessent (Treasury) regime against this same Hamiltonian national-bank logic: whether credit and policy are being oriented toward productive capacity or remaining inside pure financialization. See [Issue 3 – Directed Credit for Productive Capacity](../policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md).
 
 *Deeper primary-source notes can be expanded later or via community contribution on GitHub.*
 
