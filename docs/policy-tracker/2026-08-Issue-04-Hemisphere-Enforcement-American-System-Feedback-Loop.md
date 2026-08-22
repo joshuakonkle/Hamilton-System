@@ -65,7 +65,10 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 
 ---
 
-### 4. Hamiltonian Scorecard
+### Issue 4 · Hemisphere Feedback Loop — Scorecard
+
+American System frame: security gains paired with productive capacity and citizen capability.
+
 *(Living scorecard — refresh with each major signal. Four dimensions.)*
 
 | Dimension | Current Reading | Notes |
@@ -76,6 +79,10 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 | Two-way loop (security ↔ capacity tools) | Incomplete | Security side active; Finland Model + TX yard/workforce programs are early local pairing evidence; operational directed-credit (Issue 3) and broader state pipelines still the test |
 
 **Overall:** Strong positive on the security/sovereignty side of the loop. Supportive precondition for productive credit. The incomplete score is intentional: the economic tools (Warsh/Bessent regime, state industrial and workforce execution) must still show operational pairing, not only parallel language.
+
+Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
