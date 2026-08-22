@@ -82,7 +82,9 @@ This is not training for its own sake. It is practical execution support: taking
 
 Future Policy Tracker issues will continue to reference the matching webinar module as the series expands across additional strategy and operating frameworks.
 
-### Scorecard (living)
+### Issue 1 · Science & Sovereign Capacity — Scorecard
+
+American System frame: science and workforce as productive national capacity.
 
 *(Refresh when major science, credit, or workforce signals move. Four dimensions.)*
 
@@ -94,6 +96,8 @@ Future Policy Tracker issues will continue to reference the matching webinar mod
 | Pairing: science policy ↔ credit / industrial tools | Incomplete | Vision strong; operational directed-credit link still maturing (see Issue 3); state/local program pairing required |
 
 Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
