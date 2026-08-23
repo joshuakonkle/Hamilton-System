@@ -34,6 +34,10 @@ Concise briefings that connect national policy signals to practical business and
 
 American System is the frame. Hamiltonian is the method: directed productive credit and high-skill American citizen capability — not financialization.
 
+- **Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)** — *featured*  
+  Americans in critical seats. When we see policy pairing, we see execution.  
+  → [View Issue 5](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+
 - Issue 1 – Science, Golden Age & Sovereign Capacity  
   → [View Issue 1](docs/policy-tracker/2026-08-issue-01-science-credit-productive-sovereignty.md)
 
@@ -70,7 +74,8 @@ Five practical modules through a Hamiltonian lens: productive sovereignty, high-
 
 5. **Workforce Strategy**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf)  
-   → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+   → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*  
+   → Related policy: [Issue 5 – Sovereign Workforce](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 ### Webinar Modules – Entrepreneurial Operating System (EOS) Series
 
@@ -94,7 +99,8 @@ Same Hamiltonian filter applied to the Entrepreneurial Operating System (EOS): V
 
 5. **Workforce as Productive Capacity** (People)  
    → [Slide Deck (PDF)](docs/webinar-resources/Module5-EOS-American-System-People-Workforce.pdf)  
-   → [Companion Materials](docs/webinar-resources/Module5-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*
+   → [Companion Materials](docs/webinar-resources/Module5-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*  
+   → Related policy: [Issue 5 – Sovereign Workforce](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 **Free Starting Point – 90-Day Action Plan Outlines**  
 Each module (BMC and EOS) includes a practical 90-day outline you can use immediately.  
