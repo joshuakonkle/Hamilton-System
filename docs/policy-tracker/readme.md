@@ -14,6 +14,7 @@ Issues are ordered chronologically. Each issue stands alone and cross-links to r
 | 2 | Nuclear + Quantum as Dual-Use Sovereign Capacity | [2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md) |
 | 3 | Reorienting the Federal Reserve to the American System — Directed Credit for Productive Capacity | [2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md) |
 | 4 | Hemisphere Enforcement + American System Feedback Loop | [2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md) |
+| 5 | Sovereign Workforce under the American System — Citizen Capacity & Policy Pairing | [2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md) |
 
 ---
 
