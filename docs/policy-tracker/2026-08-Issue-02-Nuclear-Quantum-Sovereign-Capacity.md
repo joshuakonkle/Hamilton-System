@@ -1,7 +1,7 @@
 # American System Policy Tracker – Issue 2
 **Nuclear + Quantum as Dual-Use Sovereign Capacity**  
 **State & Local Execution Pathways**  
-August 2026
+August 2026 · *Updated 24 Aug 2026*
 
 This issue builds directly on Policy Tracker Issue 1 and the White House report *Science: A New Golden Age* by Michael Kratsios. That report framed energy abundance, advanced computation, and domestic scientific capacity as the foundation of national power. Here we translate those signals into practical state and local action.
 
@@ -26,6 +26,10 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 
 1.3 Treasury Secretary Scott Bessent has stated that “productive capacity is power” and that trade policy, industrial policy, and national security execution must fit together or each will fail separately. Federal Reserve Chair Kevin Warsh was selected in part to reverse the long period of balance-sheet expansion and financialization. His direction points toward returning the Federal Reserve closer to a Hamiltonian national-bank standard that supports productive credit rather than pure financial accommodation. A future Policy Tracker will examine this Fed reorientation in detail.
 
+1.4 **Fuel-cycle stress signal (August 2026).** Kazatomprom — Kazakhstan’s national uranium company and the world’s largest primary producer of uranium (the metal that becomes nuclear fuel after conversion and enrichment) — disclosed new major offtake agreements directing more material to Chinese and Russian buyers, while raising cost guidance and flagging a 6–12 month delay on a new sulphuric-acid plant needed for its in-situ leach mines. This is **not** a claim that Russia “owns” Kazakh production, and it is **not** proof of a deliberate cut-off aimed at U.S. quantum or nuclear programs. It **is** evidence that a large share of global primary supply is concentrating toward Eastern demand at the same time Western utilities still need long-term cover. Motive remains interpretive; the offtake tilt and cost floor are documented.
+
+**Still-live U.S. deployment cluster (select):** Centrus completed DOE demonstration HALEU production and signed a large DOE task order to build commercial-scale HALEU capacity at Piketon, Ohio (first new commercial capacity targeted around 2029; existing cascade moving toward commercial operation for near-term customers). X-energy and Centrus have a HALEU supply path tied to Xe-100 development. TVA Clinch River Unit 1 (BWRX-300) remains in active NRC licensing. Oklo’s first criticality under the DOE Reactor Pilot Program occurred in Texas. New York announced a milestone expanding its quantum communications network (Stony Brook–Brookhaven free-space link on a multi-site entanglement network). These are the domestic answers that make the foreign-supply stress actionable rather than merely alarming.
+
 ---
 
 ### 2. Hamiltonian Frame
@@ -34,7 +38,7 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 
 2.2 Nuclear energy and advanced computation are dual-use sovereignty technologies: tools that simultaneously strengthen commercial capacity and national security. The same pattern that once linked domestic manufacturing to national independence under Clay, Carey, Lincoln, and McKinley continued into the twentieth century. Even after the reintroduction of free-trade orthodoxy, the United States still relied on domestic industrial and technical capacity to prevail in two world wars. (See the sidebar in Section 6 for the longer historical thread that includes Tesla, John G. Trump, and the present day.)
 
-2.3 Secure domestic supply chains for nuclear fuel and specialized quantum components are not optional. Dependence on foreign enrichment, especially for HALEU, is a strategic vulnerability. Building American fuel fabrication, enrichment, and component capacity is industrial policy in the classic American System sense. That supply chain only works if it is staffed by a permanent American citizen workforce rather than temporary labor. High-skill roles in nuclear operations, systems integration, and continuous improvement require people who stay long enough to master the work and improve it. This is exactly the capability the free Workforce Strategy module is designed to help organizations build (see Section 5 for the direct link).
+2.3 Secure domestic supply chains for nuclear fuel and specialized quantum components are not optional. Dependence on foreign primary uranium and foreign enrichment — especially for HALEU — is a strategic vulnerability. Building American mining, conversion, enrichment, and component capacity is industrial policy in the classic American System sense. **The goal is widely understood; the hard work is the system that finds, funds, permits, and staffs that capacity.** That system only works if it is staffed by a permanent American citizen workforce rather than temporary labor. High-skill roles in nuclear operations, systems integration, and continuous improvement require people who stay long enough to master the work and improve it. This is exactly the capability the free Workforce Strategy module is designed to help organizations build (see Section 5 for the direct link).
 
 ---
 
@@ -53,12 +57,14 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 
 4.1 Economic-development and workforce boards should prioritize three concrete actions:  
 - Site readiness and permitting speed for advanced nuclear projects  
-- Domestic fuel and component supply-chain resilience (especially HALEU)  
+- Domestic fuel and component supply-chain resilience (mining, conversion, enrichment — especially HALEU)  
 - Deliberate pipelines that produce long-term American talent for nuclear and quantum-adjacent roles
 
 4.2 Productive finance is already appearing at the state level. Texas’s $350 million Advanced Nuclear Development Fund is structured as cost-reimbursement grants for both construction and supply-chain activity. Tennessee’s Nuclear Energy Fund has directed capital into workforce development, site infrastructure, and nuclear-related businesses. Several states are also using federal State Small Business Credit Initiative programs and industrial development boards to channel capital into advanced manufacturing. These are early but real examples of directing public and quasi-public capital toward productive capacity rather than pure financial returns.
 
 4.3 Near-term practical focus remains quantum sensing and secure communications with clear defense or critical-infrastructure demand (navigation without GPS, infrastructure monitoring, tamper-evident networks). Medium-term focus is SMR and microreactor deployment paired with manufacturing clusters that can absorb the high-skill workforce those projects create. Oak Ridge, Tennessee, and the growing Texas nuclear cluster are the clearest current examples of this pairing in practice.
+
+4.4 **Offset stack (what can actually reduce dependence on concentrated foreign primary supply).** U.S. uranium concentrate production has restarted at a small but real scale (Wyoming, Texas, Utah facilities producing in 2025–26). Canadian primary production (Cameco’s Saskatchewan operations) remains the largest Western-allied mine supply. U.S. enrichment is the strategic bottleneck being rebuilt: Centrus at Piketon for HALEU (and LEU expansion path) and Urenco USA in New Mexico for LEU. **Allied location is not the same as sovereign U.S. capacity.** Canadian and other Western-friendly pounds reduce Kazakhstan concentration risk; they do not replace the need for American mining, enrichment, and citizen pipelines. This section is structural guidance for boards and agencies — not securities advice.
 
 ---
 
@@ -77,14 +83,14 @@ This issue builds directly on Policy Tracker Issue 1 and the White House report 
 
 American System frame: energy and advanced computation as dual-use productive capacity.
 
-*(Refresh when major nuclear, quantum, supply-chain, or state-execution signals move.)*
+*(Refresh 24 Aug 2026 — KAP offtake/cost signal + NY quantum-comms + still-live HALEU/reactor cluster.)*
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
-| Nuclear treated as productive capacity (not only regulatory/environmental) | Positive / directional | State examples (e.g. TX, TN); dual-use sovereignty frame |
-| Quantum sensing / communications as industrial & defense capacity | Directional | Plain-English dual-use; not sci-fi |
-| Secure domestic supply chains (fuel, components, high-skill roles) | Directional | Workforce pipelines; permanent citizen capability preferred |
-| Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete | State funds/projects visible; federal credit tools still the Issue 3 test |
+| Nuclear treated as productive capacity (not only regulatory/environmental) | Positive / directional | State examples (TX, TN); DOE deployment path; dual-use sovereignty frame |
+| Quantum sensing / communications as industrial & defense capacity | Directional → stronger on state execution | NY quantum-comms network milestone (Aug 2026); plain-English dual-use |
+| Secure domestic supply chains (fuel, components, high-skill roles) | **Rising urgency** | Foreign primary offtake concentration (KAP→CN/RU); U.S. mining restart small but real; Centrus HALEU commercialization path multi-year |
+| Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete | State funds/projects visible; federal productive-credit tools still the Issue 3 test |
 
 Scores are directional, not grades. They update when evidence moves.
 

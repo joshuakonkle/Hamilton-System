@@ -2,7 +2,7 @@
 ## Hemisphere Enforcement + American System Feedback Loop
 ### Security Gains as Precondition for Productive Capacity
 
-**Date:** August 2026  
+**Date:** August 2026 · *Updated 24 Aug 2026*  
 **Status:** Issue 4
 
 ---
@@ -14,6 +14,8 @@ American System revival is not only credit, science, and industrial policy. It a
 When cartels and transnational organized crime control key nodes, productive investment is harder, supply chains stay insecure, and directed credit for real capacity has less ground to stand on. When states reassert territorial and financial control, the space for domestic productive strength expands.
 
 August 2026 produced a dense cluster of simultaneous enforcement actions across the Western Hemisphere and beyond: Colombia’s new administration leading with organized-crime enforcement and an early high-value capture; Chile tightening its organized-crime agenda; Haiti’s National Police planting a permanent presence at the Varreux fuel terminal; a five-country Amazon operation against environmental and trafficking crime; U.S. indictments, rewards, and designations against senior CJNG leadership; and parallel AML/sanctions pressure on financial channels.
+
+**Late-August add (20–24 Aug):** Treasury OFAC designated a major Ecuador-based cocaine network (15 targets, 10 fishing vessels blocked) tied to Los Choneros and Los Lobos with routes into Mexico via Sinaloa and CJNG corridors. U.S. Southern Command / Joint Task Force Western Hemisphere conducted a lethal kinetic strike in the Eastern Pacific against a low-profile vessel on narco-trafficking routes (announced 24 Aug; first known since 21 Jun 2026). These are **security and financial-friction** moves on the same Pacific corridor. They do **not**, by themselves, show co-announced productive-credit or industrial-capacity tools.
 
 This tracker does **not** claim a single coordinated global order change. It scores concrete enforcement data against a two-way feedback loop:
 
@@ -47,18 +49,19 @@ Simultaneous multi-country actions are evidence of rising enforcement pressure a
 - **Chile:** Tougher organized-crime agenda under President Kast in the same window.  
 - **Haiti:** National Police permanent base at Varreux fuel terminal (Cité Soleil) — the node gangs previously used to hold fuel supply and the wider economy.  
 - **Amazon five-country operation (Brazil, Colombia, Peru, Ecuador, Bolivia):** Coordinated environmental-crime and trafficking crackdown; arrests and seizures across shared corridors.  
-- **U.S. Southern Command / Joint Task Force Western Hemisphere:** Operational arm of a multi-nation counter-cartel coalition (partner count expanded through mid-August 2026, including Colombia as a further member).
+- **U.S. Southern Command / Joint Task Force Western Hemisphere:** Operational arm of a multi-nation counter-cartel coalition (partner count expanded through mid-August 2026, including Colombia as a further member). **23–24 Aug:** EPAC kinetic strike on a low-profile vessel on narco routes (security-only language in public reporting).
 
 **Financial / designation layer**  
 - U.S. DOJ indictments and large reward packages against senior CJNG leadership; ongoing FTO/SDGT pressure on designated networks.  
 - OFAC and related AML actions against cartel-linked finance, fuel-smuggling schemes, and laundering channels; record or near-record penalties in adjacent AML cases underscoring financial-rail pressure.  
+- **20 Aug 2026:** OFAC / Treasury — *Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels* — 15 Ecuador-based targets designated; 10 fishing vessels blocked (Manta / EPAC go-fast support) tied to Los Choneros and Los Lobos with cocaine routes into Mexico via Sinaloa and CJNG. Primary: [home.treasury.gov/news/press-releases/sb0610](https://home.treasury.gov/news/press-releases/sb0610).  
 - Parallel partner sanctions and joint European actions against CJNG-linked cells outside the hemisphere (context only; not the core of this scorecard).
 
 **Industrial base / shipbuilding (Finland Model)**  
 Presidential Memorandum on rebuilding the U.S. Navy and America’s shipbuilding industrial base (mid-August 2026) expands the “Finland Model” from the U.S.–Finland icebreaker MOU. Foreign allied yards may build initial hulls for speed; follow-on vessels shift to U.S. yards under domestic investment, equity or new-yard conditions, and tech transfer. Dual-use: hemisphere and maritime security on one side; U.S. yard workforce and productive sovereignty on the other. Foreign initial builds are a bridge, not the end state. Texas is already pairing local programs to that national signal — TWC ASCEND with dedicated shipbuilding training dollars, DOL-registered shipfitter apprenticeships (Gulf Copper with Lamar State College Port Arthur and Galveston College), MARAD Small Shipyard Grants to Gulf Copper, Port Arthur, and Kemah yards, and major yard commitments including Port of Brownsville / Saronic Port Alpha. National signal without state/local citizen pipelines stays thin; that pairing is the local half of the loop.
 
 **What this is not**  
-A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it.
+A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it. The late-August Ecuador OFAC + EPAC kinetic pair is **same-corridor pressure**, not a new simultaneous Colombia+Chile+Haiti+Amazon package, and it carries **no co-announced productive-credit tool** in the primary documents reviewed.
 
 **Link to Issue 3**  
 Bessent’s framing — productive capacity as power, essentials of national supply — is the economic half of the same sovereignty logic. Security gains without directed capacity tools leave the loop incomplete; capacity rhetoric without hemisphere control leaves supply chains and finance exposed.
@@ -69,14 +72,14 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 
 American System frame: security gains paired with productive capacity and citizen capability.
 
-*(Living scorecard — refresh with each major signal. Four dimensions.)*
+*(Living scorecard — refreshed 24 Aug 2026 with OFAC Ecuador + SOUTHCOM EPAC kinetic.)*
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
-| Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure on networks and rails |
+| Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure; Aug 20 OFAC Ecuador + Aug 23–24 EPAC kinetic |
 | Precondition for productive credit | Supportive | Clearing cartel control of ports, corridors, and finance is necessary ground for capacity investment |
 | Innovation-over-arbitrage / repatriation | Neutral | Enforcement does not by itself shift labor or innovation models; that remains company and credit-policy work |
-| Two-way loop (security ↔ capacity tools) | Incomplete | Security side active; Finland Model + TX yard/workforce programs are early local pairing evidence; operational directed-credit (Issue 3) and broader state pipelines still the test |
+| Two-way loop (security ↔ capacity tools) | **Incomplete** | Security side active this window; productive-credit pairing **absent** in OFAC primary and quoted SOUTHCOM language; Finland Model + TX yard/workforce remain early local pairing evidence |
 
 **Overall:** Strong positive on the security/sovereignty side of the loop. Supportive precondition for productive credit. The incomplete score is intentional: the economic tools (Warsh/Bessent regime, state industrial and workforce execution) must still show operational pairing, not only parallel language.
 
@@ -118,8 +121,8 @@ National signal and company execution are the same logic at two scales. Free mod
 ### 7. Sources, Prior Trackers & Free Resources
 
 - Primary pattern source: @TheDebriefing17 thread and follow-ons (Aug 8–12, 2026) on simultaneous multi-country enforcement.  
-- U.S. Southern Command / Joint Task Force Western Hemisphere and Americas Counter-Cartel Coalition public reporting (Aug 2026).  
-- DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions.  
+- U.S. Southern Command / Joint Task Force Western Hemisphere and Americas Counter-Cartel Coalition public reporting (Aug 2026); EPAC kinetic reporting 23–24 Aug 2026.  
+- DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions; Treasury PR sb0610 (20 Aug 2026) Ecuador network.  
 - Open reporting on Colombia inauguration and early captures; Chile organized-crime agenda; Haiti Varreux PNH presence; five-country Amazon operation.  
 - Presidential Memorandum on Navy / shipbuilding industrial base and Finland Model expansion (mid-August 2026); Texas Workforce Commission ASCEND; Gulf Copper / Lamar / Galveston apprenticeship reporting; MARAD Small Shipyard Grants 2026; Port of Brownsville / Saronic Port Alpha announcements.  
 - Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum; Issue 3 – Fed/Warsh/Bessent Directed Credit (all on source / digitalknowledge.net).  
