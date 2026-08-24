@@ -1,13 +1,12 @@
 # American System Policy Tracker – Issue 3
-## Reorienting the Federal Reserve to the American System
-### Directed Credit for Productive Capacity
-
-**Date:** August 2026  
-**Status:** Issue 3
+**Reorienting the Federal Reserve to the American System**  
+**Directed Credit for Productive Capacity**  
+**National signals → business and local execution**  
+August 2026 · Issue 3
 
 ---
 
-### 1. Why This Matters Now
+### 1. Why this tracker exists
 
 Most modern central-bank practice treats credit as largely neutral and market-driven. The American System tradition does not. Hamilton’s national bank and Clay’s American System treated credit as a directed instrument for building real productive capacity — infrastructure, manufacturing, and internal improvements — rather than primarily inflating financial assets.
 
@@ -17,9 +16,19 @@ The practical question remains: are directed-credit and capacity tools being pai
 
 This tracker scores the emerging regime against Hamiltonian national-bank principles and surfaces execution implications for companies and state/local leaders.
 
+**Related Issues**  
+- Issue 1 – Science, Golden Age & Sovereign Capacity  
+  → [Read Issue 1](2026-08-issue-01-science-credit-productive-sovereignty.md)  
+- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
+  → [Read Issue 2](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
+- Issue 4 – Hemisphere Enforcement + American System Feedback Loop  
+  → [Read Issue 4](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)  
+- Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)  
+  → [Read Issue 5](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+
 ---
 
-### 2. Core Concepts (Plain English)
+### 2. Definitions (plain English)
 
 **Directed credit**  
 Credit intentionally steered toward real economic capacity (factories, energy systems, infrastructure, technical skill) rather than treated as a neutral flow that primarily bids up existing assets.
@@ -35,7 +44,7 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 ---
 
-### 3. Current Signals (Warsh / Bessent)
+### 3. Key policy and operational signals
 
 **Warsh (Federal Reserve)**  
 - Explicit supply-side framing; productivity growth strong; AI investment described as the striking feature of the current economy.  
@@ -58,7 +67,9 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 ---
 
-### Issue 3 · Fed / Directed Credit — Scorecard
+### 4. Scorecard
+
+**Issue 3 · Fed / Directed Credit — Scorecard**
 
 American System frame: credit directed to real productive capacity, not financialization.
 
@@ -75,11 +86,17 @@ American System frame: credit directed to real productive capacity, not financia
 
 Scores are directional, not grades. They update when evidence moves.
 
-Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
+---
+
+### 5. Hamiltonian / productive-sovereignty readout
+
+Hamilton’s national bank and Clay’s American System treated credit as a directed instrument for building real productive capacity — infrastructure, manufacturing, and internal improvements — rather than primarily inflating financial assets. The current Warsh–Bessent pairing is the nearest operational approximation to that national-bank direction in a generation: supply-side discipline, productive capacity as power, and explicit Hamiltonian language from Treasury.
+
+The open test is operational, not rhetorical. Language and task forces are necessary but not sufficient. Directed-credit and capacity tools must appear alongside monetary discipline for the regime to score complete under this filter.
 
 ---
 
-### 5. Execution Implications (Company & State/Local)
+### 6. Implications for business and local leaders (next 6–12 months)
 
 **For companies**  
 - Treat critical technical and production roles as capacity to be built, not seats to be filled at the lowest temporary cost.  
@@ -90,37 +107,45 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 - States that pair energy, advanced manufacturing, and technical workforce pipelines with the emerging credit regime will have a structural advantage.  
 - Policy that only regulates or only subsidizes without building actual capacity will lag.
 
-**Soft bridge**  
-The free 5-module series and 90-day outlines give leadership teams a practical starting map. The 90-Day Sovereign Capacity Sprint is the facilitated version for teams ready to lock ownership and cadence.
+---
+
+### 7. Execution bridge
+
+The free 5-module series and 90-day outlines give leadership teams a practical starting map. Soft bridge: Module 1 (Business Model Canvas) for Key Resources / Cost Structure under a productive-sovereignty filter; Module 5 (Workforce Strategy) for citizen-seat design. The **90-Day Sovereign Capacity Sprint** is the facilitated version for teams ready to lock ownership and cadence.
+
+Introductory range: $6,000 – $9,500  
+→ [View One-Pager](../offers/90-Day-Sovereign-Capacity-Sprint.pdf)  
+Free hub: [digitalknowledge.net](https://digitalknowledge.net)
 
 ---
 
-### 6. Open Questions
-*(Living — National Monitor answers/updates as signals arrive)*
+### 8. Out of scope (explicit)
 
+This tracker does not deliver monetary-policy prescriptions, securities advice, or a claim that the Fed has already completed a full regime change. It scores visible language, task forces, and Treasury pairing against Hamiltonian national-bank principles and points operators to free execution tools.
+
+**Open questions (living — National Monitor updates as signals arrive)**  
 1. Will Warsh-era Fed tools move beyond language and task forces into actual directed-credit or capacity-linked mechanisms?  
 2. How tightly will Treasury industrial policy coordinate with Fed balance-sheet actions?  
 3. Which states are already positioning industrial and energy capacity to absorb a more productive credit regime?
 
 ---
 
-### 7. Sources, Prior Trackers & Free Resources
+### 9. Signal sources (ongoing pulse)
 
 - Warsh July 2026 Semiannual Monetary Policy Report testimony (productive capacity task force; balance-sheet review).  
 - Bessent public remarks citing Hamilton on national supply and productive capacity as power.  
-- Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity (both on source.digitalknowledge.net).  
+- Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity.  
 - Free modules & 90-day outlines: [digitalknowledge.net](https://digitalknowledge.net)  
-- American System Historical Baseline: source.digitalknowledge.net
+- American System Historical Baseline on source / digitalknowledge.net
 
 ---
 
-### 90-Day Sovereign Capacity Sprint
-
-When the free outlines are not enough and a leadership team is ready to turn the map into a living operating rhythm with clear ownership and cadence, the **90-Day Sovereign Capacity Sprint** is the facilitated execution offer.
-
-Introductory range: $6,000 – $9,500  
-→ [View One-Pager](https://source.digitalknowledge.net/docs/offers/90-Day-Sovereign-Capacity-Sprint.pdf)
+**Joshua Konkle**  
+Chief of Staff Strategist  
+@7SwanSwimming on X.com  
+512-423-5448  
+joshua@digitalknowledge.net
 
 ---
 
-**Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.**
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.

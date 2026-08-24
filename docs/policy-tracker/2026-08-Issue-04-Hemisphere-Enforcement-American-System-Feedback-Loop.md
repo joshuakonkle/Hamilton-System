@@ -1,13 +1,12 @@
 # American System Policy Tracker – Issue 4
-## Hemisphere Enforcement + American System Feedback Loop
-### Security Gains as Precondition for Productive Capacity
-
-**Date:** August 2026 · *Updated 24 Aug 2026*  
-**Status:** Issue 4
+**Hemisphere Enforcement + American System Feedback Loop**  
+**Security Gains as Precondition for Productive Capacity**  
+**National signals → business and local execution**  
+August 2026 · *Updated 24 Aug 2026* · Issue 4
 
 ---
 
-### 1. Why This Matters Now
+### 1. Why this tracker exists
 
 American System revival is not only credit, science, and industrial policy. It also depends on whether the hemisphere is governed by states or by criminal networks that capture ports, fuel terminals, border corridors, and financial rails.
 
@@ -24,9 +23,19 @@ This tracker does **not** claim a single coordinated global order change. It sco
 
 National Monitor holds the living signal log. Eternal War holds the longer pattern frame. This issue is the operational scorecard for companies and state/local leaders.
 
+**Related Issues**  
+- Issue 1 – Science, Golden Age & Sovereign Capacity  
+  → [Read Issue 1](2026-08-issue-01-science-credit-productive-sovereignty.md)  
+- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
+  → [Read Issue 2](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
+- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit)  
+  → [Read Issue 3](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)  
+- Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)  
+  → [Read Issue 5](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+
 ---
 
-### 2. Core Concepts (Plain English)
+### 2. Definitions (plain English)
 
 **Hemisphere enforcement**  
 Actions by the United States and partner governments that reclaim territorial control, disrupt cartel command and logistics, and squeeze illicit finance — ports, corridors, fuel nodes, and money rails included.
@@ -42,7 +51,7 @@ Simultaneous multi-country actions are evidence of rising enforcement pressure a
 
 ---
 
-### 3. Current Signals (Inventory Snapshot)
+### 3. Key policy and operational signals
 
 **Territorial / multi-country**  
 - **Colombia:** New president Abelardo De La Espriella inaugurated with organized-crime enforcement and fiscal discipline as opening priorities; early capture of a senior Comandos de Frontera figure on southern trafficking corridors; Colombia joining the Americas Counter-Cartel Coalition and requesting deeper U.S. operational partnership.  
@@ -68,7 +77,9 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 
 ---
 
-### Issue 4 · Hemisphere Feedback Loop — Scorecard
+### 4. Scorecard
+
+**Issue 4 · Hemisphere Feedback Loop — Scorecard**
 
 American System frame: security gains paired with productive capacity and citizen capability.
 
@@ -85,11 +96,15 @@ American System frame: security gains paired with productive capacity and citize
 
 Scores are directional, not grades. They update when evidence moves.
 
-Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
+---
+
+### 5. Hamiltonian / productive-sovereignty readout
+
+Productive sovereignty needs both secure ground and directed capacity tools. Hemisphere enforcement that reclaims ports, corridors, fuel nodes, and financial rails is a precondition for durable domestic productive investment. American System economic tools (directed credit, industrial capacity, sovereign workforce) make sustained hemisphere focus possible; security gains expand the space in which those tools can compound. Scoring only one side of the loop is incomplete by design under this filter.
 
 ---
 
-### 5. Execution Implications (Company & State/Local)
+### 6. Implications for business and local leaders (next 6–12 months)
 
 **For companies**  
 - Treat secure supply chains and controlled critical nodes as part of productive capacity, not only a compliance cost.  
@@ -101,14 +116,23 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 - Economic-development programs that ignore hemisphere security conditions will underperform when shocks hit corridors and finance.  
 - Yard and maritime states: registered apprenticeships, dedicated training grants, and community-college pipelines so follow-on hulls after any foreign initial builds land on citizen high-skill seats.
 
-**Soft bridge**  
-National signal and company execution are the same logic at two scales. Free modules and 90-day outlines map the company side. Module 5 (Workforce Strategy) treats high-skill American workers as the foundation of productive capacity, not a pure cost center — yard and maritime seats are a direct application. Issue 3 tracks the credit/capacity half of the loop. The 90-Day Sovereign Capacity Sprint is for teams ready to run implementation with ownership and cadence.
+---
+
+### 7. Execution bridge
+
+National signal and company execution are the same logic at two scales. Free modules and 90-day outlines map the company side. Module 5 (Workforce Strategy) treats high-skill American workers as the foundation of productive capacity, not a pure cost center — yard and maritime seats are a direct application. Issue 3 tracks the credit/capacity half of the loop. The **90-Day Sovereign Capacity Sprint** is for teams ready to run implementation with ownership and cadence.
+
+Introductory range: $6,000 – $9,500  
+→ [View One-Pager](../offers/90-Day-Sovereign-Capacity-Sprint.pdf)  
+Free hub: [digitalknowledge.net](https://digitalknowledge.net)
 
 ---
 
-### 6. Open Questions
-*(Living — National Monitor updates as signals arrive)*
+### 8. Out of scope (explicit)
 
+This tracker does not claim a single coordinated global order change, permanent victory over illicit networks, or co-announced productive-credit tools where primary documents do not show them. Late-August OFAC Ecuador + EPAC kinetic are scored as security and financial-friction moves on the same corridor — not as proof that the economic half of the loop has closed.
+
+**Open questions (living — National Monitor updates as signals arrive)**  
 1. Do new enforcement waves continue to land on territorial nodes (ports, fuel, border corridors) or shift mainly to episodic raids?  
 2. Is OFAC/AML pressure producing durable recovery of assets and disruption of laundering rails, or designation without sustained follow-through?  
 3. Where, if anywhere, are productive-credit or industrial-capacity tools being explicitly paired with hemisphere security gains (federal or state)?  
@@ -118,25 +142,24 @@ National signal and company execution are the same logic at two scales. Free mod
 
 ---
 
-### 7. Sources, Prior Trackers & Free Resources
+### 9. Signal sources (ongoing pulse)
 
 - Primary pattern source: @TheDebriefing17 thread and follow-ons (Aug 8–12, 2026) on simultaneous multi-country enforcement.  
 - U.S. Southern Command / Joint Task Force Western Hemisphere and Americas Counter-Cartel Coalition public reporting (Aug 2026); EPAC kinetic reporting 23–24 Aug 2026.  
 - DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions; Treasury PR sb0610 (20 Aug 2026) Ecuador network.  
 - Open reporting on Colombia inauguration and early captures; Chile organized-crime agenda; Haiti Varreux PNH presence; five-country Amazon operation.  
 - Presidential Memorandum on Navy / shipbuilding industrial base and Finland Model expansion (mid-August 2026); Texas Workforce Commission ASCEND; Gulf Copper / Lamar / Galveston apprenticeship reporting; MARAD Small Shipyard Grants 2026; Port of Brownsville / Saronic Port Alpha announcements.  
-- Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum; Issue 3 – Fed/Warsh/Bessent Directed Credit (all on source / digitalknowledge.net).  
+- Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum; Issue 3 – Fed/Warsh/Bessent Directed Credit.  
 - Free modules & 90-day outlines: [digitalknowledge.net](https://digitalknowledge.net)
 
 ---
 
-### 90-Day Sovereign Capacity Sprint
-
-When the free outlines are not enough and a leadership team is ready to turn the map into a living operating rhythm with clear ownership and cadence, the **90-Day Sovereign Capacity Sprint** is the facilitated execution offer.
-
-Introductory range: $6,000 – $9,500  
-→ [View One-Pager](https://source.digitalknowledge.net/docs/offers/90-Day-Sovereign-Capacity-Sprint.pdf)
+**Joshua Konkle**  
+Chief of Staff Strategist  
+@7SwanSwimming on X.com  
+512-423-5448  
+joshua@digitalknowledge.net
 
 ---
 
-**Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.**
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
