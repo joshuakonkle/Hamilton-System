@@ -112,12 +112,18 @@ Three clear paths — free learning (above), low-touch self-serve execution, and
 
 **Full ladder:** [Offers — Free → Low-touch → High-touch](docs/offers/Offers-Unified-Progression.md)
 
-#### Low-touch — BMC Module 1 Implementation Kit
-Self-serve 30-day operator path for Module 1: run-sheet, worksheet, and agentic walkthrough prompt as primary guidance. No human consulting on this SKU.
+#### Low-touch — BMC Module Implementation Kits
+Self-serve 30-day operator path for each module: run-sheet, worksheet, and agentic walkthrough prompt as primary guidance. No human consulting on these SKUs.
 
-Introductory **$159** · Standard $249  
+Introductory **$159** · Standard $249
 
-→ [Kit detail + purchase](docs/offers/BMC-Module1-Implementation-Kit.md)
+| Module | Focus | Buy |
+|--------|-------|-----|
+| 1 – Business Model Canvas | Capacity redesign under productive-sovereignty filter | [Buy M1](https://buy.stripe.com/00wfZh7iP9o38Ep2jy83C00) · [Detail](docs/offers/BMC-Module1-Implementation-Kit.md) |
+| 2 – OKRs | Objectives & key results that compound capacity | [Buy M2](https://buy.stripe.com/fZufZhfPl0RxaMxf6k83C01) · [Detail](docs/offers/BMC-Module2-Implementation-Kit.md) |
+| 3 – Operating Model | How the work actually runs under the filter | [Buy M3](https://buy.stripe.com/4gM28reLh8jZ8Epgao83C02) · [Detail](docs/offers/BMC-Module3-Implementation-Kit.md) |
+| 4 – Value Streams / Lean | Flow and waste under productive strength | [Buy M4](https://buy.stripe.com/fZu28r8mTbwb2g13nC83C03) · [Detail](docs/offers/BMC-Module4-Implementation-Kit.md) |
+| 5 – Workforce Strategy | Critical seats & citizen capacity | [Buy M5](https://buy.stripe.com/bJe7sLcD9dEjdYJ3nC83C04) · [Detail](docs/offers/BMC-Module5-Implementation-Kit.md) |
 
 #### High-touch — 90-Day Sovereign Capacity Sprint
 Facilitated execution of the free module outlines. Fixed-scope engagement that turns the free 90-day plans into a living operating rhythm for your team.
@@ -145,7 +151,7 @@ The goal is not more slides. The goal is clearer decisions and stronger executio
 
 **Free content** is available above.  
 
-**Paths** — Module 1 Implementation Kit (low-touch) and 90-Day Sovereign Capacity Sprint (high-touch) — are under [Implementation Support](#implementation-support).
+**Paths** — BMC Module Implementation Kits (low-touch, M1–M5) and 90-Day Sovereign Capacity Sprint (high-touch) — are under [Implementation Support](#implementation-support).
 
 **For a Fit conversation** or other tailored support, reach out directly:
 

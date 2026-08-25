@@ -25,27 +25,35 @@ No payment. No human support obligation on our side.
 
 ---
 
-## 2. Low-touch paid — Self-serve execution (Module 1 Kit)
+## 2. Low-touch paid — Self-serve execution (BMC Module Implementation Kits)
 
 **What it is**  
-BMC Module 1 Implementation Kit: packaged 30-day operator path with run-sheet, worksheet, and **agentic walkthrough prompt** as primary guidance.
+BMC Module Implementation Kits (M1–M5): packaged 30-day operator paths with run-sheet, worksheet, and **agentic walkthrough prompt** as primary guidance.
 
 **Who it is for**  
-Operators who want a clear self-serve execution sequence for Module 1 without booking a human engagement.
+Operators who want a clear self-serve execution sequence for a specific module without booking a human engagement.
 
 **What you get**  
 - Module PDF · Operator Run-Sheet · Two-Block Worksheet  
 - Agentic Walkthrough Prompt (load into your AI assistant; run Day 1–7)  
 - START_HERE + full license terms  
-- No human consulting on this SKU
+- No human consulting on these SKUs
 
 **Price**  
-Introductory **$159** · Standard $249
+Introductory **$159** · Standard $249 (each kit)
 
-**Detail + buy:** [BMC Module 1 Implementation Kit](./BMC-Module1-Implementation-Kit.md)
+**Detail + buy**
+
+| Module | Focus | Detail | Buy |
+|--------|-------|--------|-----|
+| 1 – Business Model Canvas | Capacity redesign under productive-sovereignty filter | [Detail](./BMC-Module1-Implementation-Kit.md) | [Buy M1](https://buy.stripe.com/00wfZh7iP9o38Ep2jy83C00) |
+| 2 – OKRs | Objectives & key results that compound capacity | [Detail](./BMC-Module2-Implementation-Kit.md) | [Buy M2](https://buy.stripe.com/fZufZhfPl0RxaMxf6k83C01) |
+| 3 – Operating Model | How the work actually runs under the filter | [Detail](./BMC-Module3-Implementation-Kit.md) | [Buy M3](https://buy.stripe.com/4gM28reLh8jZ8Epgao83C02) |
+| 4 – Value Streams / Lean | Flow and waste under productive strength | [Detail](./BMC-Module4-Implementation-Kit.md) | [Buy M4](https://buy.stripe.com/fZu28r8mTbwb2g13nC83C03) |
+| 5 – Workforce Strategy | Critical seats & citizen capacity | [Detail](./BMC-Module5-Implementation-Kit.md) | [Buy M5](https://buy.stripe.com/bJe7sLcD9dEjdYJ3nC83C04) |
 
 **Boundary**  
-Self-serve Module 1 only. Residual need (multi-module integration, custom metrics, facilitated ownership) → Sprint or Fit.
+Self-serve, one module per kit. Residual need (multi-module integration, custom metrics, facilitated ownership) → Sprint or Fit.
 
 ---
 
@@ -68,7 +76,7 @@ Introductory range **$6,000 – $9,500**
 **Detail:** [90-Day Sovereign Capacity Sprint one-pager (PDF)](./90-Day-Sovereign-Capacity-Sprint.pdf)
 
 **Boundary**  
-Facilitated work is a separate purchase from the Module 1 Kit. Kit buyers who need facilitation move here; they are not entitled to Sprint hours from the kit SKU.
+Facilitated work is a separate purchase from the Module Kits. Kit buyers who need facilitation move here; they are not entitled to Sprint hours from a kit SKU.
 
 ---
 
@@ -77,7 +85,7 @@ Facilitated work is a separate purchase from the Module 1 Kit. Kit buyers who ne
 | Path | Touch | Primary guidance | Human facilitation |
 |------|--------|------------------|--------------------|
 | Free modules + trackers | None | Self + published materials | No |
-| Module 1 Implementation Kit | Low | Agentic prompt + run-sheet | No |
+| BMC Module Implementation Kits (M1–M5) | Low | Agentic prompt + run-sheet | No |
 | 90-Day Sovereign Capacity Sprint | High | Facilitated + materials | Yes |
 
 ---
