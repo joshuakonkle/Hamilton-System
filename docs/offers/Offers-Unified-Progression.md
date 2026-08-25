@@ -9,7 +9,7 @@ How operators and leadership teams progress from learning the filter to executin
 ## 1. Free path — Learn and diagnose
 
 **What it is**  
-The five-module Hamiltonian Business Model Canvas series (and EOS series), companion materials, and America First policy trackers.
+The five-module Hamiltonian Business Model Canvas series (and EOS series), companion materials, and American System Policy Trackers.
 
 **Who it is for**  
 Operators and leaders who want the productive-sovereignty filter without a purchase.
