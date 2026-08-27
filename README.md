@@ -38,6 +38,10 @@ American System is the frame. Hamiltonian is the method: directed productive cre
   Americans in critical seats. When we see policy pairing, we see execution.  
   → [View Issue 5](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
+- **Issue 6 – American System Investment Builder**  
+  Productive-capacity screen vs a paper index. Education only — not advice.  
+  → [View Issue 6](docs/policy-tracker/2026-08-Issue-06-American-System-Investment-Builder.md) · [Screen](https://investments.digitalknowledge.net)
+
 - Issue 1 – Science, Golden Age & Sovereign Capacity  
   → [View Issue 1](docs/policy-tracker/2026-08-issue-01-science-credit-productive-sovereignty.md)
 
@@ -104,7 +108,7 @@ Same Hamiltonian filter applied to the Entrepreneurial Operating System (EOS): V
 
 **Free Starting Point – 90-Day Action Plan Outlines**  
 Each module (BMC and EOS) includes a practical 90-day outline you can use immediately.  
-These outlines are the free starting point. Customized 90-day execution plans and ongoing Chief of Staff-style support are available on request.
+These outlines are the free starting point. Customized 90-day execution plans and ongoing Chief of Staff-style implementation support are available on request.
 
 ### Implementation Support
 
