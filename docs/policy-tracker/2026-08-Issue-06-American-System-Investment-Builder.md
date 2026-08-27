@@ -30,7 +30,7 @@ Screen surface: [investments.digitalknowledge.net](https://investments.digitalkn
 ### 2. Definitions (plain English)
 
 - **Screen** — a list of issuers that pass a written filter. Not a fund. Not a recommendation. Primary and secondary filters below are how a name *gets on the list*. They are not the same as the chips on the investments table.
-- **Paper sleeve** — a $10,000 equal-weight *illustration* vs SPYM (the same core holding used in the Trump Account default). Numbers compare *ideas*. They are not an instruction to purchase. Live weights and the name list live at [investments.digitalknowledge.net](https://investments.digitalknowledge.net).
+- **Paper sleeve** — a $10,000 equal-weight *illustration* vs SPYM (the same core holding used in the Trump Account default), started **29 July 2026**. Numbers compare *ideas*. They are not an instruction to purchase. Live weights, the name list, and the returns snapshot live at [investments.digitalknowledge.net](https://investments.digitalknowledge.net).
 - **SPYM** — a broad U.S. equity market fund used here only as the benchmark line. We do not treat SPY and SPYM as interchangeable on this page.
 - **Green** — on the list **and** in the paper sleeve.
 - **Green+Watch** — still Green (in the paper sleeve), but **floor labor** is still **unobserved**. Floor labor is defined below: plant, mill, yard, and contractor seats that do not show up in H-1B / H-2B filing sets. Unobserved does not mean clean. It means we do not have a public count.
@@ -69,11 +69,11 @@ Screen surface: [investments.digitalknowledge.net](https://investments.digitalkn
 | Dimension | Current reading | Incomplete looks like |
 |-----------|-----------------|------------------------|
 | Screen integrity | Rising — two gates, closed lists, Watch notes required on every Red | Mood tickers; Red rows with no Watch note; dropping columns instead of encoding Notes |
-| Paper sleeve vs SPYM | Incomplete — equal-weight paper illustration locked; return line not yet published | Publishing prices as advice; mixing SPY and SPYM; putting Red names in the $10,000 |
+| Paper sleeve vs SPYM | Rising — paper $10,000 equal-weight from 29 July 2026; first print lives on the investments screen | Publishing prices as advice; mixing SPY and SPYM; putting Red names in the $10,000 |
 | Visa stack (observed) | Rising — Reds rest on counted H-1B Labor Condition Applications and Global Capability Centers; H-2B Unconfirmed where no petition found | Treating Unconfirmed as zero; H-1B-only filter |
 | Floor labor | Incomplete — Unobserved on every row; STLD is Green+Watch because scrap and contractor seats are the plausible dark path | Inventing mill-floor headcount; flipping Red on suspicion |
 
-The paper sleeve, name list, Watch notes, and filter chips live at [investments.digitalknowledge.net](https://investments.digitalknowledge.net). On apex this block is the embedded app. On source it is that link.
+The paper sleeve, name list, Watch notes, returns snapshot, and filter chips live at [investments.digitalknowledge.net](https://investments.digitalknowledge.net). On apex this block is the embedded app. On source it is that link.
 
 ---
 
@@ -112,7 +112,7 @@ This tracker does not sell stock picks. It sells the same operating system the m
 - Personal Investment Framework rules, tax lots, and coach Class A/B levels.
 - Copy-trade, white-label partners, or “prove the sleeve.”
 - Treating Unobserved floor labor as a headcount.
-- Claiming the paper sleeve beats SPYM until a dated return line is published.
+- Treating a snapshot print as a forecast that the sleeve will keep beating SPYM.
 
 ---
 
