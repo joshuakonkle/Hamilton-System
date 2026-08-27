@@ -23,7 +23,7 @@ Agents handle volume and iteration. The human operator retains authority over di
 ### The Team
 
 **National Monitor**  
-Tracks Trump administration and America First policy signals and translates them into practical implications for state, local, and business action. Monitors monetary and credit policy developments (including Warsh / Bessent directional moves) and productive-capacity themes.
+Tracks Trump administration and American System policy signals and translates them into practical implications for state, local, and business action. Monitors monetary and credit policy developments (including Warsh / Bessent directional moves) and productive-capacity themes.
 
 **Content Creator & Evangelist**  
 Produces educational modules, short-form posts, policy extracts, and promotional packages. Owns the public voice and the conversion of longer material into clear, shareable content.
