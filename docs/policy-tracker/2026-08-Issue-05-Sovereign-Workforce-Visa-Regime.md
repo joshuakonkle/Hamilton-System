@@ -20,6 +20,7 @@ Related issues:
 - [Issue 1 – Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md) (NSSTS “global talent” tension)
 - [Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md) (skilled seats as capital-complement)
 - [Issue 4 – Hemisphere Enforcement + American System Feedback Loop](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md) (security as precondition for productive compounding)
+- [Issue 6 – American System Investment Builder](2026-08-Issue-06-American-System-Investment-Builder.md) (visa stack on a ticker; paper sleeve vs SPYM)
 
 ---
 
