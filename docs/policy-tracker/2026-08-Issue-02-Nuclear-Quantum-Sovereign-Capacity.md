@@ -1,9 +1,8 @@
-# American System Policy Tracker – Issue 2
-**Nuclear + Quantum as Dual-Use Sovereign Capacity**  
+# Nuclear + Quantum as Dual-Use Sovereign Capacity
 **State & Local Execution Pathways**  
 August 2026 · *Updated 24 Aug 2026*
 
-This issue builds directly on Policy Tracker Issue 1 and the White House report *Science: A New Golden Age* by Michael Kratsios. That report framed energy abundance, advanced computation, and domestic scientific capacity as the foundation of national power. Here we translate those signals into practical state and local action.
+This tracker builds directly on Science, Golden Age & Sovereign Capacity and the White House report *Science: A New Golden Age* by Michael Kratsios. That report framed energy abundance, advanced computation, and domestic scientific capacity as the foundation of national power. Here we translate those signals into practical state and local action.
 
 ---
 
@@ -13,15 +12,11 @@ Energy abundance and advanced computation are not niche tech topics. Under the A
 
 This tracker scores nuclear and quantum signals as productive capacity — not only as regulatory or environmental files — and surfaces state/local execution pathways, including workforce and productive-finance pairing.
 
-**Related Issues**  
-- Issue 1 – Science, Golden Age & Sovereign Capacity  
-  → [Read Issue 1](2026-08-issue-01-science-credit-productive-sovereignty.md)  
-- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit)  
-  → [Read Issue 3](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)  
-- Issue 4 – Hemisphere Enforcement + American System Feedback Loop  
-  → [Read Issue 4](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)  
-- Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)  
-  → [Read Issue 5](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+**Related trackers**  
+- [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md)  
+- [Reorienting the Federal Reserve to the American System](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)  
+- [Hemisphere Enforcement + American System Feedback Loop](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)  
+- [Sovereign Workforce under the American System](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 ---
 
@@ -42,7 +37,7 @@ This tracker scores nuclear and quantum signals as productive capacity — not o
 
 **Quantum sensing and secure communications.** The Department of Defense and intelligence community already fund programs that apply quantum sensors for navigation in GPS-denied environments and for monitoring critical infrastructure. Large-scale fault-tolerant quantum computing remains further out. Near-term industrial and security value sits in sensing, timing, and secure networking.
 
-**Bessent / Warsh productive-capacity language.** Treasury Secretary Scott Bessent has stated that “productive capacity is power” and that trade policy, industrial policy, and national security execution must fit together or each will fail separately. Federal Reserve Chair Kevin Warsh was selected in part to reverse the long period of balance-sheet expansion and financialization. His direction points toward returning the Federal Reserve closer to a Hamiltonian national-bank standard that supports productive credit rather than pure financial accommodation. A dedicated Policy Tracker (Issue 3) examines this Fed reorientation in detail.
+**Bessent / Warsh productive-capacity language.** Treasury Secretary Scott Bessent has stated that “productive capacity is power” and that trade policy, industrial policy, and national security execution must fit together or each will fail separately. Federal Reserve Chair Kevin Warsh was selected in part to reverse the long period of balance-sheet expansion and financialization. His direction points toward returning the Federal Reserve closer to a Hamiltonian national-bank standard that supports productive credit rather than pure financial accommodation. A dedicated tracker examines this Fed reorientation in detail.
 
 **Fuel-cycle stress signal (August 2026).** Kazatomprom — Kazakhstan’s national uranium company and the world’s largest primary producer of uranium — disclosed new major offtake agreements directing more material to Chinese and Russian buyers, while raising cost guidance and flagging a 6–12 month delay on a new sulphuric-acid plant needed for its in-situ leach mines. This is **not** a claim that Russia “owns” Kazakh production, and it is **not** proof of a deliberate cut-off aimed at U.S. quantum or nuclear programs. It **is** evidence that a large share of global primary supply is concentrating toward Eastern demand at the same time Western utilities still need long-term cover. Motive remains interpretive; the offtake tilt and cost floor are documented.
 
@@ -54,7 +49,14 @@ This tracker scores nuclear and quantum signals as productive capacity — not o
 
 ### 4. Scorecard
 
-**Issue 2 · Nuclear + Quantum Capacity — Scorecard**
+**Nuclear + Quantum as Dual-Use Sovereign Capacity — Scorecard**
+
+Award without a seat is not finished work. Two rows, not a HALF stamp.
+
+| Pairing line | Status |
+|--------------|--------|
+| Award / order | JANUS award — **present** |
+| Citizen seat / findings / crew | Crew pipeline — **waiting** |
 
 American System frame: energy and advanced computation as dual-use productive capacity.
 
@@ -65,7 +67,7 @@ American System frame: energy and advanced computation as dual-use productive ca
 | Nuclear treated as productive capacity (not only regulatory/environmental) | Positive / directional | State examples (TX, TN); DOE deployment path; dual-use sovereignty frame |
 | Quantum sensing / communications as industrial & defense capacity | Directional → stronger on state execution | NY quantum-comms network milestone (Aug 2026); plain-English dual-use |
 | Secure domestic supply chains (fuel, components, high-skill roles) | **Rising urgency** | Foreign primary offtake concentration (KAP→CN/RU); U.S. mining restart small but real; Centrus HALEU commercialization path multi-year |
-| Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete | State funds/projects visible; federal productive-credit tools still the Issue 3 test |
+| Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete until the crew row closes | State funds/projects visible; federal productive-credit tools still the Fed-tracker test |
 
 Scores are directional, not grades. They update when evidence moves.
 
