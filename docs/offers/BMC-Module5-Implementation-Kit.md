@@ -88,7 +88,7 @@ If residual need remains after the 30-day path — multi-module integration, cus
 
 ## How it fits the free path
 
-Free modules and companion materials remain on [digitalknowledge.net](https://digitalknowledge.net). This kit is the paid self-serve step for operators who want the Module 5 path packaged with an agentic walkthrough and a clear 30-day run-sheet. Related policy context: [Issue 5 – Sovereign Workforce](../policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md).
+Free modules and companion materials remain on [digitalknowledge.net](https://digitalknowledge.net). This kit is the paid self-serve step for operators who want the Module 5 path packaged with an agentic walkthrough and a clear 30-day run-sheet. Related policy context: [Sovereign Workforce under the American System](../policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md).
 
 ---
 
