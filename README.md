@@ -34,25 +34,25 @@ Concise briefings that connect national policy signals to practical business and
 
 American System is the frame. Hamiltonian is the method: directed productive credit and high-skill American citizen capability — not financialization.
 
-- **Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)** — *featured*  
+- **Sovereign Workforce (Citizen Capacity & Policy Pairing)** — *featured*  
   Americans in critical seats. When we see policy pairing, we see execution.  
-  → [View Issue 5](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+  → [View](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
-- **Issue 6 – American System Investment Builder**  
+- **American System Investment Builder**  
   Productive-capacity screen vs a paper index. Education only — not advice.  
-  → [View Issue 6](docs/policy-tracker/2026-08-Issue-06-American-System-Investment-Builder.md) · [Screen](https://investments.digitalknowledge.net)
+  → [View](docs/policy-tracker/2026-08-Issue-06-American-System-Investment-Builder.md) · [Screen](https://investments.digitalknowledge.net)
 
-- Issue 1 – Science, Golden Age & Sovereign Capacity  
-  → [View Issue 1](docs/policy-tracker/2026-08-issue-01-science-credit-productive-sovereignty.md)
+- Science, Golden Age & Sovereign Capacity  
+  → [View](docs/policy-tracker/2026-08-issue-01-science-credit-productive-sovereignty.md)
 
-- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
-  → [View Issue 2](docs/policy-tracker/2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)
+- Nuclear + Quantum as Dual-Use Sovereign Capacity  
+  → [View](docs/policy-tracker/2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)
 
-- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit for Productive Capacity)  
-  → [View Issue 3](docs/policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)
+- Reorienting the Federal Reserve to the American System  
+  → [View](docs/policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)
 
-- Issue 4 – Hemisphere Enforcement + American System Feedback Loop  
-  → [View Issue 4](docs/policy-tracker/2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)
+- Hemisphere Enforcement + American System Feedback Loop  
+  → [View](docs/policy-tracker/2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)
 
 ### Webinar Modules – Business Model Canvas Series
 
@@ -79,7 +79,7 @@ Five practical modules through a Hamiltonian lens: productive sovereignty, high-
 5. **Workforce Strategy**  
    → [Slide Deck (PDF)](docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf)  
    → [Companion Materials](docs/webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*  
-   → Related policy: [Issue 5 – Sovereign Workforce](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+   → Related policy: [Sovereign Workforce](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 ### Webinar Modules – Entrepreneurial Operating System (EOS) Series
 
@@ -104,7 +104,7 @@ Same Hamiltonian filter applied to the Entrepreneurial Operating System (EOS): V
 5. **Workforce as Productive Capacity** (People)  
    → [Slide Deck (PDF)](docs/webinar-resources/Module5-EOS-American-System-People-Workforce.pdf)  
    → [Companion Materials](docs/webinar-resources/Module5-EOS-American-System-Supplementary-Materials.md) *(includes 90-Day Outline – free starting point for engagement)*  
-   → Related policy: [Issue 5 – Sovereign Workforce](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+   → Related policy: [Sovereign Workforce](docs/policy-tracker/2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 **Free Starting Point – 90-Day Action Plan Outlines**  
 Each module (BMC and EOS) includes a practical 90-day outline you can use immediately.  
