@@ -44,7 +44,7 @@ It was an instrument of **productive capacity and public credit**. A standing du
 - Alternate scan (National Bank report): [FRASER / St. Louis Fed](https://fraser.stlouisfed.org/title/report-secretary-treasury-alexander-hamilton-subject-a-national-bank-3677)
 
 **Bridge to current policy tracking:**  
-Issue 3 of the American System Policy Trackers scores the Warsh (Fed) and Bessent (Treasury) regime against this same Hamiltonian national-bank logic: whether credit and policy are being oriented toward productive capacity or remaining inside pure financialization. See [Issue 3 – Directed Credit for Productive Capacity](../policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md).
+[Reorienting the Federal Reserve to the American System](../policy-tracker/2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md) scores the Warsh (Fed) and Bessent (Treasury) regime against this same Hamiltonian national-bank logic: whether credit and policy are being oriented toward productive capacity or remaining inside pure financialization.
 
 *Deeper primary-source notes can be expanded later or via community contribution on GitHub.*
 
