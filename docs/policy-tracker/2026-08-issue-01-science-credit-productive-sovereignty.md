@@ -1,9 +1,8 @@
-# American System Policy Tracker – Issue 1
-**Science, Credit, and the Return of Productive Sovereignty**  
+# Science, Golden Age & Sovereign Capacity
 **National signals → business and local execution**  
 August 2026
 
-This issue centers on the White House OSTP report *Science: A New Golden Age* (Michael Kratsios, July 2026) and the credit / tax environment taking shape under Bessent and Warsh influence. It connects sovereign science policy to productive capacity, workforce design, and practical action for companies and state/local leaders.
+This tracker centers on the White House OSTP report *Science: A New Golden Age* (Michael Kratsios, July 2026) and the credit / tax environment taking shape under Bessent and Warsh influence. It connects sovereign science policy to productive capacity, workforce design, and practical action for companies and state/local leaders.
 
 ---
 
@@ -13,15 +12,11 @@ Policy and capital still treat science, credit, and workforce as loosely related
 
 The Kratsios report, the National Security Science and Technology Strategy (NSSTS), research-security enforcement, and the Bessent–Warsh credit vector form one arc. This tracker scores that arc and surfaces what companies and state/local leaders can do with it.
 
-**Related Issues**  
-- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
-  → [Read Issue 2](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
-- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit)  
-  → [Read Issue 3](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)  
-- Issue 4 – Hemisphere Enforcement + American System Feedback Loop  
-  → [Read Issue 4](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)  
-- Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)  
-  → [Read Issue 5](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+**Related trackers**  
+- [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
+- [Reorienting the Federal Reserve to the American System](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)  
+- [Hemisphere Enforcement + American System Feedback Loop](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)  
+- [Sovereign Workforce under the American System](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 ---
 
@@ -63,18 +58,25 @@ This is not yet a fully formed industrial-policy regime, but the directional cha
 
 ### 4. Scorecard
 
-**Issue 1 · Science & Sovereign Capacity — Scorecard**
+**Science, Golden Age & Sovereign Capacity — Scorecard**
+
+Award without a seat is not finished work. Two rows, not a HALF stamp.
+
+| Pairing line | Status |
+|--------------|--------|
+| Award / order | DoW 17 Aug 30-university research-security notification — **present** |
+| Citizen seat / findings / crew | Findings + U.S. lab / citizen pipeline — **waiting** |
 
 American System frame: science and workforce as productive national capacity.
 
-*(Refresh when major science, credit, or workforce signals move. Four dimensions.)*
+*(Refresh when major science, credit, or workforce signals move.)*
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
 | Science & technology oriented to national productive capacity | Positive / directional | Kratsios + NSSTS + DoW 30-university research-security audits + McMahon merit/foreign-influence call (Aug 2026) |
 | Sovereign American workforce (citizens + genius-level only where needed) | Directional — tension | National talent emphasis; NSSTS “global talent” line is a red flag if it becomes permanent temp/visa design for core seats |
 | Break with financialization-first innovation story | Directional | Innovation as capacity and cost-reducer, not asset narrative alone |
-| Pairing: science policy ↔ credit / industrial tools | Incomplete | Vision strong; operational directed-credit link still maturing (see Issue 3); state/local program pairing required |
+| Pairing: science policy ↔ credit / industrial tools | Incomplete until the seat row closes | Vision strong; operational directed-credit link still maturing; state/local program pairing required |
 
 Scores are directional, not grades. They update when evidence moves.
 
@@ -121,7 +123,7 @@ Free modules and 90-day outlines: [digitalknowledge.net](https://digitalknowledg
 
 ### 8. Out of scope (explicit)
 
-This tracker does not claim a finished industrial-policy regime or deliver securities advice. It scores directional policy and credit signals against American System principles and points operators to free execution tools. Personalized portfolio recommendations and full Fed instrument design are out of scope here (see Issue 3 for the credit/Fed lane).
+This tracker does not claim a finished industrial-policy regime or deliver securities advice. It scores directional policy and credit signals against American System principles and points operators to free execution tools. Personalized portfolio recommendations and full Fed instrument design are out of scope here (see the Federal Reserve tracker for the credit/Fed lane).
 
 ---
 
