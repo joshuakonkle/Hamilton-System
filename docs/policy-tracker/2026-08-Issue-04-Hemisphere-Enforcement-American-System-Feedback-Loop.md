@@ -1,8 +1,7 @@
-# American System Policy Tracker – Issue 4
-**Hemisphere Enforcement + American System Feedback Loop**  
+# Hemisphere Enforcement + American System Feedback Loop
 **Security Gains as Precondition for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 24 Aug 2026* · Issue 4
+August 2026 · *Updated 24 Aug 2026*
 
 ---
 
@@ -21,17 +20,13 @@ This tracker does **not** claim a single coordinated global order change. It sco
 - American System economic tools (directed credit, industrial capacity, sovereign workforce) make sustained hemisphere focus possible.  
 - Hemisphere security gains expand the space in which those tools can compound.
 
-National Monitor holds the living signal log. Eternal War holds the longer pattern frame. This issue is the operational scorecard for companies and state/local leaders.
+National Monitor holds the living signal log. Eternal War holds the longer pattern frame. This tracker is the operational scorecard for companies and state/local leaders.
 
-**Related Issues**  
-- Issue 1 – Science, Golden Age & Sovereign Capacity  
-  → [Read Issue 1](2026-08-issue-01-science-credit-productive-sovereignty.md)  
-- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
-  → [Read Issue 2](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
-- Issue 3 – Reorienting the Federal Reserve to the American System (Directed Credit)  
-  → [Read Issue 3](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)  
-- Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)  
-  → [Read Issue 5](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+**Related trackers**  
+- [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md)  
+- [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
+- [Reorienting the Federal Reserve to the American System](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md)  
+- [Sovereign Workforce under the American System](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 ---
 
@@ -72,14 +67,14 @@ Presidential Memorandum on rebuilding the U.S. Navy and America’s shipbuilding
 **What this is not**  
 A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it. The late-August Ecuador OFAC + EPAC kinetic pair is **same-corridor pressure**, not a new simultaneous Colombia+Chile+Haiti+Amazon package, and it carries **no co-announced productive-credit tool** in the primary documents reviewed.
 
-**Link to Issue 3**  
+**Link to the Federal Reserve tracker**  
 Bessent’s framing — productive capacity as power, essentials of national supply — is the economic half of the same sovereignty logic. Security gains without directed capacity tools leave the loop incomplete; capacity rhetoric without hemisphere control leaves supply chains and finance exposed.
 
 ---
 
 ### 4. Scorecard
 
-**Issue 4 · Hemisphere Feedback Loop — Scorecard**
+**Hemisphere Enforcement + American System Feedback Loop — Scorecard**
 
 American System frame: security gains paired with productive capacity and citizen capability.
 
@@ -120,7 +115,7 @@ Productive sovereignty needs both secure ground and directed capacity tools. Hem
 
 ### 7. Execution bridge
 
-National signal and company execution are the same logic at two scales. Free modules and 90-day outlines map the company side. Module 5 (Workforce Strategy) treats high-skill American workers as the foundation of productive capacity, not a pure cost center — yard and maritime seats are a direct application. Issue 3 tracks the credit/capacity half of the loop. The **90-Day Sovereign Capacity Sprint** is for teams ready to run implementation with ownership and cadence.
+National signal and company execution are the same logic at two scales. Free modules and 90-day outlines map the company side. Module 5 (Workforce Strategy) treats high-skill American workers as the foundation of productive capacity, not a pure cost center — yard and maritime seats are a direct application. The Federal Reserve tracker scores the credit/capacity half of the loop. The **90-Day Sovereign Capacity Sprint** is for teams ready to run implementation with ownership and cadence.
 
 Introductory range: $6,000 – $9,500  
 → [View One-Pager](../offers/90-Day-Sovereign-Capacity-Sprint.pdf)  
@@ -149,7 +144,7 @@ This tracker does not claim a single coordinated global order change, permanent 
 - DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions; Treasury PR sb0610 (20 Aug 2026) Ecuador network.  
 - Open reporting on Colombia inauguration and early captures; Chile organized-crime agenda; Haiti Varreux PNH presence; five-country Amazon operation.  
 - Presidential Memorandum on Navy / shipbuilding industrial base and Finland Model expansion (mid-August 2026); Texas Workforce Commission ASCEND; Gulf Copper / Lamar / Galveston apprenticeship reporting; MARAD Small Shipyard Grants 2026; Port of Brownsville / Saronic Port Alpha announcements.  
-- Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum; Issue 3 – Fed/Warsh/Bessent Directed Credit.  
+- Prior trackers: [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md); [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md); [Reorienting the Federal Reserve to the American System](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md).  
 - Free modules & 90-day outlines: [digitalknowledge.net](https://digitalknowledge.net)
 
 ---
