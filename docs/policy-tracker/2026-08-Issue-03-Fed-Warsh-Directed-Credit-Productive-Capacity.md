@@ -1,8 +1,7 @@
-# American System Policy Tracker – Issue 3
-**Reorienting the Federal Reserve to the American System**  
+# Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · Issue 3
+August 2026
 
 ---
 
@@ -16,15 +15,11 @@ The practical question remains: are directed-credit and capacity tools being pai
 
 This tracker scores the emerging regime against Hamiltonian national-bank principles and surfaces execution implications for companies and state/local leaders.
 
-**Related Issues**  
-- Issue 1 – Science, Golden Age & Sovereign Capacity  
-  → [Read Issue 1](2026-08-issue-01-science-credit-productive-sovereignty.md)  
-- Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity  
-  → [Read Issue 2](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
-- Issue 4 – Hemisphere Enforcement + American System Feedback Loop  
-  → [Read Issue 4](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)  
-- Issue 5 – Sovereign Workforce (Citizen Capacity & Policy Pairing)  
-  → [Read Issue 5](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
+**Related trackers**  
+- [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md)  
+- [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md)  
+- [Hemisphere Enforcement + American System Feedback Loop](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md)  
+- [Sovereign Workforce under the American System](2026-08-Issue-05-Sovereign-Workforce-Visa-Regime.md)
 
 ---
 
@@ -69,7 +64,7 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 ### 4. Scorecard
 
-**Issue 3 · Fed / Directed Credit — Scorecard**
+**Reorienting the Federal Reserve — Scorecard**
 
 American System frame: credit directed to real productive capacity, not financialization.
 
@@ -134,7 +129,7 @@ This tracker does not deliver monetary-policy prescriptions, securities advice, 
 
 - Warsh July 2026 Semiannual Monetary Policy Report testimony (productive capacity task force; balance-sheet review).  
 - Bessent public remarks citing Hamilton on national supply and productive capacity as power.  
-- Prior trackers: Issue 1 – Science, Golden Age & Sovereign Capacity; Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity.  
+- Prior trackers: [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md); [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md).  
 - Free modules & 90-day outlines: [digitalknowledge.net](https://digitalknowledge.net)  
 - American System Historical Baseline on source / digitalknowledge.net
 
