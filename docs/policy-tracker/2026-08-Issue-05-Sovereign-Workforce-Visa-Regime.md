@@ -1,9 +1,9 @@
-# American System Policy Tracker – Issue 5
-**Sovereign Workforce under the American System: Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
+# Sovereign Workforce under the American System
+**Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
 August 2026 · Published  
 
-This issue treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
+This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
 **Lead:** seats · capability · genius exception (with program-quality caveat) · operational proof (USDOT / Freedom Haulers) · **policy pairing**.
 
@@ -15,12 +15,12 @@ Policy and firm practice still treat short-cycle temporary or visa labor as norm
 
 National moves show the alternative is operational, not theoretical. The clearest current proof point is USDOT-led rescission of non-sovereign CDL capacity **paired with** replacement by American veterans (Freedom Haulers expansion). That is citizen-seat priority in practice: critical roles designed for people who stay, retain skill, and succession-plan inside the republic. **When we see policy pairing, we see execution.**
 
-Related issues:
+Related trackers:
 
-- [Issue 1 – Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md) (NSSTS “global talent” tension)
-- [Issue 2 – Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md) (skilled seats as capital-complement)
-- [Issue 4 – Hemisphere Enforcement + American System Feedback Loop](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md) (security as precondition for productive compounding)
-- [Issue 6 – American System Investment Builder](2026-08-Issue-06-American-System-Investment-Builder.md) (visa stack on a ticker; paper sleeve vs SPYM)
+- [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md) (NSSTS “global talent” tension)
+- [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md) (skilled seats as capital-complement)
+- [Hemisphere Enforcement + American System Feedback Loop](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md) (security as precondition for productive compounding)
+- [American System Investment Builder](2026-08-Issue-06-American-System-Investment-Builder.md) (visa stack on a ticker; paper sleeve vs SPYM)
 
 ---
 
@@ -42,9 +42,9 @@ Related issues:
 
 **Student / OPT / F-style channels (incomplete pairing).** Channels that function as ongoing labor supply for seats—without high-bar genius verification and without a parallel American-youth employment path—score incomplete on citizen-seat priority and policy pairing. Cancellations without seat redesign are not sovereign capacity. Specific operational signals (agency action + replacement path) enter the scorecard; hypotheses stay sidebar.
 
-**Science and talent tension (Issue 1).** The Kratsios *Science: A New Golden Age* report and the National Security Science and Technology Strategy (NSSTS) name domestic talent and productive capacity. NSSTS language on “attracting and retaining top-tier global talent” is compatible only as genius-tier and critical-field exception where U.S. capability is thin—and only if the admission test is real. It is not a license for short-cycle temporary or visa labor as permanent design on core seats, nor an endorsement of the current weak genius-channel practice.
+**Science and talent tension.** The Kratsios *Science: A New Golden Age* report and the National Security Science and Technology Strategy (NSSTS) name domestic talent and productive capacity. NSSTS language on “attracting and retaining top-tier global talent” is compatible only as genius-tier and critical-field exception where U.S. capability is thin—and only if the admission test is real. It is not a license for short-cycle temporary or visa labor as permanent design on core seats, nor an endorsement of the current weak genius-channel practice.
 
-**Capital and seats (Issue 2 touch).** Skilled American seats are part of productive capacity, not an afterthought after equipment and credit. Signals that treat workforce as pure cost minimization via arbitrage score incomplete on firm/agency practice.
+**Capital and seats.** Skilled American seats are part of productive capacity, not an afterthought after equipment and credit. Signals that treat workforce as pure cost minimization via arbitrage score incomplete on firm/agency practice.
 
 **Agency living log (starter).** Primary sources for ongoing pulse: DOL, USCIS, DOJ, DHS, DOT, Education (student/OPT touch), and White House workforce and immigration enforcement posts. Cabinet-wide policy-pairing watch: named pairing of channel restriction with citizen pipeline across secretaries, not DoT-only. Confirmations enter the scorecard; hypotheses stay in the sidebar.
 
@@ -79,7 +79,7 @@ For companies and state leaders the implication is practical. Critical seat fami
 2. **Prefer innovation and training** over headcount arbitrage when cutting cost. The elevator-operator analogy still holds: process and tool innovation shifts humans into higher-skill seats rather than importing lower-cost permanent temp.
 3. **Watch policy pairing.** When we see pairing, we see execution. DoT succeeded by joining elimination of non-sovereign CDL capacity to a veteran employment bridge. Student, OPT, and similar channels that staff ongoing seats without a parallel American-youth path score incomplete. Broad cuts without pairing invite lawsuits and stays; pairing is how redesign sticks. Manufacturing, energy craft, and shipbuilding need the same local proof points beyond Texas transport.
 4. **Local pairing.** Federal visa and workforce signals matter when state workforce boards, apprenticeships, and employer pipelines put citizen high-skill seats under them. Texas is an early watch; expand the list as signals firm up.
-5. **Positioning.** Firms that can show citizen-seat design and domestic skill investment align with emerging science, credit, and enforcement vectors (Issues 1, 3, 4).
+5. **Positioning.** Firms that can show citizen-seat design and domestic skill investment align with emerging science, credit, and enforcement vectors (Science / Golden Age, Federal Reserve, Hemisphere Enforcement).
 
 ---
 
@@ -107,7 +107,7 @@ Soft bridge stays capacity and results. Lead with policy pairing = execution (Do
 
 **Standing:** @WarClandestine · @PrometheanActn · @TheDebriefing17  
 
-**Issue 5 weight:** @USDOT / Sec. Duffy–adjacent · @DHSgov · @USCIS · @USDOL · WH workforce & immigration · state workforce / apprenticeship (TX first) · industrial capacity seats (shipyard, nuclear, advanced mfg).
+**This tracker’s weight:** @USDOT / Sec. Duffy–adjacent · @DHSgov · @USCIS · @USDOL · WH workforce & immigration · state workforce / apprenticeship (TX first) · industrial capacity seats (shipyard, nuclear, advanced mfg).
 
 **Additional pulse (visa-regime / program quality):** [@ChiefEngineerCE](https://x.com/ChiefEngineerCE) · [@SanDiegoKnight](https://x.com/SanDiegoKnight) · [@PlumbNick](https://x.com/PlumbNick) · [@realBrandonGill](https://x.com/realBrandonGill) · [@andrealucasEEOC](https://x.com/andrealucasEEOC) · [@VBierschwale](https://x.com/VBierschwale) (Texas-specific only).
 
