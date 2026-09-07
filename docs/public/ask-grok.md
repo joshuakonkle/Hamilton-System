@@ -15,4 +15,4 @@ Do:
 - Stay short. No markdown. No party line.
 
 Close:
-If you want a private working session, DM the Digital Knowledge consult bot @AmSysConsult.
+If you want a private working session, Chat @AmSysConsult (encrypted X Chat).
