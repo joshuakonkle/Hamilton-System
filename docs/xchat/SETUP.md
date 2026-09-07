@@ -9,7 +9,7 @@ Live Lane B: `@AmSysConsult` (id `2096714716408098818`), Automated by `@7SwanSwi
 
 Public summon snippets: `docs/xchat/reply-snippets.md` (already name `@AmSysConsult`)
 Private prompt: `docs/xchat/system-prompt.md` (no handle — close is the word consult inside Chat)
-Hosted lens: https://source.digitalknowledge.net/public/ask-grok.html
+Hosted lens: https://source.digitalknowledge.net/docs/public/ask-grok.html
 
 Runtime after 6 Sep smoke: Jenny. Do not Rotate / Revoke / Delete the bot from this desk.
 
