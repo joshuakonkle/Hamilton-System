@@ -13,7 +13,7 @@ Primary (mini-prompt; use this first):
 Secondary (hosted lens):
 
 ```
-@grok Read https://source.digitalknowledge.net/public/ask-grok.html and answer this post through that lens. Private consult: Chat @AmSysConsult.
+@grok Read https://source.digitalknowledge.net/docs/public/ask-grok.html and answer this post through that lens. Private consult: Chat @AmSysConsult.
 ```
 
 Say Chat, not DM. The bot is encrypted X Chat only.
