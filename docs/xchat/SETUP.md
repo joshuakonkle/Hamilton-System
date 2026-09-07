@@ -2,12 +2,12 @@
 
 Two lanes. Do not merge them onto one token.
 
-- Lane A (public): your posting handle, hand-typed `@grok` summon.
-- Lane B (private): project Chat bot, open DMs, Grok consult prompt.
+- Lane A (public): your posting handle, hand-typed `@grok` summon. Summon is **lens only** — no `@AmSysConsult` in the tweet. Close lives in the HTML.
+- Lane B (private): project Chat bot, encrypted Chat, Grok consult prompt.
 
 Live Lane B: `@AmSysConsult` (id `2096714716408098818`), Automated by `@7SwanSwimming`, display **Digital Knowledge | American System**, `dm_permission=everyone`.
 
-Public summon snippets: `docs/xchat/reply-snippets.md` (already name `@AmSysConsult`)
+Public summon snippets: `docs/xchat/reply-snippets.md` (lens URL or mini-prompt; no bot handle)
 Private prompt: `docs/xchat/system-prompt.md` (no handle — close is the word consult inside Chat)
 Hosted lens: https://source.digitalknowledge.net/docs/public/ask-grok.html
 
@@ -37,9 +37,11 @@ Create-again curl is retired. Repeating `POST /2/bots` on this handle **revokes 
 
 ---
 
-## 7. Verify before any public CTA
+## 7. Verify before any public CTA of the bot handle
 
-Snippets already say `@AmSysConsult`. Still do not post them until:
+Lane A `@grok` + HTML lens is in use (CEO smoke 7 Sep, low-engagement posts). That is not a public blast of `@AmSysConsult`.
+
+Still do not Evangelist-blast the handle until Joshua greens productize:
 
 1. Profile `https://x.com/AmSysConsult` shows Automated by @7SwanSwimming.
 2. A **second account that does not follow the bot** sends an **encrypted** Chat (not the Unencrypted read-only stub).
@@ -57,4 +59,5 @@ Promo (limited time): Chat up to 500 msgs/day on pay-per-use. https://docs.x.com
 - Rebuild listen/firehose
 - API-post summons that contain URLs ($0.20 class on PPU)
 - Use `@AmSysConsult` for public thought-leadership replies
+- Put `@AmSysConsult` in the Lane A `@grok` summon (HTML already closes)
 - Create bot / Rotate token / Register chat keys again without Jenny
