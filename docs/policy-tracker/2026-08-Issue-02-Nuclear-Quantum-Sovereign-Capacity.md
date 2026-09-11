@@ -1,6 +1,6 @@
 # Nuclear + Quantum as Dual-Use Sovereign Capacity
 **State & Local Execution Pathways**  
-August 2026 · *Updated 24 Aug 2026*
+August 2026 · *Updated 11 Sep 2026 (scorecard copyright)*
 
 This tracker builds directly on Science, Golden Age & Sovereign Capacity and the White House report *Science: A New Golden Age* by Michael Kratsios. That report framed energy abundance, advanced computation, and domestic scientific capacity as the foundation of national power. Here we translate those signals into practical state and local action.
 
@@ -70,6 +70,8 @@ American System frame: energy and advanced computation as dual-use productive ca
 | Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete until the crew row closes | State funds/projects visible; federal productive-credit tools still the Fed-tracker test |
 
 Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
