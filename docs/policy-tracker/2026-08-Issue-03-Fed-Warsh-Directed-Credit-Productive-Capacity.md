@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026
+August 2026 · *Updated 11 Sep 2026 (scorecard copyright)*
 
 ---
 
@@ -80,6 +80,8 @@ American System frame: credit directed to real productive capacity, not financia
 **Overall:** Directional movement toward American System principles is visible and stronger on the Treasury side. The critical test is whether directed-credit and capacity tools become operational alongside monetary discipline.
 
 Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
