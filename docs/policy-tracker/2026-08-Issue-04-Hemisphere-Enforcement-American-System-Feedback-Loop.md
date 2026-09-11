@@ -1,7 +1,7 @@
 # Hemisphere Enforcement + American System Feedback Loop
 **Security Gains as Precondition for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 11 Sep 2026*
+August 2026 · *Updated 11 Sep 2026 (scorecard skeleton)*
 
 ---
 
@@ -84,14 +84,17 @@ American System frame: security gains paired with productive capacity and citize
 
 *(Living scorecard — refreshed 11 Sep 2026 with Shield of the Americas / Peru accession. Loop still Incomplete.)*
 
+| Pairing line | Status |
+|--------------|--------|
+| Security half | Peru / Shield of the Americas (10 Sep) — **present** |
+| Capacity / credit half | Named U.S. plant, port, yard, or directed-credit tool — **waiting** |
+
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
 | Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure; Aug 20 OFAC Ecuador + Aug 23–24 EPAC kinetic; 10 Sep Shield of the Americas / Peru accession |
 | Precondition for productive credit | Supportive | Clearing cartel control of ports, corridors, and finance is necessary ground for capacity investment |
 | Innovation-over-arbitrage / repatriation | Neutral | Enforcement does not by itself shift labor or innovation models; that remains company and credit-policy work |
 | Two-way loop (security ↔ capacity tools) | **Incomplete** | Security half active (Shield + Outcast + prior OFAC/EPAC). Productive-credit or named U.S. plant/port/yard/shipyard tied to the shield **absent** |
-
-**Pairing line:** security half landed (Peru / Shield, 10 Sep). Capacity / credit half still missing.
 
 **Overall:** Strong positive on the security/sovereignty side of the loop. Supportive precondition for productive credit. The incomplete score is intentional: the economic tools (Warsh/Bessent regime, state industrial and workforce execution) must still show operational pairing, not only parallel language.
 
