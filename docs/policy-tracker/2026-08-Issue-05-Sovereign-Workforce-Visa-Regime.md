@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-August 2026 · Published  
+August 2026 · *Updated 11 Sep 2026*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -40,6 +40,8 @@ Related trackers:
 
 **Policy pairing as execution standard.** When elimination of non-sovereign capacity is **paired** with a real citizen pipeline, execution sticks. Enforcement without that pipeline is incomplete. Litigation and stays are a real constraint on the speed of broad executive action on visa programs; they do not convert short-cycle temporary or visa labor into sound permanent design. Cabinet-level moves are scored the same way: pairing present → rising; enforcement-only or rhetoric-only → incomplete.
 
+**PERM freeze — policy half (8–11 Sep 2026).** DOL-IG and the White House Fraud Task Force moved on Cognizant PERM; Cloudera sits on the same freeze rail. That is a named enforcement half: the staffing-vendor filing machine is no longer treated as ordinary. Missing half: a named client plant or yard that converts the bench to citizen seats. Payment-rail hypotheses (kickbacks, crypto, physical structures inside client companies) stay sidebar until a primary names them. Freeze alone does not raise pairing to Rising.
+
 **Student / OPT / F-style channels (incomplete pairing).** Channels that function as ongoing labor supply for seats—without high-bar genius verification and without a parallel American-youth employment path—score incomplete on citizen-seat priority and policy pairing. Cancellations without seat redesign are not sovereign capacity. Specific operational signals (agency action + replacement path) enter the scorecard; hypotheses stay sidebar.
 
 **Science and talent tension.** The Kratsios *Science: A New Golden Age* report and the National Security Science and Technology Strategy (NSSTS) name domestic talent and productive capacity. NSSTS language on “attracting and retaining top-tier global talent” is compatible only as genius-tier and critical-field exception where U.S. capability is thin—and only if the admission test is real. It is not a license for short-cycle temporary or visa labor as permanent design on core seats, nor an endorsement of the current weak genius-channel practice.
@@ -59,7 +61,11 @@ Related trackers:
 | Firm / agency practice | Innovation + training as cost reducer | Headcount cost minimization via arbitrage |
 | Policy pairing | Channel restriction **tied to** citizen replacement/training pipeline | Rhetoric, enforcement-only, or cuts without pipeline (litigation/stay risk without redesign) |
 
-**Current directional read (August 2026):** Citizen-seat priority and policy pairing are **rising** where DoT-style replacement is real. Genius exception discipline remains **incomplete** while verification stays weak and seat-rental use continues. Firm practice and student/OPT-style channels remain **incomplete** where ongoing seats are staffed without citizen-youth pairing. Refresh with National Monitor pulse and cabinet-pairing findings.
+**Current directional read (11 Sep 2026):** Citizen-seat priority and policy pairing remain **rising** where DoT-style replacement is real. Cognizant / Cloudera PERM freeze is the **policy half** — enforcement without a named client-plant conversion. Genius exception discipline remains **incomplete** while verification stays weak. Firm practice and student/OPT-style channels remain **incomplete** where ongoing seats are staffed without citizen-youth pairing.
+
+**Pairing line:** PERM freeze landed. Citizen-seat conversion at a named client plant still missing.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
@@ -100,6 +106,7 @@ Soft bridge stays capacity and results. Lead with policy pairing = execution (Do
 - Culture-war content for its own sake.
 - Claiming every enforcement action equals American System industrial policy (pairing must be evidenced).
 - Endorsing the status-quo genius/admission channel as if verification were already rigorous.
+- Treating a staffing-vendor PERM freeze as citizen-seat conversion without a named client plant.
 
 ---
 
@@ -115,6 +122,6 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshes with National Monitor pulse and cabinet-pairing findings.
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half).
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
