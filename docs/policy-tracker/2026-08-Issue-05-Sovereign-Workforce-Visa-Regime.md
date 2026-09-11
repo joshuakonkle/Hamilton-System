@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-August 2026 · *Updated 11 Sep 2026*
+August 2026 · *Updated 11 Sep 2026 (scorecard skeleton)*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -54,16 +54,27 @@ Related trackers:
 
 ### 4. Scorecard
 
-| Dimension | Rising looks like | Incomplete looks like |
-|-----------|-------------------|------------------------|
-| Citizen-seat priority | Critical roles designed for citizen pipelines | Temp/visa as default for skilled seats |
-| Genius exception discipline | Narrow, high-bar admissions with real verification | Category creep; weak tests; long-term seat rental via “genius” label |
-| Firm / agency practice | Innovation + training as cost reducer | Headcount cost minimization via arbitrage |
-| Policy pairing | Channel restriction **tied to** citizen replacement/training pipeline | Rhetoric, enforcement-only, or cuts without pipeline (litigation/stay risk without redesign) |
+**Sovereign Workforce under the American System — Scorecard**
 
-**Current directional read (11 Sep 2026):** Citizen-seat priority and policy pairing remain **rising** where DoT-style replacement is real. Cognizant / Cloudera PERM freeze is the **policy half** — enforcement without a named client-plant conversion. Genius exception discipline remains **incomplete** while verification stays weak. Firm practice and student/OPT-style channels remain **incomplete** where ongoing seats are staffed without citizen-youth pairing.
+American System frame: citizen seats as the base of productive capacity; temporary and visa labor is not standing design.
 
-**Pairing line:** PERM freeze landed. Citizen-seat conversion at a named client plant still missing.
+*(Living scorecard — refreshed 11 Sep 2026.)*
+
+| Pairing line | Status |
+|--------------|--------|
+| Policy half | Cognizant / Cloudera PERM freeze — **present** |
+| Citizen seat | Named client plant conversion — **waiting** |
+
+| Dimension | Current Reading | Notes |
+|-----------|-----------------|-------|
+| Citizen-seat priority | Rising where DoT-style replacement is real | USDOT / Freedom Haulers remains the operational proof |
+| Genius exception discipline | Incomplete | Verification stays weak; category still used as long-term seat rental |
+| Firm / agency practice | Incomplete | Ongoing seats staffed without a citizen-youth path |
+| Policy pairing | Rising only on the DoT proof | PERM freeze is policy half; freeze alone does not raise this row |
+
+**Overall:** Citizen-seat priority and policy pairing remain rising where DoT-style replacement is real. Cognizant / Cloudera PERM freeze is the policy half — enforcement without a named client-plant conversion. Genius exception discipline remains incomplete while verification stays weak. Firm practice and student/OPT-style channels remain incomplete where ongoing seats are staffed without citizen-youth pairing.
+
+Scores are directional, not grades. They update when evidence moves.
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
@@ -122,6 +133,6 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half).
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5).
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
