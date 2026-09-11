@@ -1,7 +1,7 @@
 # Hemisphere Enforcement + American System Feedback Loop
 **Security Gains as Precondition for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 24 Aug 2026*
+August 2026 · *Updated 11 Sep 2026*
 
 ---
 
@@ -14,6 +14,8 @@ When cartels and transnational organized crime control key nodes, productive inv
 August 2026 produced a dense cluster of simultaneous enforcement actions across the Western Hemisphere and beyond: Colombia’s new administration leading with organized-crime enforcement and an early high-value capture; Chile tightening its organized-crime agenda; Haiti’s National Police planting a permanent presence at the Varreux fuel terminal; a five-country Amazon operation against environmental and trafficking crime; U.S. indictments, rewards, and designations against senior CJNG leadership; and parallel AML/sanctions pressure on financial channels.
 
 **Late-August add (20–24 Aug):** Treasury OFAC designated a major Ecuador-based cocaine network (15 targets, 10 fishing vessels blocked) tied to Los Choneros and Los Lobos with routes into Mexico via Sinaloa and CJNG corridors. U.S. Southern Command / Joint Task Force Western Hemisphere conducted a lethal kinetic strike in the Eastern Pacific against a low-profile vessel on narco-trafficking routes (announced 24 Aug; first known since 21 Jun 2026). These are **security and financial-friction** moves on the same Pacific corridor. They do **not**, by themselves, show co-announced productive-credit or industrial-capacity tools.
+
+**11 Sep add (taught this week; scorecard waits on the other half):** On 10 Sep 2026 the President of Peru, with Secretary Rubio in Lima, announced Peru will join **Shield of the Americas** — a U.S.-led coalition of more than 15 countries. That is a named State Department primary on the **security half**. Missing half: a named U.S. plant, port, yard, shipyard, or directed productive-credit tool tied to the shield. AmCham “prosperity” language is not that half. Same week’s Outcast / airline-sanctions wave (including nodes touching Britain and China) stays on the security / financial-friction half. It does not close the loop.
 
 This tracker does **not** claim a single coordinated global order change. It scores concrete enforcement data against a two-way feedback loop:
 
@@ -53,19 +55,21 @@ Simultaneous multi-country actions are evidence of rising enforcement pressure a
 - **Chile:** Tougher organized-crime agenda under President Kast in the same window.  
 - **Haiti:** National Police permanent base at Varreux fuel terminal (Cité Soleil) — the node gangs previously used to hold fuel supply and the wider economy.  
 - **Amazon five-country operation (Brazil, Colombia, Peru, Ecuador, Bolivia):** Coordinated environmental-crime and trafficking crackdown; arrests and seizures across shared corridors.  
+- **Peru / Shield of the Americas (10 Sep 2026):** President Fujimori announced Peru joins the U.S.-led Shield of the Americas (15+ countries). Primary pointer: Department of State, Lima joint appearance with Secretary Rubio. Security half only until a U.S.-soil capacity or credit tool is named against the shield.  
 - **U.S. Southern Command / Joint Task Force Western Hemisphere:** Operational arm of a multi-nation counter-cartel coalition (partner count expanded through mid-August 2026, including Colombia as a further member). **23–24 Aug:** EPAC kinetic strike on a low-profile vessel on narco routes (security-only language in public reporting).
 
 **Financial / designation layer**  
 - U.S. DOJ indictments and large reward packages against senior CJNG leadership; ongoing FTO/SDGT pressure on designated networks.  
 - OFAC and related AML actions against cartel-linked finance, fuel-smuggling schemes, and laundering channels; record or near-record penalties in adjacent AML cases underscoring financial-rail pressure.  
 - **20 Aug 2026:** OFAC / Treasury — *Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels* — 15 Ecuador-based targets designated; 10 fishing vessels blocked (Manta / EPAC go-fast support) tied to Los Choneros and Los Lobos with cocaine routes into Mexico via Sinaloa and CJNG. Primary: [home.treasury.gov/news/press-releases/sb0610](https://home.treasury.gov/news/press-releases/sb0610).  
+- **Sep 2026 Outcast / airline-sanctions continuation:** Treasury designation wave against Iranian aviation and related nodes, including tentacles touching Britain and China. Same security / financial-friction rail as earlier Outcast work. Not a productive-credit pairing.
 - Parallel partner sanctions and joint European actions against CJNG-linked cells outside the hemisphere (context only; not the core of this scorecard).
 
 **Industrial base / shipbuilding (Finland Model)**  
 Presidential Memorandum on rebuilding the U.S. Navy and America’s shipbuilding industrial base (mid-August 2026) expands the “Finland Model” from the U.S.–Finland icebreaker MOU. Foreign allied yards may build initial hulls for speed; follow-on vessels shift to U.S. yards under domestic investment, equity or new-yard conditions, and tech transfer. Dual-use: hemisphere and maritime security on one side; U.S. yard workforce and productive sovereignty on the other. Foreign initial builds are a bridge, not the end state. Texas is already pairing local programs to that national signal — TWC ASCEND with dedicated shipbuilding training dollars, DOL-registered shipfitter apprenticeships (Gulf Copper with Lamar State College Port Arthur and Galveston College), MARAD Small Shipyard Grants to Gulf Copper, Port Arthur, and Kemah yards, and major yard commitments including Port of Brownsville / Saronic Port Alpha. National signal without state/local citizen pipelines stays thin; that pairing is the local half of the loop.
 
 **What this is not**  
-A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it. The late-August Ecuador OFAC + EPAC kinetic pair is **same-corridor pressure**, not a new simultaneous Colombia+Chile+Haiti+Amazon package, and it carries **no co-announced productive-credit tool** in the primary documents reviewed.
+A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it. The late-August Ecuador OFAC + EPAC kinetic pair is **same-corridor pressure**, not a new simultaneous Colombia+Chile+Haiti+Amazon package, and it carries **no co-announced productive-credit tool** in the primary documents reviewed. Shield of the Americas is the same rule: coalition accession is not a U.S. yard or credit tool.
 
 **Link to the Federal Reserve tracker**  
 Bessent’s framing — productive capacity as power, essentials of national supply — is the economic half of the same sovereignty logic. Security gains without directed capacity tools leave the loop incomplete; capacity rhetoric without hemisphere control leaves supply chains and finance exposed.
@@ -78,18 +82,22 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 
 American System frame: security gains paired with productive capacity and citizen capability.
 
-*(Living scorecard — refreshed 24 Aug 2026 with OFAC Ecuador + SOUTHCOM EPAC kinetic.)*
+*(Living scorecard — refreshed 11 Sep 2026 with Shield of the Americas / Peru accession. Loop still Incomplete.)*
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
-| Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure; Aug 20 OFAC Ecuador + Aug 23–24 EPAC kinetic |
+| Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure; Aug 20 OFAC Ecuador + Aug 23–24 EPAC kinetic; 10 Sep Shield of the Americas / Peru accession |
 | Precondition for productive credit | Supportive | Clearing cartel control of ports, corridors, and finance is necessary ground for capacity investment |
 | Innovation-over-arbitrage / repatriation | Neutral | Enforcement does not by itself shift labor or innovation models; that remains company and credit-policy work |
-| Two-way loop (security ↔ capacity tools) | **Incomplete** | Security side active this window; productive-credit pairing **absent** in OFAC primary and quoted SOUTHCOM language; Finland Model + TX yard/workforce remain early local pairing evidence |
+| Two-way loop (security ↔ capacity tools) | **Incomplete** | Security half active (Shield + Outcast + prior OFAC/EPAC). Productive-credit or named U.S. plant/port/yard/shipyard tied to the shield **absent** |
+
+**Pairing line:** security half landed (Peru / Shield, 10 Sep). Capacity / credit half still missing.
 
 **Overall:** Strong positive on the security/sovereignty side of the loop. Supportive precondition for productive credit. The incomplete score is intentional: the economic tools (Warsh/Bessent regime, state industrial and workforce execution) must still show operational pairing, not only parallel language.
 
 Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
@@ -125,7 +133,7 @@ Free hub: [digitalknowledge.net](https://digitalknowledge.net)
 
 ### 8. Out of scope (explicit)
 
-This tracker does not claim a single coordinated global order change, permanent victory over illicit networks, or co-announced productive-credit tools where primary documents do not show them. Late-August OFAC Ecuador + EPAC kinetic are scored as security and financial-friction moves on the same corridor — not as proof that the economic half of the loop has closed.
+This tracker does not claim a single coordinated global order change, permanent victory over illicit networks, or co-announced productive-credit tools where primary documents do not show them. Late-August OFAC Ecuador + EPAC kinetic, September Shield accession, and Outcast airline designations are scored as security and financial-friction moves — not as proof that the economic half of the loop has closed.
 
 **Open questions (living — National Monitor updates as signals arrive)**  
 1. Do new enforcement waves continue to land on territorial nodes (ports, fuel, border corridors) or shift mainly to episodic raids?  
@@ -134,6 +142,7 @@ This tracker does not claim a single coordinated global order change, permanent 
 4. Which U.S. states are treating logistics and energy-node integrity as part of sovereign capacity strategy rather than pure regulation?  
 5. Which states beyond Texas are pairing federal shipbuilding / Finland Model signals with concrete citizen workforce and yard-capital programs?  
 6. Are follow-on hulls after the first foreign builds actually shifting to U.S. yards with documented domestic investment, or is the transfer clause weak in practice?
+7. Does Shield of the Americas attach a named U.S. plant, port, yard, shipyard, or directed-credit tool — or does it remain a security coalition only?
 
 ---
 
@@ -141,7 +150,8 @@ This tracker does not claim a single coordinated global order change, permanent 
 
 - Primary pattern source: @TheDebriefing17 thread and follow-ons (Aug 8–12, 2026) on simultaneous multi-country enforcement.  
 - U.S. Southern Command / Joint Task Force Western Hemisphere and Americas Counter-Cartel Coalition public reporting (Aug 2026); EPAC kinetic reporting 23–24 Aug 2026.  
-- DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions; Treasury PR sb0610 (20 Aug 2026) Ecuador network.  
+- Department of State, Lima, 10 Sep 2026 — Peru accession to Shield of the Americas (Secretary Rubio / President Fujimori).  
+- DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions; Treasury PR sb0610 (20 Aug 2026) Ecuador network; Sep 2026 Outcast / airline designations.  
 - Open reporting on Colombia inauguration and early captures; Chile organized-crime agenda; Haiti Varreux PNH presence; five-country Amazon operation.  
 - Presidential Memorandum on Navy / shipbuilding industrial base and Finland Model expansion (mid-August 2026); Texas Workforce Commission ASCEND; Gulf Copper / Lamar / Galveston apprenticeship reporting; MARAD Small Shipyard Grants 2026; Port of Brownsville / Saronic Port Alpha announcements.  
 - Prior trackers: [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md); [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md); [Reorienting the Federal Reserve to the American System](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md).  
