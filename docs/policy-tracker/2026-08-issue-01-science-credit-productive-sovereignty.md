@@ -1,6 +1,6 @@
 # Science, Golden Age & Sovereign Capacity
 **National signals → business and local execution**  
-August 2026
+August 2026 · *Updated 11 Sep 2026 (scorecard copyright)*
 
 This tracker centers on the White House OSTP report *Science: A New Golden Age* (Michael Kratsios, July 2026) and the credit / tax environment taking shape under Bessent and Warsh influence. It connects sovereign science policy to productive capacity, workforce design, and practical action for companies and state/local leaders.
 
@@ -79,6 +79,8 @@ American System frame: science and workforce as productive national capacity.
 | Pairing: science policy ↔ credit / industrial tools | Incomplete until the seat row closes | Vision strong; operational directed-credit link still maturing; state/local program pairing required |
 
 Scores are directional, not grades. They update when evidence moves.
+
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
