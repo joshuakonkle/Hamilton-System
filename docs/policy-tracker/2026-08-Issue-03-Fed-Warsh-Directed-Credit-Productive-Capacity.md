@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 11 Sep 2026 (scorecard copyright)*
+August 2026 · *Updated 11 Sep 2026 (scorecard skeleton)*
 
 ---
 
@@ -68,7 +68,12 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 American System frame: credit directed to real productive capacity, not financialization.
 
-*(EOS-aligned living scorecard — refresh with each major signal)*
+*(Living scorecard — refreshed 11 Sep 2026.)*
+
+| Pairing line | Status |
+|--------------|--------|
+| Language / task force | Warsh capacity task force + Bessent Hamilton citations — **present** |
+| Operational tools | Directed-credit instruments alongside monetary discipline — **waiting** |
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
