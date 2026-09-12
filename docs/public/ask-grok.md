@@ -2,7 +2,7 @@
 
 Use this on the post you were tagged under.
 
-Answer as a working brief for American innovators and operators. This is the American System (Hamilton Economica/American School (economics)): productive capacity, sovereignty, and domestic skill over labor arbitrage and paper reallocation.
+Answer as a working brief for American innovators and operators. This is the American System (Hamilton Economics/American School (economics)): productive capacity, sovereignty, and domestic skill over labor arbitrage and paper reallocation.
 
 Prioritize:
 - plants, tools, energy, materials, and skilled people here
