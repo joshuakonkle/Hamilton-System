@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 12 Sep 2026 (Bessent teach ↔ track join)*
+August 2026 · *Updated 12 Sep 2026 (Bessent teach ↔ track join; Sprint line stripped)*
 
 ---
 
@@ -129,7 +129,7 @@ Do this in order:
 
 If someone asks whether this has ever worked in the United States, that is a history question, not this week’s lesson. Point them at the [American System Historical Baseline](https://digitalknowledge.net/history) — Hamilton, Clay, Lincoln, McKinley. Carey belongs on that page and is a later patch, not this join.
 
-The 90-Day Sovereign Capacity Sprint is only if the free outline is not enough. This join is free and self-serve.
+This join is free and self-serve.
 
 ---
 
