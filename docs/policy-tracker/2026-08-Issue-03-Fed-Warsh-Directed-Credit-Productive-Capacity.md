@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 11 Sep 2026 (scorecard skeleton)*
+August 2026 · *Updated 12 Sep 2026 (Bessent teach ↔ track join)*
 
 ---
 
@@ -111,13 +111,25 @@ The open test is operational, not rhetorical. Language and task forces are neces
 
 ---
 
-### 7. Execution bridge
+### 7. Teach ↔ track (the join)
 
-The free 5-module series and 90-day outlines give leadership teams a practical starting map. Soft bridge: Module 1 (Business Model Canvas) for Key Resources / Cost Structure under a productive-sovereignty filter; Module 5 (Workforce Strategy) for citizen-seat design. The **90-Day Sovereign Capacity Sprint** is the facilitated version for teams ready to lock ownership and cadence.
+Start with the live signal, then put it on the canvas you already have.
 
-Introductory range: $6,000 – $9,500  
-→ [View One-Pager](../offers/90-Day-Sovereign-Capacity-Sprint.pdf)  
-Free hub: [digitalknowledge.net](https://digitalknowledge.net)
+Bessent’s line on this tracker: productive capacity is power, and a nation ought to possess within itself the essentials of national supply. That is not a slogan for the wall. It is a test of three boxes on the Business Model Canvas.
+
+- **Key Resources.** What must we possess here — plant, tooling, process knowledge, a bench that stays — rather than rent for a season?
+- **Cost Structure.** Is the cost reducer innovation and process, or short-cycle temporary or visa labor?
+- **Key Activities.** Which weekly work actually builds or keeps that capacity?
+
+Do this in order:
+
+1. Open the [Module 1 companion](https://digitalknowledge.net/start) from the start path. Run the One-Page Diagnostic with Bessent’s sentence in the room. The checklist items that take the sentence are Business Model Alignment (Key Resources and Key Activities), Production and Location, and Critical Roles.
+2. Come back here. Score your own firm against this tracker’s pairing lines: language / task force is present; operational directed-credit tools are still waiting. If your canvas still treats short-cycle temporary or visa labor as the cheap variable while you nod at “capacity is power,” the join failed.
+3. Workforce seats that have to stay: [Module 5 — Workforce Strategy](https://digitalknowledge.net/modules) and [Sovereign Workforce](https://digitalknowledge.net/trackers/issue-05).
+
+If someone asks whether this has ever worked in the United States, that is a history question, not this week’s lesson. Point them at the [American System Historical Baseline](https://digitalknowledge.net/history) — Hamilton, Clay, Lincoln, McKinley. Carey belongs on that page and is a later patch, not this join.
+
+The 90-Day Sovereign Capacity Sprint is only if the free outline is not enough. This join is free and self-serve.
 
 ---
 
