@@ -3,6 +3,22 @@
 
 ---
 
+### Live signal (do this with the checklist)
+
+Today’s sentence, from the live Federal Reserve / Treasury tracker: **productive capacity is power**, and a nation ought to possess within itself the essentials of national supply.
+
+Use it on this diagnostic, not as extra reading.
+
+- Checklist **Business Model Alignment** — Key Resources and Key Activities: do we possess the capacity here, or do we rent it?
+- Checklist **Production and Location** — is the location decision about unit cost, or about keeping the essentials of supply?
+- Checklist **Critical Roles** — does the bench stay long enough to raise productivity, or is it short-cycle temporary or visa labor?
+
+When the checklist is done, score the same sentence on the tracker: [Reorienting the Federal Reserve](https://digitalknowledge.net/trackers/issue-03). Teaching and tracking are one walk.
+
+Prior results (only if someone asks whether this pattern has worked): [historical baseline](https://digitalknowledge.net/history).
+
+---
+
 ### One-Page Diagnostic Checklist
 #### Workforce & Productive Capacity Diagnostic
 
