@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-August 2026 · *Updated 11 Sep 2026 (scorecard skeleton)*
+August 2026 · *Updated 14 Sep 2026 (seats teach ↔ track join)*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -94,20 +94,35 @@ For companies and state leaders the implication is practical. Critical seat fami
 
 1. **Name at least one critical seat family** that will not be permanent temp/visa design. Treat that as a Rock-level commitment, not a slogan.
 2. **Prefer innovation and training** over headcount arbitrage when cutting cost. The elevator-operator analogy still holds: process and tool innovation shifts humans into higher-skill seats rather than importing lower-cost permanent temp.
-3. **Watch policy pairing.** When we see pairing, we see execution. DoT succeeded by joining elimination of non-sovereign CDL capacity to a veteran employment bridge. Student, OPT, and similar channels that staff ongoing seats without a parallel American-youth path score incomplete. Broad cuts without pairing invite lawsuits and stays; pairing is how redesign sticks. Manufacturing, energy craft, and shipbuilding need the same local proof points beyond Texas transport.
+3. **Watch policy pairing.** When we see pairing, we see execution. DoT succeeded by joining elimination of non-sovereign CDL capacity to a veteran employment bridge. Student, OPT, and similar channels that staff ongoing seats without a parallel American-youth employment path score incomplete. Broad cuts without pairing invite lawsuits and stays; pairing is how redesign sticks. Manufacturing, energy craft, and shipbuilding need the same local proof points beyond Texas transport.
 4. **Local pairing.** Federal visa and workforce signals matter when state workforce boards, apprenticeships, and employer pipelines put citizen high-skill seats under them. Texas is an early watch; expand the list as signals firm up.
 5. **Positioning.** Firms that can show citizen-seat design and domestic skill investment align with emerging science, credit, and enforcement vectors (Science / Golden Age, Federal Reserve, Hemisphere Enforcement).
 
 ---
 
-### 7. Execution bridge
+### 7. Teach ↔ track (the join)
 
-Policy direction creates advantage only when it becomes operating choices.
+Start with the live signal, then put it on the workforce diagnostic you already have.
 
-- **Free path:** [Module 5 – Workforce Strategy (BMC)](../webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf) and [Module 1 – Business Model Canvas](../webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf) → diagnostic on critical seats and cost structure. EOS Module 5 (People / Workforce) applies the same filter for teams already on EOS.
-- **Paid path:** [Implementation Kit](../offers/BMC-Module1-Implementation-Kit.md) / [90-Day Sovereign Capacity Sprint](../offers/90-Day-Sovereign-Capacity-Sprint.pdf) when the operator wants facilitated seat design and a 90-day capacity plan.
+This tracker’s pairing test: a freeze without a named client plant is not finished work. Policy half can be present (Cognizant / Cloudera PERM freeze). Citizen seat is still waiting until a named plant or yard converts the bench. The operational proof already on this page is USDOT paired with a veteran CDL pipeline (Freedom Haulers). Enforcement without that pipeline is incomplete.
 
-Soft bridge stays capacity and results. Lead with policy pairing = execution (DoT win-win). Any genius-exception line carries the current-program caveat.
+That is a test of three clusters on the Module 5 diagnostic.
+
+- **Critical roles.** Which seat families are productive capacity over 3–5 years, and what share is long-term American versus short-cycle temporary or visa labor as standing design?
+- **Pipeline.** Is there a citizen path (internal development, apprenticeship, veterans, local partnership), or only time-to-fill?
+- **One action.** Name one pipeline move that can start reducing standing temp/visa design within 12 months — and name the plant or yard if the work is conversion, not a slogan.
+
+Do this in order:
+
+1. Open the [Module 5 companion](https://digitalknowledge.net/modules/module-05). Run the Sovereign Workforce Diagnostic with the pairing test in the room. The items that take the sentence are Critical Roles and Current Reality, Pipeline Strength, and the 12-month pipeline action.
+2. Come back here. Score your own firm against this tracker’s pairing lines: policy half present; named client-plant conversion waiting. If you can nod at the PERM freeze and still cannot name a seat family and a plant, the join failed.
+3. Credit and cost structure already have a join: [Reorienting the Federal Reserve](https://digitalknowledge.net/trackers/issue-03) and [Module 1](https://digitalknowledge.net/modules/module-01). Do not reopen that punch here.
+
+Teams already on EOS can use the same filter on [EOS Module 5](https://digitalknowledge.net/starteos) (People / Workforce). Same diagnostic job. Not a second course.
+
+If someone asks whether citizen-seat design has worked in the United States, that is a history question. Point them at the [American System Historical Baseline](https://digitalknowledge.net/history). Carey is a later patch on that page, not this join.
+
+This join is free and self-serve.
 
 ---
 
@@ -133,6 +148,6 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5).
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026.
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
