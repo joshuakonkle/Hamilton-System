@@ -3,6 +3,22 @@
 
 ---
 
+### Live signal (do this with the checklist)
+
+Today’s test, from the live Sovereign Workforce tracker: **a freeze without a named client plant is not finished work.** Policy pairing means a channel restriction joined to a citizen replacement or training pipeline. The proof already on that tracker is USDOT plus a veteran CDL path. A PERM freeze alone is the policy half.
+
+Use it on this diagnostic, not as extra reading.
+
+- Checklist **Critical Roles and Current Reality** — which seats are capacity, and who stays?
+- Checklist **Pipeline Strength** — citizen path, or time-to-fill?
+- Checklist **12-month pipeline action** — one move, and a plant or yard if this is conversion.
+
+When the checklist is done, score the same test on the tracker: [Sovereign Workforce](https://digitalknowledge.net/trackers/issue-05). Teaching and tracking are one walk.
+
+Prior results (only if someone asks whether this pattern has worked): [historical baseline](https://digitalknowledge.net/history).
+
+---
+
 ### One-Page Diagnostic Checklist
 #### Sovereign Workforce Diagnostic
 
