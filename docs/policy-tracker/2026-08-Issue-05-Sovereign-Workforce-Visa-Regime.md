@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-August 2026 · *Updated 14 Sep 2026 (seats teach ↔ track join)*
+August 2026 · *Updated 18 Sep 2026 (Friday restack + comment dockets)*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -41,6 +41,13 @@ Related trackers:
 **Policy pairing as execution standard.** When elimination of non-sovereign capacity is **paired** with a real citizen pipeline, execution sticks. Enforcement without that pipeline is incomplete. Litigation and stays are a real constraint on the speed of broad executive action on visa programs; they do not convert short-cycle temporary or visa labor into sound permanent design. Cabinet-level moves are scored the same way: pairing present → rising; enforcement-only or rhetoric-only → incomplete.
 
 **PERM freeze — policy half (8–11 Sep 2026).** DOL-IG and the White House Fraud Task Force moved on Cognizant PERM; Cloudera sits on the same freeze rail. That is a named enforcement half: the staffing-vendor filing machine is no longer treated as ordinary. Missing half: a named client plant or yard that converts the bench to citizen seats. Payment-rail hypotheses (kickbacks, crypto, physical structures inside client companies) stay sidebar until a primary names them. Freeze alone does not raise pairing to Rising.
+
+**Open comment dockets (live teach).** Two files are open. The American System frame is capability first, capacity second — not a slogan about headcount.
+
+- Fee for Certain H-1B Petitions — comment by **24 Sep 2026, 23:59 ET**: [USCIS-2026-0298](https://www.regulations.gov/commenton/USCIS-2026-0298-0001)
+- Eliminating the Discretionary Time-Limited Authorization for H-4 EAD and related grace-period file — comment through **10 Nov 2026**: [USCIS-2026-0364](https://www.regulations.gov/commenton/USCIS-2026-0364-0001)
+
+Suggested comment body: first term on U.S. soil, the visa holder trains at least one **named American** (capability). If the seat continues, the firm builds a citizen pipeline so more Americans can hold it (capacity). Operating in the United States is not workforce-neutral. After 24 Sep drop the fee line; keep the grace-period file.
 
 **Student / OPT / F-style channels (incomplete pairing).** Channels that function as ongoing labor supply for seats—without high-bar genius verification and without a parallel American-youth employment path—score incomplete on citizen-seat priority and policy pairing. Cancellations without seat redesign are not sovereign capacity. Specific operational signals (agency action + replacement path) enter the scorecard; hypotheses stay sidebar.
 
@@ -95,7 +102,7 @@ For companies and state leaders the implication is practical. Critical seat fami
 1. **Name at least one critical seat family** that will not be permanent temp/visa design. Treat that as a Rock-level commitment, not a slogan.
 2. **Prefer innovation and training** over headcount arbitrage when cutting cost. The elevator-operator analogy still holds: process and tool innovation shifts humans into higher-skill seats rather than importing lower-cost permanent temp.
 3. **Watch policy pairing.** When we see pairing, we see execution. DoT succeeded by joining elimination of non-sovereign CDL capacity to a veteran employment bridge. Student, OPT, and similar channels that staff ongoing seats without a parallel American-youth employment path score incomplete. Broad cuts without pairing invite lawsuits and stays; pairing is how redesign sticks. Manufacturing, energy craft, and shipbuilding need the same local proof points beyond Texas transport.
-4. **Local pairing.** Federal visa and workforce signals matter when state workforce boards, apprenticeships, and employer pipelines put citizen high-skill seats under them. Texas is an early watch; expand the list as signals firm up.
+4. **Local pairing.** Federal visa and workforce signals matter when state workforce boards, apprenticeships, and employer pipelines put citizen high-skill seats under them. Texas is an early watch; expand the list as signals firm up. Lab: [From a national tracker to a local seat](https://digitalknowledge.net/local).
 5. **Positioning.** Firms that can show citizen-seat design and domestic skill investment align with emerging science, credit, and enforcement vectors (Science / Golden Age, Federal Reserve, Hemisphere Enforcement).
 
 ---
@@ -148,6 +155,6 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026.
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026.
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
