@@ -1,6 +1,6 @@
 # Science, Golden Age & Sovereign Capacity
 **National signals → business and local execution**  
-August 2026 · *Updated 11 Sep 2026 (scorecard copyright)*
+August 2026 · *Updated 18 Sep 2026 (Friday restack)*
 
 This tracker centers on the White House OSTP report *Science: A New Golden Age* (Michael Kratsios, July 2026) and the credit / tax environment taking shape under Bessent and Warsh influence. It connects sovereign science policy to productive capacity, workforce design, and practical action for companies and state/local leaders.
 
@@ -60,8 +60,6 @@ This is not yet a fully formed industrial-policy regime, but the directional cha
 
 **Science, Golden Age & Sovereign Capacity — Scorecard**
 
-Award without a seat is not finished work. Two rows, not a HALF stamp.
-
 | Pairing line | Status |
 |--------------|--------|
 | Award / order | DoW 17 Aug 30-university research-security notification — **present** |
@@ -104,7 +102,7 @@ For companies, the strategic implication is straightforward: investments that st
 2. **Capital allocation** – Projects that expand domestic production capacity, energy resilience, and advanced manufacturing are likely to face a more supportive credit and incentive environment than pure labor-arbitrage models.
 3. **Innovation focus** – Cost reduction through genuine process and technology innovation (rather than simply cheaper labor) is the higher-leverage and more policy-aligned path.
 4. **Positioning** – Companies that can demonstrate contribution to domestic productive strength will find it easier to navigate the emerging policy and financing landscape.
-5. **Local pairing** – Federal science and industrial signals matter most when state and local programs (grants, apprenticeships, community-college pipelines) put citizen high-skill seats under them. Watch that pairing; do not assume it.
+5. **Local pairing** – Federal science and industrial signals matter most when state and local programs (grants, apprenticeships, community-college pipelines) put citizen high-skill seats under them. Watch that pairing; do not assume it. Lab: [From a national tracker to a local seat](https://digitalknowledge.net/local).
 
 ---
 
