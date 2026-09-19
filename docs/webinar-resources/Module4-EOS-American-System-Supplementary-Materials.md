@@ -1,10 +1,7 @@
 # EOS Module 4 — Companion Materials
 ## Process That Elevates Work: Core Processes Under a Hamiltonian Filter
 
-**Joshua Konkle · Chief of Staff Strategist**  
-**Status:** Companion final (free diagnostic + 90-day outline) — post Q/A consultant 14 Aug 2026  
-**Pairs with:** EOS Module 4 educational module (post-consultant revision)  
-**Series rule:** No EOS-branded public promotion until Modules 1–5 + free companions are complete and released.
+**Joshua Konkle · Chief of Staff Strategist**
 
 **Posture:** American System / Hamiltonian **filter** on native EOS tools. Not a claim that standard EOS practice is Hamiltonian.
 
