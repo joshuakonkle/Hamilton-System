@@ -5,17 +5,17 @@
 
 ### Live signal (do this with the checklist)
 
-Today’s sentence, from the live Federal Reserve / Treasury tracker: **productive capacity is power**, and a nation ought to possess within itself the essentials of national supply.
+Today’s sentence, from the live [Reorienting the Federal Reserve](/trackers/issue-03) tracker: **productive capacity is power**, and a nation ought to possess within itself the essentials of national supply.
 
 Use it on this diagnostic, not as extra reading.
 
-- Checklist **Business Model Alignment** — Key Resources and Key Activities: do we possess the capacity here, or do we rent it?
-- Checklist **Production and Location** — is the location decision about unit cost, or about keeping the essentials of supply?
-- Checklist **Critical Roles** — does the bench stay long enough to raise productivity, or is it short-cycle temporary or visa labor?
+- Checklist [Business Model Alignment](#diagnostic) — Key Resources and Key Activities: do we possess the capacity here, or do we rent it?
+- Checklist [Production and Location](#diagnostic) — is the location decision about unit cost, or about keeping the essentials of supply?
+- Checklist [Critical Roles](#diagnostic) — does the bench stay long enough to raise productivity, or is it short-cycle temporary or visa labor?
 
-When the checklist is done, score the same sentence on the tracker: [Reorienting the Federal Reserve](https://digitalknowledge.net/trackers/issue-03). Teaching and tracking are one walk.
+When the checklist is done, score the same sentence on the tracker: [Reorienting the Federal Reserve](/trackers/issue-03). Teaching and tracking are one walk.
 
-Prior results (only if someone asks whether this pattern has worked): [historical baseline](https://digitalknowledge.net/history).
+Prior results (only if someone asks whether this pattern has worked): [historical baseline](/history).
 
 ---
 
@@ -69,7 +69,7 @@ _______________________________________________________________
 
 ### 90-Day Action Plan Outline
 
-This is a high-level structure only. A complete, customized 90-day execution plan is available as a paid implementation offering.
+This is a high-level structure only. A complete, customized 90-day execution plan is available as a paid implementation offering. Self-serve next step: [BMC Module 1 Implementation Kit](/offers/bmc-module-1-kit).
 
 **Days 1–30: Diagnose & Align**
 - Complete the Workforce & Productive Capacity Diagnostic with the leadership team
