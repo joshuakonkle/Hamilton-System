@@ -3,15 +3,21 @@
 
 ---
 
+### Landing pointer
+
+The live signal from [Reorienting the Federal Reserve](/trackers/issue-03) sits on the diagnostic.
+
+*(Landing renders this line + the Diagnose card only. Do not dump the checklist under the slides.)*
+
+---
+
 ### Live signal (do this with the checklist)
+
+*Home: `/modules/module-01/guide` — above the first Yes / Partially / No.*
 
 Today’s sentence, from the live [Reorienting the Federal Reserve](/trackers/issue-03) tracker: **productive capacity is power**, and a nation ought to possess within itself the essentials of national supply.
 
 Use it on this diagnostic, not as extra reading.
-
-- Checklist [Business Model Alignment](#diagnostic) — Key Resources and Key Activities: do we possess the capacity here, or do we rent it?
-- Checklist [Production and Location](#diagnostic) — is the location decision about unit cost, or about keeping the essentials of supply?
-- Checklist [Critical Roles](#diagnostic) — does the bench stay long enough to raise productivity, or is it short-cycle temporary or visa labor?
 
 When the checklist is done, score the same sentence on the tracker: [Reorienting the Federal Reserve](/trackers/issue-03). Teaching and tracking are one walk.
 
