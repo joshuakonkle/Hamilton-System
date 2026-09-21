@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-August 2026 · *Updated 20 Sep 2026 (Bridge A on §7)*
+August 2026 · *Updated 21 Sep 2026 (Lab return on §7)*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -123,6 +123,12 @@ That is a test of three clusters on the Module 5 diagnostic.
 - **Pipeline.** Is there a citizen path (internal development, apprenticeship, veterans, local partnership), or only time-to-fill?
 - **One action.** Name one pipeline move that can start reducing standing temp/visa design within 12 months — and name the plant or yard if the work is conversion, not a slogan.
 
+**Lab return.** Write these three before you leave. If you cannot, the join failed.
+
+- Seat family + owner: ________
+- Plant / yard / fab / lab, or “waiting — no named site yet”: ________
+- One 12-month pipeline action (then score it on this tracker’s pairing lines): ________
+
 Do this in order:
 
 1. Open the [Module 5 companion](https://digitalknowledge.net/modules/module-05). Run the Sovereign Workforce Diagnostic with the pairing test in the room. The items that take the sentence are Critical Roles and Current Reality, Pipeline Strength, and the 12-month pipeline action.
@@ -159,6 +165,6 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026.
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026. Lab return on §7 21 Sep 2026.
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
