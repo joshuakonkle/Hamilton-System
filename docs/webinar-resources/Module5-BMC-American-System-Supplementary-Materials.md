@@ -13,6 +13,12 @@ Use it on this diagnostic, not as extra reading.
 - Checklist [Pipeline Strength](#diagnostic) — citizen path, or time-to-fill?
 - Checklist [12-month pipeline action](#diagnostic) — one move, and a plant or yard if this is conversion.
 
+**Lab return** (write these; then score them on [Sovereign Workforce](https://digitalknowledge.net/trackers/issue-05)):
+
+- Seat family + owner: ________
+- Plant / yard / fab / lab, or “waiting — no named site yet”: ________
+- One 12-month pipeline action: ________
+
 When the checklist is done, score the same test on the tracker: [Sovereign Workforce](/trackers/issue-05). Teaching and tracking are one walk.
 
 Prior results (only if someone asks whether this pattern has worked): [historical baseline](/history).
