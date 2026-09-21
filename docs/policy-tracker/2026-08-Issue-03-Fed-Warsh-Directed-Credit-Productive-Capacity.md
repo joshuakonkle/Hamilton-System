@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 12 Sep 2026 (Bessent teach ↔ track join; Sprint line stripped)*
+August 2026 · *Updated 20 Sep 2026 (Bridge A on §7)*
 
 ---
 
@@ -112,6 +112,10 @@ The open test is operational, not rhetorical. Language and task forces are neces
 ---
 
 ### 7. Teach ↔ track (the join)
+
+**Bridge.** Open Module 1 and run the One-Page Diagnostic with Bessent’s sentence in the room.
+
+[Module 1 — start the work](https://digitalknowledge.net/modules/module-01)
 
 Start with the live signal, then put it on the canvas you already have.
 
