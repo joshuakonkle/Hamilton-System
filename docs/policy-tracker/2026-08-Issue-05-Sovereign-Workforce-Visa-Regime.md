@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-August 2026 · *Updated 18 Sep 2026 (Friday restack + comment dockets)*
+August 2026 · *Updated 20 Sep 2026 (Bridge A on §7)*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -109,6 +109,10 @@ For companies and state leaders the implication is practical. Critical seat fami
 
 ### 7. Teach ↔ track (the join)
 
+**Bridge.** Open Module 5 and run the workforce diagnostic with this tracker’s pairing test in the room.
+
+[Module 5 — start the work](https://digitalknowledge.net/modules/module-05)
+
 Start with the live signal, then put it on the workforce diagnostic you already have.
 
 This tracker’s pairing test: a freeze without a named client plant is not finished work. Policy half can be present (Cognizant / Cloudera PERM freeze). Citizen seat is still waiting until a named plant or yard converts the bench. The operational proof already on this page is USDOT paired with a veteran CDL pipeline (Freedom Haulers). Enforcement without that pipeline is incomplete.
@@ -155,6 +159,6 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026.
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026.
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
