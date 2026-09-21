@@ -53,6 +53,11 @@ It was an instrument of **productive capacity and public credit**. A standing du
   The single most important primary document.  
   [Official U.S. Senate page with PDF](https://www.senate.gov/artandhistory/history/common/generic/Speeches_ClayAmericanSystem.htm)
 
+### Henry C. Carey — productive power
+Carey is the mid-link Hamilton → Clay / Whig → **Carey** → Lincoln → McKinley. Where Clay defended the American System in Congress, Carey argued why protection and a home market build **productive power** — capacity that compounds — rather than labor and plant as cheap inputs to arbitrage. Prior results: not only a tariff speech. Production and home capability over rented benches.
+- [*The Harmony of Interests, Agricultural, Manufacturing, and Commercial* (1851)](https://archive.org/details/cu31924030185056)
+- [*Principles of Social Science*, Vol. 1 (1858)](https://archive.org/details/socialscience01carerich)
+
 ### Abraham Lincoln
 - Collection of his tariff and American System statements (including early platform language affirming the national bank, internal improvements, and high protective tariff).  
   [Abraham Lincoln’s Classroom – Tariff collection](https://www.abrahamlincolnsclassroom.org/abraham-lincoln-in-depth/abraham-lincoln-and-the-tariff/)
