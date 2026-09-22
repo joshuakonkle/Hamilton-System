@@ -1,6 +1,6 @@
 # Nuclear + Quantum as Dual-Use Sovereign Capacity
 **State & Local Execution Pathways**  
-August 2026 · *Updated 11 Sep 2026 (scorecard copyright)*
+August 2026 · *Updated 22 Sep 2026 (Genesis Q pairing cell)*
 
 This tracker builds directly on Science, Golden Age & Sovereign Capacity and the White House report *Science: A New Golden Age* by Michael Kratsios. That report framed energy abundance, advanced computation, and domestic scientific capacity as the foundation of national power. Here we translate those signals into practical state and local action.
 
@@ -28,12 +28,15 @@ This tracker scores nuclear and quantum signals as productive capacity — not o
 - **Quantum sensing** — uses the extreme sensitivity of quantum systems to measure gravity, magnetic fields, time, or acceleration with far higher precision than classical instruments (e.g. navigation in GPS-denied environments; monitoring critical infrastructure).
 - **Quantum-secure communications** — uses quantum principles to detect eavesdropping; any attempt to intercept disturbs the signal, making the channel effectively tamper-evident.
 - **Permanent American citizen workforce** — high-skill roles in nuclear operations, systems integration, and continuous improvement staffed by people who stay long enough to master and improve the work — not short-cycle temporary labor as permanent design.
+- **Directed productive credit** — a named federal instrument that aims public capital at a productive American capacity (prize, RFA, or credit facility), not general accommodation. Genesis Q is this tracker’s live example. It is not a Hamiltonian national bank.
 
 ---
 
 ### 3. Key policy and operational signals
 
 **DOE deployment path.** The Department of Energy has moved from studies to deployment. In late 2025 it awarded $800 million to the Tennessee Valley Authority and Holtec to advance American light-water SMRs. Additional selections in 2026 expanded support for near-term SMR deployment. Parallel programs are accelerating microreactors and HALEU.
+
+**Directed credit on the quantum cell — Genesis Q (September 2026).** DOE opened the Quantum Genesis Q competition at **$215 million** — a named federal productive-credit instrument aimed at American quantum capacity. That is the energy-tech ↔ directed-credit pair for this tracker. The instrument is real. The next confirmation is a named lab, yard, or fab with a citizen crew on that prize. Do not treat Genesis Q as a Hamiltonian national bank. Do not mash it with the separate DOE geothermal field-test selections.
 
 **Quantum sensing and secure communications.** The Department of Defense and intelligence community already fund programs that apply quantum sensors for navigation in GPS-denied environments and for monitoring critical infrastructure. Large-scale fault-tolerant quantum computing remains further out. Near-term industrial and security value sits in sensing, timing, and secure networking.
 
@@ -55,19 +58,19 @@ Award without a seat is not finished work. Two rows, not a HALF stamp.
 
 | Pairing line | Status |
 |--------------|--------|
-| Award / order | JANUS award — **present** |
-| Citizen seat / findings / crew | Crew pipeline — **waiting** |
+| Award / order | Genesis Q $215M prize / RFA — **present** (JANUS award remains on the nuclear-deployment row) |
+| Citizen seat / findings / crew | Crew pipeline at a named Genesis Q lab / fab — **waiting** |
 
 American System frame: energy and advanced computation as dual-use productive capacity.
 
-*(Refresh 24 Aug 2026 — KAP offtake/cost signal + NY quantum-comms + still-live HALEU/reactor cluster.)*
+*(Refresh 22 Sep 2026 — Genesis Q $215M named as the directed-credit instrument on the energy-tech cell.)*
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
 | Nuclear treated as productive capacity (not only regulatory/environmental) | Positive / directional | State examples (TX, TN); DOE deployment path; dual-use sovereignty frame |
 | Quantum sensing / communications as industrial & defense capacity | Directional → stronger on state execution | NY quantum-comms network milestone (Aug 2026); plain-English dual-use |
 | Secure domestic supply chains (fuel, components, high-skill roles) | **Rising urgency** | Foreign primary offtake concentration (KAP→CN/RU); U.S. mining restart small but real; Centrus HALEU commercialization path multi-year |
-| Pairing: energy-tech sovereignty ↔ directed credit / state execution | Incomplete until the crew row closes | State funds/projects visible; federal productive-credit tools still the Fed-tracker test |
+| Pairing: energy-tech sovereignty ↔ directed credit / state execution | **Rising** | Named federal instrument exists (DOE Quantum Genesis Q, $215M). Crew / citizen seats at a named lab are the next confirmation, not the gate for this cell. Geothermal field-test selections are a different DOE line — do not mash. |
 
 Scores are directional, not grades. They update when evidence moves.
 
@@ -93,7 +96,7 @@ Concrete examples already exist. Texas created the Advanced Nuclear Energy Offic
 
 The required workforce is specific and high-skill: nuclear technicians, radiation protection specialists, systems engineers, continuous-improvement roles, and quantum-adjacent technical positions. These are not short-cycle temporary labor jobs. They are the same category of long-term American capability that the Department of Transportation is rebuilding through the Freedom Haulers program by replacing non-sovereign CDL drivers with veterans who already hold the relevant experience. The elevator analogy from Module 1 still applies: automation and advanced systems should move Americans into higher-skill engineering, maintenance, and oversight roles rather than simply eliminating hours.
 
-**Investment focus (guidance for state & local leaders — not securities advice).** Economic-development and workforce boards should prioritize: site readiness and permitting speed for advanced nuclear; domestic fuel and component supply-chain resilience (mining, conversion, enrichment — especially HALEU); deliberate pipelines that produce long-term American talent for nuclear and quantum-adjacent roles. Productive finance is already appearing at the state level (Texas Advanced Nuclear Development Fund; Tennessee Nuclear Energy Fund; SSBCIadjacent and industrial development board channels). Near-term practical focus remains quantum sensing and secure communications with clear defense or critical-infrastructure demand; medium-term focus is SMR/microreactor deployment paired with manufacturing clusters.
+**Investment focus (guidance for state & local leaders — not securities advice).** Economic-development and workforce boards should prioritize: site readiness and permitting speed for advanced nuclear; domestic fuel and component supply-chain resilience (mining, conversion, enrichment — especially HALEU); deliberate pipelines that produce long-term American talent for nuclear and quantum-adjacent roles. Productive finance is already appearing at the state level (Texas Advanced Nuclear Development Fund; Tennessee Nuclear Energy Fund; SSBCIadjacent and industrial development board channels). Near-term practical focus remains quantum sensing and secure communications with clear defense or critical-infrastructure demand; medium-term focus is SMR/microreactor deployment paired with manufacturing clusters. Watch Genesis Q for a named American lab seat — that is when this cell stops waiting on crew.
 
 **Offset stack (what can reduce dependence on concentrated foreign primary supply).** U.S. uranium concentrate production has restarted at a small but real scale (Wyoming, Texas, Utah facilities producing in 2025–26). Canadian primary production (Cameco’s Saskatchewan operations) remains the largest Western-allied mine supply. U.S. enrichment is the strategic bottleneck being rebuilt: Centrus at Piketon for HALEU (and LEU expansion path) and Urenco USA in New Mexico for LEU. **Allied location is not the same as sovereign U.S. capacity.** Canadian and other Western-friendly pounds reduce Kazakhstan concentration risk; they do not replace the need for American mining, enrichment, and citizen pipelines.
 
@@ -115,13 +118,13 @@ Each module already contains a practical 90-day action plan outline. Customized 
 
 ### 8. Out of scope (explicit)
 
-This tracker does not claim that foreign offtake concentration equals a deliberate cut-off of U.S. programs, does not deliver securities or portfolio advice, and does not treat speculative exotic-communications claims as established fact. It scores documented deployment, fuel-cycle, state-execution, and workforce signals against American System productive-capacity standards.
+This tracker does not claim that foreign offtake concentration equals a deliberate cut-off of U.S. programs, does not deliver securities or portfolio advice, and does not treat speculative exotic-communications claims as established fact. It scores documented deployment, fuel-cycle, state-execution, and workforce signals against American System productive-capacity standards. Genesis Q is productive directed credit, not a national-bank reconstitution.
 
 ---
 
 ### 9. Signal sources (ongoing pulse)
 
-Department of Energy awards and HALEU Availability Program; DOE / TVA / Holtec / Centrus / Oklo / X-energy public deployment and licensing signals; Department of Defense and intelligence community quantum sensing and secure communications programs; Treasury (Bessent) and Federal Reserve (Warsh) productive-capacity language; Kazatomprom offtake and cost disclosures; New York quantum communications network milestones; Texas Advanced Nuclear Energy Office / Development Fund; Tennessee Nuclear Energy Fund; state SMR and nuclear grant statutes (IN, KY, LA and peers).
+Department of Energy awards and HALEU Availability Program; DOE Quantum Genesis Q competition ($215M prize / RFA, Sep 2026); DOE / TVA / Holtec / Centrus / Oklo / X-energy public deployment and licensing signals; Department of Defense and intelligence community quantum sensing and secure communications programs; Treasury (Bessent) and Federal Reserve (Warsh) productive-capacity language; Kazatomprom offtake and cost disclosures; New York quantum communications network milestones; Texas Advanced Nuclear Energy Office / Development Fund; Tennessee Nuclear Energy Fund; state SMR and nuclear grant statutes (IN, KY, LA and peers).
 
 ---
 
