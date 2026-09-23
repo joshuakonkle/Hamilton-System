@@ -17,9 +17,17 @@ The live signal from [Reorienting the Federal Reserve](/trackers/issue-03) sits 
 
 Today’s sentence, from the live [Reorienting the Federal Reserve](/trackers/issue-03) tracker: **productive capacity is power**, and a nation ought to possess within itself the essentials of national supply.
 
-Use it on this diagnostic, not as extra reading.
+Use it on this diagnostic, not as extra reading. The three existing BMC boxes below must be filled against that sentence before the diagnostic can be marked done.
 
-When the checklist is done, score the same sentence on the tracker: [Reorienting the Federal Reserve](/trackers/issue-03). Teaching and tracking are one walk.
+**Key Resources.** Against this week’s sentence: what must we possess here — plant, tooling, process knowledge, a bench that stays — rather than rent for a season?
+
+**Cost Structure.** Against this week’s sentence: is the cost reducer innovation and process, or short-cycle temporary or visa labor?
+
+**Key Activities.** Against this week’s sentence: which weekly work actually builds or keeps that capacity?
+
+Those are the three Module 1 boxes. There is no fourth box. A Yes / Partially / No on the checklist without those three fills is a nod, not execute.
+
+After the three boxes, return to the pairing line on [Reorienting the Federal Reserve](/trackers/issue-03): language / task force is **present**; operational directed-credit tools are still **waiting**. If the canvas still treats short-cycle temporary or visa labor as the cheap variable while nodding at “capacity is power,” the join failed.
 
 Prior results (only if someone asks whether this pattern has worked): [historical baseline](/history).
 
@@ -46,9 +54,10 @@ Prior results (only if someone asks whether this pattern has worked): [historica
 - [ ] We understand the true strategic risk (not just unit cost) of relying on non-domestic sources for critical capabilities.
 - [ ] Location decisions are explicitly linked to our ability to develop and retain a high-capability American workforce.
 
-**Business Model Alignment**
-- [ ] We have reviewed our Business Model Canvas through a productive-sovereignty lens.
-- [ ] Key Resources and Key Activities prioritize domestic capability and innovation-driven productivity over labor arbitrage.
+**Business Model Alignment** *(done requires the three boxes against this week’s Reorienting the Federal Reserve sentence)*
+- [ ] **Key Resources** filled against this week’s sentence: possess here vs rent for a season.
+- [ ] **Cost Structure** filled against this week’s sentence: innovation/process vs short-cycle temporary or visa labor as the cheap variable.
+- [ ] **Key Activities** filled against this week’s sentence: weekly work that builds or keeps capacity.
 - [ ] We have identified 2–3 high-leverage changes we could make in the next 90 days.
 
 **Summary Notes / Priority Gaps**:
