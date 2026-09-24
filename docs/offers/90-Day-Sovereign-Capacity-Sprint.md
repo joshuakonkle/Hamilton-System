@@ -53,7 +53,7 @@ If the sprint is not the right next move, we will say so.
 ---
 
 Joshua Konkle  
-Chief of Staff Strategist  
+Operator — configuration and execution  
 American System Local Revival  
 X / Truth Social: @7SwanSwimming  
 joshua@digitalknowledge.net  
