@@ -78,7 +78,7 @@ This is the operating system behind the free educational modules, the policy tra
 
 ### Contact
 
-Joshua Konkle · Chief of Staff Strategist  
+Joshua Konkle · Operator — configuration and execution  
 **X**: [@7SwanSwimming](https://x.com/7SwanSwimming) · **Truth Social**: [@7SwanSwimming](https://truthsocial.com/@7SwanSwimming)  
 **Mobile**: 512-423-5448 · **Email**: joshua@digitalknowledge.net
 
