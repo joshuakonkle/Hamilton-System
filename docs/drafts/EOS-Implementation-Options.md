@@ -4,7 +4,7 @@ Educational modules stay free and complete on their own. When a leadership team 
 
 - Adapted 90-day outline (EOS companion) — free with the final module set  
 - Facilitated 90-day plan / diagnostic workshop  
-- Ongoing Chief of Staff-style implementation support  
+- Ongoing implementation support  
 - 90-Day Sovereign Capacity Sprint (paid packaging; see site offers)
 
 Contact: Joshua Konkle · joshua@digitalknowledge.net · 512-423-5448 · @7SwanSwimming

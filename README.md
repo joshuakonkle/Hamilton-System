@@ -4,7 +4,7 @@
 
 **Productive Sovereignty. Practical Action.**
 
-Chief of Staff execution that aligns companies and communities with the American System — sovereign domestic strength, merit-based opportunity, and high-performance results.
+Operator execution that aligns companies and communities with the American System — sovereign domestic strength, merit-based opportunity, and high-performance results.
 
 Hamilton Economic Principles supercharged with the American System by Henry Clay; used by presidents Abraham Lincoln, William McKinley, Teddy Roosevelt, and now Donald Trump.
 
@@ -108,7 +108,7 @@ Same Hamiltonian filter applied to the Entrepreneurial Operating System (EOS): V
 
 **Free Starting Point – 90-Day Action Plan Outlines**  
 Each module (BMC and EOS) includes a practical 90-day outline you can use immediately.  
-These outlines are the free starting point. Customized 90-day execution plans and ongoing Chief of Staff-style implementation support are available on request.
+These outlines are the free starting point. Customized 90-day execution plans and ongoing implementation support are available on request.
 
 ### Implementation Support
 
@@ -136,7 +136,7 @@ Introductory range: **$6,000 – $9,500**
 
 → [View One-Pager (PDF)](docs/offers/90-Day-Sovereign-Capacity-Sprint.pdf)
 
-Custom workshops and Chief of Staff–style implementation support remain available on request (Fit conversation).
+Custom workshops and implementation support remain available on request (Fit conversation).
 
 ---
 
@@ -145,7 +145,7 @@ Custom workshops and Chief of Staff–style implementation support remain availa
 We combine:
 - Hamiltonian / American System principles (productive investment, domestic capacity, merit, sovereign workforce)
 - Modern business tools (Business Model Canvas, Entrepreneurial Operating System (EOS), OKRs, operating model design, Lean)
-- Chief of Staff-style implementation support
+- implementation support
 
 The goal is not more slides. The goal is clearer decisions and stronger execution.
 
@@ -169,7 +169,7 @@ The goal is not more slides. The goal is clearer decisions and stronger executio
 ### About
 
 Joshua Konkle  
-Chief of Staff Strategist  
+Operator — configuration and execution  
 
 Helping mid-sized companies and local leaders align strategy, workforce, and operations with the principles of productive sovereignty.
 

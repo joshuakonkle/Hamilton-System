@@ -13,4 +13,4 @@ This framework equips elected officials and organizers with practical tools to i
 
 **Next: Implementation Playbooks**
 
-Contact for Chief of Staff-level consulting to customize and execute.
+Contact for Operator-level consulting to customize and execute.
