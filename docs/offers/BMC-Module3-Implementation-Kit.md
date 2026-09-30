@@ -1,7 +1,7 @@
 # BMC Module 3 Implementation Kit
 
-**Self-serve execution for the Hamiltonian Operating Model**  
-Joshua Konkle · American System · Chief of Staff
+**Self-serve execution for the American System Operating Model**  
+Joshua Konkle · American System · Operator
 
 [← Back to free modules](https://digitalknowledge.net) · [90-Day Sprint](https://digitalknowledge.net/#implementation-support)
 
@@ -19,7 +19,7 @@ This is **execution**, not a slide deck.
 
 | File | Role |
 |------|------|
-| Module PDF | Teaching content — Hamiltonian Operating Model |
+| Module PDF | Teaching content — American System Operating Model |
 | Operator Run-Sheet | First 30 days, step-by-step, done-when criteria |
 | Two-Block Worksheet | Operating-model rewrite under the filter |
 | Agentic Walkthrough Prompt | Primary guidance — load into your AI assistant and run Day 1–7 |
