@@ -3,7 +3,7 @@
 # About the Team
 ### How the American System Local Revival work is produced
 
-This initiative is run as a structured multi-agent system under continuous human oversight. The goal is consistent educational, policy, and strategy material that stays aligned with Hamiltonian / American System principles: productive sovereignty, high-skill American capability, directed improvement, and national strength.
+This initiative is run as a structured multi-agent system under continuous human oversight. The goal is consistent educational, policy, and strategy material that stays aligned with American System principles: productive sovereignty, high-skill American capability, directed improvement, and national strength.
 
 ---
 
@@ -32,7 +32,7 @@ Produces educational modules, short-form posts, policy extracts, and promotional
 Translates national principles into concrete state, county, and company-level actions. Focuses on workforce pipelines, local economic development, and practical execution steps.
 
 **Strategy Framework Adapter**  
-Maps Hamiltonian principles onto familiar operating tools (Business Model Canvas, EOS, OKRs, value streams, operating models). Ensures the frameworks remain usable by leadership teams.
+Maps American System principles onto familiar operating tools (Business Model Canvas, EOS, OKRs, value streams, operating models). Ensures the frameworks remain usable by leadership teams.
 
 **Business / Operations Lead**  
 Keeps the overall program grounded in execution, packaging, and revenue-generating offers. Maintains the light productization radar without shifting the core educational and consulting focus.
