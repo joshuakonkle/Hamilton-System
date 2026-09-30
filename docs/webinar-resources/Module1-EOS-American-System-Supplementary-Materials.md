@@ -1,9 +1,9 @@
 # EOS Module 1 — Companion Materials
-## Vision That Compounds: The V/TO Under a Hamiltonian Filter
+## Vision That Compounds: The V/TO Under an American System Filter
 
-**Joshua Konkle · Chief of Staff Strategist**
+**Joshua Konkle · Operator**
 
-**Posture:** American System / Hamiltonian **filter** on native EOS tools. Not a claim that standard EOS practice is Hamiltonian.
+**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -69,7 +69,7 @@ Vision language names productive capacity (not only cost); at least one Rock is 
 
 ## 3. Soft Cross-Reference (BMC)
 
-BMC Module 1 (Business Model Canvas under a Hamiltonian filter) applies the same productive-capacity lens in Canvas language.  
+BMC Module 1 (Business Model Canvas under an American System filter) applies the same productive-capacity lens in Canvas language.  
 **Preferred path for teams new to the filter:** free BMC series first, then EOS.  
 **Teams already running EOS may start here** and still use BMC diagnostics alongside — no mandatory sequence.
 
@@ -80,11 +80,11 @@ BMC Module 1 (Business Model Canvas under a Hamiltonian filter) applies the same
 | Is | Is not |
 |----|--------|
 | Free diagnostic + 90-day scaffold (guided checklist compatible) | Full facilitation or done-for-you Vision rewrite |
-| Aligned to native EOS V/TO + Hamiltonian filter | A rewrite of EOS or a claim that EOS = American System |
+| Aligned to native EOS V/TO + American System filter | A rewrite of EOS or a claim that EOS = American System |
 | Funnel toward paid execution support if useful | Required purchase to use the checklist |
 
 ---
 
-**Joshua Konkle** · Chief of Staff Strategist · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
+**Joshua Konkle** · Operator · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
