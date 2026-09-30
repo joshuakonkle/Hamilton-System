@@ -1,9 +1,9 @@
 # EOS Module 2 — Companion Materials
-## Rocks That Build Capacity: Goals Under a Hamiltonian Filter
+## Rocks That Build Capacity: Goals Under an American System Filter
 
-**Joshua Konkle · Chief of Staff Strategist**
+**Joshua Konkle · Operator**
 
-**Posture:** American System / Hamiltonian **filter** on native EOS tools. Not a claim that standard EOS practice is Hamiltonian.
+**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -69,7 +69,7 @@ Rocks are run as a system (owned, few, reviewed); at least one Rock is capacity-
 
 ## 3. Soft Cross-Reference (BMC)
 
-BMC Module 2 (OKRs under a Hamiltonian filter) applies the same capacity lens in OKR language.  
+BMC Module 2 (OKRs under an American System filter) applies the same capacity lens in OKR language.  
 **Preferred path for teams new to the filter:** free BMC series first, then EOS.  
 **Teams already running EOS may start here** and still use BMC diagnostics alongside — no mandatory sequence.
 
@@ -80,11 +80,11 @@ BMC Module 2 (OKRs under a Hamiltonian filter) applies the same capacity lens in
 | Is | Is not |
 |----|--------|
 | Free diagnostic + 90-day scaffold (guided checklist compatible) | Full facilitation or done-for-you Rocks rewrite |
-| Aligned to native EOS Rocks + Hamiltonian filter | A rewrite of EOS or a claim that EOS = American System |
+| Aligned to native EOS Rocks + American System filter | A rewrite of EOS or a claim that EOS = American System |
 | Funnel toward paid execution support if useful | Required purchase to use the checklist |
 
 ---
 
-**Joshua Konkle** · Chief of Staff Strategist · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
+**Joshua Konkle** · Operator · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
