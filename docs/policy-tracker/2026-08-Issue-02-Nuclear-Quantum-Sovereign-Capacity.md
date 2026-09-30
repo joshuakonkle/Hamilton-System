@@ -112,7 +112,7 @@ This policy vector maps directly onto the free five-module series:
 - [Value Streams / Lean (Module 4)](../webinar-resources/Module4-BMC-American-System-Supplementary-Materials.md) – treating loss of institutional knowledge as waste
 - Module 1 (Business Model Canvas): [PDF](../webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf)
 
-Each module already contains a practical 90-day action plan outline. Customized 90-day plans, facilitated diagnostics, and ongoing Chief of Staff-style implementation support remain available when organizations are ready to move faster. Free hub: [digitalknowledge.net](https://digitalknowledge.net).
+Each module already contains a practical 90-day action plan outline. Customized 90-day plans, facilitated diagnostics, and ongoing operator implementation support remain available when organizations are ready to move faster. Free hub: [digitalknowledge.net](https://digitalknowledge.net).
 
 ---
 
@@ -129,7 +129,7 @@ Department of Energy awards and HALEU Availability Program; DOE Quantum Genesis 
 ---
 
 **Joshua Konkle**  
-Chief of Staff Strategist  
+Operator  
 X / Truth Social: @7SwanSwimming  
 Mobile: 512-423-5448  
 joshua@digitalknowledge.net
