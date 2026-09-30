@@ -159,7 +159,7 @@ This tracker does not deliver monetary-policy prescriptions, securities advice, 
 ---
 
 **Joshua Konkle**  
-Chief of Staff Strategist  
+Operator  
 @7SwanSwimming on X.com  
 512-423-5448  
 joshua@digitalknowledge.net
