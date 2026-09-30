@@ -1,9 +1,9 @@
 # EOS Module 3 — Companion Materials
-## Scorecard That Measures Capacity: Data Under a Hamiltonian Filter
+## Scorecard That Measures Capacity: Data Under an American System Filter
 
-**Joshua Konkle · Chief of Staff Strategist**
+**Joshua Konkle · Operator**
 
-**Posture:** American System / Hamiltonian **filter** on native EOS tools. Not a claim that standard EOS practice is Hamiltonian.
+**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -84,11 +84,11 @@ BMC Module 3 applies the same capacity lens in operating-model language.
 | Is | Is not |
 |----|--------|
 | Free diagnostic + 90-day scaffold (guided checklist compatible) | Full facilitation or full Rocks/People rewrite |
-| Scorecard-centered under a Hamiltonian filter | A rewrite of EOS or a claim that EOS = American System |
+| Scorecard-centered under an American System filter | A rewrite of EOS or a claim that EOS = American System |
 | Funnel toward paid execution support if useful | Required purchase to use the checklist |
 
 ---
 
-**Joshua Konkle** · Chief of Staff Strategist · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
+**Joshua Konkle** · Operator · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
