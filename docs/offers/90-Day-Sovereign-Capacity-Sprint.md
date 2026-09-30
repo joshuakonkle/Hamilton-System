@@ -25,7 +25,7 @@ This is execution support, not another set of slides.
 
 ### Who It Is For
 - Leadership teams already using (or open to) EOS, OKRs, or similar operating systems  
-- Companies that have engaged with the free Hamiltonian modules and want help turning them into action  
+- Companies that have engaged with the free American System modules and want help turning them into action  
 - Organizations that need productive capacity, high-skill American workforce alignment, and directed improvement
 
 ---
