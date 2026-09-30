@@ -1,9 +1,9 @@
 # EOS Module 4 — Companion Materials
-## Process That Elevates Work: Core Processes Under a Hamiltonian Filter
+## Process That Elevates Work: Core Processes Under an American System Filter
 
-**Joshua Konkle · Chief of Staff Strategist**
+**Joshua Konkle · Operator**
 
-**Posture:** American System / Hamiltonian **filter** on native EOS tools. Not a claim that standard EOS practice is Hamiltonian.
+**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -70,7 +70,7 @@ One core process is documented and followed; at least one step elevates work rat
 
 ## 3. Soft Cross-Reference (BMC)
 
-BMC Module 4 (Value Streams / Lean under a Hamiltonian filter) applies the same elevation lens in value-stream language.  
+BMC Module 4 (Value Streams / Lean under an American System filter) applies the same elevation lens in value-stream language.  
 **Preferred path for teams new to the filter:** free BMC series first, then EOS.  
 **Teams already running EOS may start here** and use BMC diagnostics alongside — no mandatory sequence.
 
@@ -81,11 +81,11 @@ BMC Module 4 (Value Streams / Lean under a Hamiltonian filter) applies the same 
 | Is | Is not |
 |----|--------|
 | Free diagnostic + 90-day scaffold (guided checklist compatible) | Full lean program or Scorecard/People rewrite |
-| Process-centered under a Hamiltonian filter | A rewrite of EOS or a claim that EOS = American System |
+| Process-centered under an American System filter | A rewrite of EOS or a claim that EOS = American System |
 | Funnel toward paid execution support if useful | Required purchase to use the checklist |
 
 ---
 
-**Joshua Konkle** · Chief of Staff Strategist · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
+**Joshua Konkle** · Operator · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
