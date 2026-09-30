@@ -82,7 +82,7 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
-### 5. Hamiltonian / productive-sovereignty readout
+### 5. American System / productive-sovereignty readout
 
 The American System has always held that national strength rests on:
 - A high-capability domestic productive base
@@ -110,7 +110,7 @@ For companies, the strategic implication is straightforward: investments that st
 
 Policy direction only creates advantage when it is translated into actual operating choices.
 
-Webinar Module 1 — *Updating Your Business Model Canvas for the Hamiltonian System: Building Sovereign American Capability* — walks through exactly how to do this. It shows leaders how to re-examine Key Resources, Key Activities, and Cost Structure through a productive-sovereignty lens, with particular attention to workforce composition and domestic capacity decisions.
+Webinar Module 1 — *Updating Your Business Model Canvas for the American System: Building Sovereign American Capability* — walks through exactly how to do this. It shows leaders how to re-examine Key Resources, Key Activities, and Cost Structure through a productive-sovereignty lens, with particular attention to workforce composition and domestic capacity decisions.
 
 This is not training for its own sake. It is practical execution support: taking the signals now visible in science policy, Treasury, and credit conditions and turning them into concrete updates to the tools companies already use.
 
