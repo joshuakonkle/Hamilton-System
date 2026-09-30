@@ -1,5 +1,5 @@
 # Module 2 – Supplementary Materials
-## Updating Your OKRs for the Hamiltonian System
+## Updating Your OKRs for the American System
 
 ---
 
@@ -68,4 +68,4 @@ This is a high-level structure only. A complete, customized 90-day execution pla
 - Identify the next 1–2 OKRs to bring into alignment
 - Document lessons and decide next 90-day priorities
 
-**Note**: Full facilitation, customized metrics, and ongoing Chief of Staff-style support are available on request.
+**Note**: Full facilitation, customized metrics, and ongoing operator support are available on request.
