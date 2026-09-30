@@ -1,6 +1,6 @@
 # Offers — Free → Low-touch → High-touch
 
-**American System · Joshua Konkle · Chief of Staff**
+**American System · Joshua Konkle · Operator**
 
 How operators and leadership teams progress from learning the filter to executing it — with or without facilitated support.
 
@@ -9,7 +9,7 @@ How operators and leadership teams progress from learning the filter to executin
 ## 1. Free path — Learn and diagnose
 
 **What it is**  
-The five-module Hamiltonian Business Model Canvas series (and EOS series), companion materials, and American System Policy Trackers.
+The five-module American System Business Model Canvas series (and EOS series), companion materials, and American System Policy Trackers.
 
 **Who it is for**  
 Operators and leaders who want the productive-sovereignty filter without a purchase.
@@ -60,7 +60,7 @@ Self-serve, one module per kit. Residual need (multi-module integration, custom 
 ## 3. High-touch paid — Facilitated implementation (90-Day Sovereign Capacity Sprint)
 
 **What it is**  
-Facilitated 90-day execution engagement: Chief of Staff–style support that turns free module outlines into a living operating rhythm.
+Facilitated 90-day execution engagement: operator support that turns free module outlines into a living operating rhythm.
 
 **Who it is for**  
 Leadership teams that want human facilitation, accountability, and integration — not only a self-serve kit.
