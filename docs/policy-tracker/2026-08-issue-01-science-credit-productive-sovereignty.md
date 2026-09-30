@@ -141,7 +141,7 @@ Primary anchors: White House OSTP *Science: A New Golden Age* (Kratsios); NSSTS;
 ---
 
 **Joshua Konkle**  
-Chief of Staff Strategist  
+Operator  
 @7SwanSwimming on X.com  
 512-423-5448  
 joshua@digitalknowledge.net
