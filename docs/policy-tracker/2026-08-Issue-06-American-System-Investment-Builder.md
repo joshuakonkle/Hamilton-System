@@ -79,7 +79,7 @@ The paper sleeve, name list, Watch notes, returns snapshot, and filter chips liv
 
 ---
 
-### 5. Hamiltonian / productive-sovereignty readout
+### 5. American System / productive-sovereignty readout
 
 Hamilton’s system was never “buy the market.” It was credit and attention pointed at *what the country must be able to make*. Clay and Lincoln ran the same idea through tariffs and internal improvements. This page is a public version of that filter applied to listed companies: plants and yards first, then whether the seats under those plants are a citizen base or a rented bench.
 
