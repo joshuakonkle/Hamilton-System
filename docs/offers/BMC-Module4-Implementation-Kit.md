@@ -1,7 +1,7 @@
 # BMC Module 4 Implementation Kit
 
-**Self-serve execution for Hamiltonian Value Streams / Lean**  
-Joshua Konkle · American System · Chief of Staff
+**Self-serve execution for American System Value Streams / Lean**  
+Joshua Konkle · American System · Operator
 
 [← Back to free modules](https://digitalknowledge.net) · [90-Day Sprint](https://digitalknowledge.net/#implementation-support)
 
@@ -19,7 +19,7 @@ This is **execution**, not a slide deck.
 
 | File | Role |
 |------|------|
-| Module PDF | Teaching content — Hamiltonian Value Streams / Lean |
+| Module PDF | Teaching content — American System Value Streams / Lean |
 | Operator Run-Sheet | First 30 days, step-by-step, done-when criteria |
 | Two-Block Worksheet | Value-stream / waste rewrite under the filter |
 | Agentic Walkthrough Prompt | Primary guidance — load into your AI assistant and run Day 1–7 |
