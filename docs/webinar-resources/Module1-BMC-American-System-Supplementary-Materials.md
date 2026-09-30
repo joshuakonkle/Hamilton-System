@@ -1,5 +1,5 @@
 # Module 1 – Supplementary Materials
-## Updating Your Business Model Canvas for the Hamiltonian System
+## Updating Your Business Model Canvas for the American System
 
 ---
 
@@ -104,4 +104,4 @@ This is a high-level structure only. A complete, customized 90-day execution pla
 - Establish a simple monthly review cadence on the diagnostic metrics
 - Document lessons and decide next 90-day priorities
 
-**Note**: Full facilitation, customized metrics, and ongoing Chief of Staff-style support are available on request.
+**Note**: Full facilitation, customized metrics, and ongoing operator support are available on request.
