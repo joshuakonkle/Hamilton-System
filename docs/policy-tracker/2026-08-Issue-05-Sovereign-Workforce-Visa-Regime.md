@@ -87,7 +87,7 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
-### 5. Hamiltonian / productive-sovereignty readout
+### 5. American System / productive-sovereignty readout
 
 The American System holds that national strength rests on a high-capability domestic productive base, merit-based development of American talent, and directed improvement of real capacity. Benefits of innovation and skill should compound first inside the nation that builds them.
 
