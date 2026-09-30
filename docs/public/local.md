@@ -1,6 +1,6 @@
 # From a national tracker to a local seat
 
-**American System · productive capacity · Hamiltonian filter**  
+**American System · productive capacity**  
 September 2026 · student lab
 
 National policy is not finished work. It is finished when a plant, yard, fab, lab, or citizen seat in a named county can hold the load.
@@ -123,8 +123,8 @@ If the sentence needs a party, a personality, or a kit, cut it and write it agai
 
 You now have a local move. Put it on the diagnostic you already have.
 
-- [Hamiltonian Workforce Strategy](https://digitalknowledge.net/modules/module-05) — critical roles, pipeline, one 12-month action.
-- [Hamiltonian Business Model Canvas](https://digitalknowledge.net/modules/module-01) — Key Resources and Cost Structure under a productive-sovereignty filter.
+- [American System Workforce Strategy](https://digitalknowledge.net/modules/module-05) — critical roles, pipeline, one 12-month action.
+- [American System Business Model Canvas](https://digitalknowledge.net/modules/module-01) — Key Resources and Cost Structure under a productive-sovereignty filter.
 
 Same job if you already run EOS tools: filter the seats and the credit. Do not start a second course to avoid the blanks.
 
