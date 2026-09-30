@@ -1,5 +1,5 @@
 # Module 3 – Supplementary Materials
-## Redesigning Your Operating Model for the Hamiltonian System
+## Redesigning Your Operating Model for the American System
 
 ---
 
@@ -68,4 +68,4 @@ This is a high-level structure only. A complete, customized 90-day execution pla
 - Capture early lessons and adjust
 - Decide the next workflow to bring into alignment
 
-**Note**: Full facilitation, customized role design, and ongoing Chief of Staff-style support are available on request.
+**Note**: Full facilitation, customized role design, and ongoing operator support are available on request.
