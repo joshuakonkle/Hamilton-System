@@ -1,7 +1,7 @@
 # BMC Module 5 Implementation Kit
 
-**Self-serve execution for Hamiltonian Workforce Strategy**  
-Joshua Konkle · American System · Chief of Staff
+**Self-serve execution for American System Workforce Strategy**  
+Joshua Konkle · American System · Operator
 
 [← Back to free modules](https://digitalknowledge.net) · [90-Day Sprint](https://digitalknowledge.net/#implementation-support)
 
@@ -19,7 +19,7 @@ This is **execution**, not a slide deck.
 
 | File | Role |
 |------|------|
-| Module PDF | Teaching content — Hamiltonian Workforce Strategy |
+| Module PDF | Teaching content — American System Workforce Strategy |
 | Operator Run-Sheet | First 30 days, step-by-step, done-when criteria |
 | Two-Block Worksheet | Critical seats / workforce rewrite under the filter |
 | Agentic Walkthrough Prompt | Primary guidance — load into your AI assistant and run Day 1–7 |
