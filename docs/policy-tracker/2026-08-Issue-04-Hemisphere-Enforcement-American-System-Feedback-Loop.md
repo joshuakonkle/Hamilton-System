@@ -163,7 +163,7 @@ This tracker does not claim a single coordinated global order change, permanent 
 ---
 
 **Joshua Konkle**  
-Chief of Staff Strategist  
+Operator  
 @7SwanSwimming on X.com  
 512-423-5448  
 joshua@digitalknowledge.net
