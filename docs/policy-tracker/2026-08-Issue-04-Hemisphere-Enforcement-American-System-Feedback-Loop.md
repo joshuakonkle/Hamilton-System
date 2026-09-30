@@ -104,7 +104,7 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ---
 
-### 5. Hamiltonian / productive-sovereignty readout
+### 5. American System / productive-sovereignty readout
 
 Productive sovereignty needs both secure ground and directed capacity tools. Hemisphere enforcement that reclaims ports, corridors, fuel nodes, and financial rails is a precondition for durable domestic productive investment. American System economic tools (directed credit, industrial capacity, sovereign workforce) make sustained hemisphere focus possible; security gains expand the space in which those tools can compound. Scoring only one side of the loop is incomplete by design under this filter.
 
