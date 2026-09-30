@@ -1,9 +1,9 @@
 # EOS Module 5 — Companion Materials
-## Workforce as Productive Capacity: People Under a Hamiltonian Filter
+## Workforce as Productive Capacity: People Under an American System Filter
 
-**Joshua Konkle · Chief of Staff Strategist**
+**Joshua Konkle · Operator**
 
-**Posture:** American System / Hamiltonian **filter** on native EOS tools. Not a claim that standard EOS practice is Hamiltonian.
+**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -93,11 +93,11 @@ BMC Module 5 (Workforce Strategy) applies the same American System filter in Can
 | Is | Is not |
 |----|--------|
 | Free diagnostic + 90-day scaffold (guided checklist compatible) | Full facilitation or done-for-you redesign |
-| Aligned to native EOS tools + Hamiltonian filter | A rewrite of EOS or a claim that EOS = American System |
+| Aligned to native EOS tools + American System filter | A rewrite of EOS or a claim that EOS = American System |
 | Funnel toward paid execution support if useful | Required purchase to use the checklist |
 
 ---
 
-**Joshua Konkle** · Chief of Staff Strategist · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
+**Joshua Konkle** · Operator · @7SwanSwimming · 512-423-5448 · joshua@digitalknowledge.net  
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
