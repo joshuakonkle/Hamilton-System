@@ -1,5 +1,5 @@
 # Module 4 – Supplementary Materials
-## Updating Value Stream Mapping & Lean for the Hamiltonian System
+## Updating Value Stream Mapping & Lean for the American System
 
 ---
 
@@ -68,4 +68,4 @@ This is a high-level structure only. A complete, customized 90-day execution pla
 - Capture early lessons and adjust
 - Decide the next value stream to bring into alignment
 
-**Note**: Full facilitation, customized mapping, and ongoing Chief of Staff-style support are available on request.
+**Note**: Full facilitation, customized mapping, and ongoing operator support are available on request.
