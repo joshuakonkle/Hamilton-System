@@ -96,4 +96,4 @@ This is a high-level structure only. A complete, customized 90-day execution pla
 - Capture early lessons and adjust
 - Decide the next role family to bring into the sovereign pipeline approach
 
-**Note**: Full facilitation, customized pipeline design, and ongoing Chief of Staff-style support are available on request.
+**Note**: Full facilitation, customized pipeline design, and ongoing operator support are available on request.
