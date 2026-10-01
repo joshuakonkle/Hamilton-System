@@ -3,80 +3,88 @@
 # About the Team
 ### How the American System Local Revival work is produced
 
-This initiative is run as a structured multi-agent system under continuous human oversight. The goal is consistent educational, policy, and strategy material that stays aligned with American System principles: productive sovereignty, high-skill American capability, directed improvement, and national strength.
+## Meet the team
 
----
+American System is one operator, Joshua Konkle, working with a team of AI collaborators. Some of them help think the program through, and some of them keep it moving every day. Together they turn the American System tradition into tools that working people, local leaders, and builders can actually use.
 
-### Operating Model
+### The thinking room
 
-The work is organized as a directed graph rather than a single linear conversation:
+**H · Hamilton**  
+*Editor and keeper of the frame.*  
+Hamilton makes sure everything we publish holds true to the American System tradition, from Hamilton and Clay through Carey to Lincoln and McKinley. If a module, tracker, or page doesn't hold up, it doesn't go out.
 
-- Specialized agents handle research, content, policy tracking, strategy frameworks, local adaptation, investment framing, and synthesis.
-- Parallel workstreams run when needed.
-- Convergence points (quality checks, final packaging, external publication) require human sign-off.
-- Context and progress are maintained across sessions so continuity is not lost.
+**P · Paul**  
+*Product.*  
+Paul turns ideas into things you can use: the modules, the kits, and the tools behind them.
 
-Agents handle volume and iteration. The human operator retains authority over direction, standards, and what is released publicly.
+**A · Angela**  
+*Voice.*  
+Angela writes the daily posts. She takes what's happening in the economy right now and explains what it means for your place, your work, and your next twelve months.
 
----
+**A · Alex**  
+*Build lead.*  
+Alex leads everything we build, including Apex, the site, and [investments](https://investments.digitalknowledge.net). When something new shows up here, Alex built it.
 
-### The Team
+### The working desk
+
+**R · Reggie**  
+*Signals.*  
+Reggie watches the national picture, including nuclear and quantum, the Fed, workforce, and the hemisphere, and he flags what's new before it turns into a headline.
+
+**J · Jenny**  
+*Program and quality.*  
+Jenny keeps the program on track and checks everything before it reaches you.
+
+**L · Larry**  
+*Social.*  
+Larry carries the work into the conversation online.
+
+**H · Heather**  
+*Operations.*  
+Heather keeps the operator's day running, so the work gets the hours it needs.
+
+**S · Sam, F · Fritz, and M · Monty**  
+*Specialists.*  
+They're on call for new setups, the numbers, and video.
+
+**E · Enos**  
+*Outside eyes.*  
+Enos isn't on the day-to-day team, and that's the point. He comes in as a technical consultant to take a second or third look at the work, with a critical, third-party view of whether it holds up.
+
+We build context first, then we build.
+
+## The desks
+
+These are the bodies of work, not more people.
 
 **National Monitor**  
-Tracks Trump administration and American System policy signals and translates them into practical implications for state, local, and business action. Monitors monetary and credit policy developments (including Warsh / Bessent directional moves) and productive-capacity themes.
-
-**Content Creator & Evangelist**  
-Produces educational modules, short-form posts, policy extracts, and promotional packages. Owns the public voice and the conversion of longer material into clear, shareable content.
+National policy, and what it means for a state, a county, or a company.
 
 **Local Adapter**  
-Translates national principles into concrete state, county, and company-level actions. Focuses on workforce pipelines, local economic development, and practical execution steps.
+A national signal turned into one place, one workforce path, or one company move.
 
-**Strategy Framework Adapter**  
-Maps American System principles onto familiar operating tools (Business Model Canvas, EOS, OKRs, value streams, operating models). Ensures the frameworks remain usable by leadership teams.
-
-**Business / Operations Lead**  
-Keeps the overall program grounded in execution, packaging, and revenue-generating offers. Maintains the light productization radar without shifting the core educational and consulting focus.
-
-**Investment Framework Agent**  
-Runs a disciplined, rules-based long-term portfolio process grounded in productive investment and sovereignty rather than pure financialization. Supports client-facing investment framing when needed.
+**Strategy Framework**  
+The American System set onto tools a leadership team already uses.
 
 **Singularity Sentinel**  
-Tracks developments in advanced AI, energy, and multi-planetary capability with attention to productive and pro-human alignment. Surfaces implications for national capacity and technology sovereignty.
+Advanced AI, energy, and what they do to national capacity.
 
-**Quantum Nexus Agent**  
-Focuses on the intersection of quantum technologies and nuclear / advanced energy systems. Examines both verified technical progress and longer historical threads (including documented U.S. research lineages) while keeping speculative claims clearly labeled.
+**Quantum Nexus**  
+Quantum technology and nuclear energy, with the claim and the guess kept apart.
 
-**Eternal War Agent**  
-Performs long-term pattern recognition on the contest between productive / Hamiltonian systems and extractive financialist dynamics. Draws on open-source geopolitical and strategic analysis (including [War Clandestine](https://x.com/WarClandestine) and [Promethean Action](https://x.com/PrometheanActn)) to identify structural vectors relevant to American System revival.
+**Eternal War**  
+The long contest between productive systems and extractive finance.
 
-**Synthesis & Thesis Agent**  
-Combines inputs from the rest of the team into coherent briefings, competitive assessments, and actionable theses for educational modules, policy trackers, and client work.
+**Synthesis & Thesis**  
+The desks brought into one briefing a builder can use.
 
----
+## What this carries
 
-### Human Oversight & Cadence
+Historical continuity (Hamilton → Clay → Carey → Lincoln → McKinley) while remaining operationally current.
 
-Regular program checkpoints include:
+This is the work behind the free modules, the policy trackers, and the short posts.
 
-- Alignment reviews against American System principles
-- Quality gates before external publication
-- Priority resets when national or market conditions shift
-- Explicit go / no-go decisions on major workstreams
-
----
-
-### What This Enables
-
-- Multiple parallel workstreams without constant context-switching
-- Consistent frameworks, trackers, and educational materials at higher volume
-- Historical continuity (Hamilton → Clay → Lincoln → McKinley) while remaining operationally current
-- Scalable content and policy monitoring without loss of rigor
-
-This is the operating system behind the free educational modules, the policy trackers, the short-form content, and the ongoing research into productive American capacity.
-
----
-
-### Contact
+## Contact
 
 Joshua Konkle · Operator — configuration and execution  
 **X**: [@7SwanSwimming](https://x.com/7SwanSwimming) · **Truth Social**: [@7SwanSwimming](https://truthsocial.com/@7SwanSwimming) · **LinkedIn**: [Joshua Konkle](https://www.linkedin.com/in/joshuakonkle)  
