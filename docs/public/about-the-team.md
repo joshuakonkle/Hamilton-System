@@ -79,7 +79,7 @@ This is the operating system behind the free educational modules, the policy tra
 ### Contact
 
 Joshua Konkle · Operator — configuration and execution  
-**X**: [@7SwanSwimming](https://x.com/7SwanSwimming) · **Truth Social**: [@7SwanSwimming](https://truthsocial.com/@7SwanSwimming)  
+**X**: [@7SwanSwimming](https://x.com/7SwanSwimming) · **Truth Social**: [@7SwanSwimming](https://truthsocial.com/@7SwanSwimming) · **LinkedIn**: [Joshua Konkle](https://www.linkedin.com/in/joshuakonkle)  
 **Mobile**: 512-423-5448 · **Email**: joshua@digitalknowledge.net
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.

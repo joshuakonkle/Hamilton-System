@@ -3,7 +3,7 @@
 
 **Joshua Konkle · Operator**
 
-**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
+**Posture:** American System **filter** on native Entrepreneurial Operating System (EOS) tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -12,7 +12,7 @@
 Use with leadership or alone. Prefer facts over aspirations. Complete in the **guided checklist** (Yes / Partially / No + short note). No essay required.
 
 ### Scorecard as the weekly truth system
-- [ ] The Scorecard is reviewed in Level 10 and actually triggers IDS — not only archived after the meeting.
+- [ ] The Scorecard is reviewed in Level 10 and actually triggers Identify, Discuss, Solve (IDS) — not only archived after the meeting.
 - [ ] Metrics are few and owned by people who can change the number (operators), not only by Finance or HR as spectators.
 
 ### Locked capacity metrics (this module’s core)

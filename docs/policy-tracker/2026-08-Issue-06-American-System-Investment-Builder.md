@@ -131,4 +131,14 @@ Confirmations change Status, Sleeve, or visa-stack cells. Hypotheses stay in Not
 
 **Status:** Published 26 Aug 2026. Living scorecard refreshes when visa-stack filings or Watch notes move. List grown 4 Sep 2026. Screen: [investments.digitalknowledge.net](https://investments.digitalknowledge.net).
 
+---
+
+**Joshua Konkle**  
+Operator  
+X / Truth Social: @7SwanSwimming  
+Mobile: 512-423-5448  
+joshua@digitalknowledge.net
+
+---
+
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.

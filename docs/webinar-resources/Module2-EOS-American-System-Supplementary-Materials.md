@@ -3,7 +3,7 @@
 
 **Joshua Konkle · Operator**
 
-**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
+**Posture:** American System **filter** on native Entrepreneurial Operating System (EOS) tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -13,7 +13,7 @@ Use with leadership or alone. Prefer facts over aspirations. Complete in the **g
 
 ### Rocks as a system (not only a goal list)
 - [ ] Leadership treats **Rocks as a system** that drives weekly focus and accountability — not only a list of annual wishes.
-- [ ] Rocks are few, owned, and reviewed in Level 10; unfinished Rocks are IDS’d, not quietly dropped.
+- [ ] Rocks are few, owned, and reviewed in Level 10; unfinished Rocks go through Identify, Discuss, Solve (IDS), not quietly dropped.
 
 ### Capacity-linked Rocks
 - [ ] At least one Rock is explicitly tied to **building capacity** (pipeline, knowledge retention, critical seat strength, process that elevates work) — not only revenue, fill-rate, or cost cut.

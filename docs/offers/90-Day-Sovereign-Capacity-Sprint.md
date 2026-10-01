@@ -54,7 +54,7 @@ If the sprint is not the right next move, we will say so.
 
 Joshua Konkle  
 Operator — configuration and execution  
-American System Local Revival  
+American System  
 X / Truth Social: @7SwanSwimming  
 joshua@digitalknowledge.net  
 Mobile: 512-423-5448

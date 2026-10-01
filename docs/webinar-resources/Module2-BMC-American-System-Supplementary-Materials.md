@@ -10,7 +10,7 @@
 **Date**: _______________
 
 **Current OKR System Health**
-- [ ] We can clearly distinguish between the goals themselves and the OKR system used to drive them.
+- [ ] We can clearly distinguish between the goals themselves and the Objectives and Key Results (OKR) system used to drive them.
 - [ ] Our top-level Objectives explicitly reference domestic productive capacity, workforce capability, or innovation-driven productivity.
 - [ ] Key Results measure capability growth, retention of high-skill American talent, or process/technology innovation — not only cost or speed-to-fill.
 

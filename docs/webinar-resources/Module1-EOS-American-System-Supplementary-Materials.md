@@ -3,7 +3,7 @@
 
 **Joshua Konkle · Operator**
 
-**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
+**Posture:** American System **filter** on native Entrepreneurial Operating System (EOS) tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -25,7 +25,7 @@ Use with leadership or alone. Prefer facts over aspirations. Complete in the **g
 - [ ] Issues list includes capacity or knowledge risks when cost still looks fine.
 
 ### Failure mode (Vision-level)
-- [ ] **Failure mode check:** If the V/TO still assumes critical capacity will be met by permanent short-cycle temporary or visa labor design, that assumption is named as a **Vision risk**, not left implicit.
+- [ ] **Failure mode check:** If the Vision/Traction Organizer (V/TO) still assumes critical capacity will be met by permanent short-cycle temporary or visa labor design, that assumption is named as a **Vision risk**, not left implicit.
 
 ### Anchors (shared language)
 - [ ] Team can state how Vision feeds Rocks (Module 2), Scorecard (Module 3), Process (Module 4), and People (Module 5) without treating people as a pure cost line.
@@ -58,7 +58,7 @@ This is a **starting outline**, not a full managed engagement. Paid implementati
 ### Days 61–90 — Execute & Embed
 | Action | Output |
 |--------|--------|
-| Run Vision/Rocks review in Level 10 with capacity on the table when cost is green | Documented discussion or IDS |
+| Run Vision/Rocks review in Level 10 with capacity on the table when cost is green | Documented discussion or Identify, Discuss, Solve (IDS) |
 | Lock the capacity-linked Rock into the next quarter | Updated 1-Year Plan / Rocks |
 | Hand off: Rocks system (M2) · Scorecard metrics (M3) · seat design (M5) | One-line hand-off list |
 

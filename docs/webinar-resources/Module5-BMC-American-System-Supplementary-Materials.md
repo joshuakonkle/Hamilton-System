@@ -48,7 +48,7 @@ Prior results (only if someone asks whether this pattern has worked): [historica
 - [ ] Leadership treats the development of American talent as a strategic investment in productive capacity.
 
 **Strategic Alignment**
-- [ ] Workforce strategy is explicitly linked to the Business Model Canvas, OKR system, Operating Model, and Value Stream work from Modules 1–4.
+- [ ] Workforce strategy is explicitly linked to the Business Model Canvas, Objectives and Key Results (OKR) system, Operating Model, and Value Stream work from Modules 1–4.
 - [ ] We have identified at least one concrete pipeline action that can begin reducing dependence on temporary non-sovereign labor within 12 months.
 - [ ] Location and production decisions are evaluated for their impact on our ability to build and retain a high-skill American workforce.
 

@@ -3,7 +3,7 @@
 
 **Joshua Konkle · Operator**
 
-**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
+**Posture:** American System **filter** on native Entrepreneurial Operating System (EOS) tools. Not a claim that standard EOS practice is the American System.
 
 ---
 

@@ -22,7 +22,7 @@
 **Redesign Readiness**
 - [ ] We have selected one major value stream for focused review this quarter.
 - [ ] Success metrics for that stream will explicitly reward sovereign capability and higher-skill American work.
-- [ ] The redesigned value stream will be aligned with the Business Model Canvas, OKR system, and Operating Model from Modules 1–3.
+- [ ] The redesigned value stream will be aligned with the Business Model Canvas (BMC), Objectives and Key Results (OKR) system, and Operating Model from Modules 1–3.
 
 **Summary Notes / Priority Gaps**:
 _______________________________________________________________

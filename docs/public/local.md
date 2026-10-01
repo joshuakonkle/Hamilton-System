@@ -126,7 +126,7 @@ You now have a local move. Put it on the diagnostic you already have.
 - [American System Workforce Strategy](https://digitalknowledge.net/modules/module-05) — critical roles, pipeline, one 12-month action.
 - [American System Business Model Canvas](https://digitalknowledge.net/modules/module-01) — Key Resources and Cost Structure under a productive-sovereignty filter.
 
-Same job if you already run EOS tools: filter the seats and the credit. Do not start a second course to avoid the blanks.
+Same job if you already run Entrepreneurial Operating System (EOS) tools: filter the seats and the credit. Do not start a second course to avoid the blanks.
 
 History, if someone asks whether this design has worked in the United States: [American System Historical Baseline](https://digitalknowledge.net/history). That page is the prior-results pointer. It is not this lab.
 

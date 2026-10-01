@@ -22,7 +22,7 @@
 **Redesign Readiness**
 - [ ] We have selected one major workflow for focused redesign this quarter.
 - [ ] Success metrics for that workflow will explicitly reward capability growth and sovereign American roles.
-- [ ] The redesigned operating model will be aligned with the Business Model Canvas (Module 1) and OKR system (Module 2).
+- [ ] The redesigned operating model will be aligned with the Business Model Canvas (Module 1) and Objectives and Key Results (OKR) system (Module 2).
 
 **Summary Notes / Priority Gaps**:
 _______________________________________________________________

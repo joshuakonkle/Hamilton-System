@@ -100,7 +100,7 @@ This is a high-level structure only. A complete, customized 90-day execution pla
 
 **Days 61–90: Execute & Embed**
 - Launch at least one concrete pipeline or process-innovation action
-- Align one set of team goals/OKRs with the updated Canvas
+- Align one set of team goals, Objectives and Key Results (OKRs), with the updated Canvas
 - Establish a simple monthly review cadence on the diagnostic metrics
 - Document lessons and decide next 90-day priorities
 

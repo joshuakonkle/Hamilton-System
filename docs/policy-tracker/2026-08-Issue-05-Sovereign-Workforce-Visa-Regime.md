@@ -167,4 +167,14 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 **Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026. Lab return on §7 21 Sep 2026.
 
+---
+
+**Joshua Konkle**  
+Operator  
+X / Truth Social: @7SwanSwimming  
+Mobile: 512-423-5448  
+joshua@digitalknowledge.net
+
+---
+
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.

@@ -3,7 +3,7 @@
 
 **Joshua Konkle · Operator**
 
-**Posture:** American System **filter** on native EOS tools. Not a claim that standard EOS practice is the American System.
+**Posture:** American System **filter** on native Entrepreneurial Operating System (EOS) tools. Not a claim that standard EOS practice is the American System.
 
 ---
 
@@ -32,7 +32,7 @@ Use with leadership or alone. Prefer facts over aspirations. Complete in the **g
 - [ ] **Posture:** Operating in the United States is not workforce-neutral. Seat design either builds lasting productive capacity or rents weakness.
 
 **Diagnostic result (one line):**  
-Biggest gap — undocumented process, improvement that only cuts hours, critical steps that depend on permanent short-cycle temporary or visa labor coverage, or Level 10 that never uses process in IDS?
+Biggest gap — undocumented process, improvement that only cuts hours, critical steps that depend on permanent short-cycle temporary or visa labor coverage, or Level 10 that never uses process in Identify, Discuss, Solve (IDS)?
 
 ---
 
