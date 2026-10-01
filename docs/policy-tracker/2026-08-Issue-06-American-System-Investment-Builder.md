@@ -77,6 +77,8 @@ Screen surface: [investments.digitalknowledge.net](https://investments.digitalkn
 
 The paper sleeve, name list, Watch notes, returns snapshot, and filter chips live at [investments.digitalknowledge.net](https://investments.digitalknowledge.net). On apex this block is the embedded app. On source it is that link.
 
+Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
+
 ---
 
 ### 5. American System / productive-sovereignty readout

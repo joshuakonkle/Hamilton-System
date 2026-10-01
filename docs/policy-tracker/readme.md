@@ -21,6 +21,18 @@ Screen surface for the Investment Builder: [investments.digitalknowledge.net](ht
 
 ---
 
+
+### Template
+
+Nine sections, in this order: why this tracker exists, definitions, key signals, scorecard, readout, implications, execution bridge, out of scope, signal sources.
+
+Two copyright lines. Do not delete the first one.
+
+1. Under the scorecard, before section 5. It is there so a screen capture of the scorecard carries the copyright at the bottom. It is not a stray footer.
+2. At the end of the page, under the Operator block.
+
+The end block is short: name, Operator, X / Truth Social, mobile, email. Do not paste the longer about-page footer onto a tracker.
+
 ### Naming Convention
 
 Example: `2026-08-issue-01-science-credit-productive-sovereignty.md`
