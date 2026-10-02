@@ -127,7 +127,7 @@ This week’s sentence, from Reorienting the Federal Reserve: **productive capac
 
 Do this in order:
 
-1. Open the [Module 1 companion](https://digitalknowledge.net/start) from the start path. Run the One-Page Diagnostic with this week’s sentence already bound to Key Resources, Cost Structure, and Key Activities. Those three existing boxes are required. There is no fourth box.
+1. Open the [Module 1 companion](https://digitalknowledge.net/modules/module-01/guide). Run the One-Page Diagnostic with this week’s sentence already bound to Key Resources, Cost Structure, and Key Activities. Those three existing boxes are required. There is no fourth box.
 2. After the three boxes, score the firm against this tracker’s pairing line: language / task force is **present**; operational directed-credit tools are still **waiting**. If the canvas still treats short-cycle temporary or visa labor as the cheap variable while nodding at “capacity is power,” the join failed.
 3. Workforce seats that have to stay: [Module 5 — Workforce Strategy](https://digitalknowledge.net/modules) and [Sovereign Workforce](https://digitalknowledge.net/trackers/issue-05).
 
