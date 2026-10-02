@@ -171,7 +171,7 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 **Joshua Konkle**  
 Operator  
-X / Truth Social: @7SwanSwimming  
+[X](https://x.com/7SwanSwimming) / [Truth Social](https://truthsocial.com/@7SwanSwimming): [@7SwanSwimming](https://x.com/7SwanSwimming)  
 Mobile: 512-423-5448  
 joshua@digitalknowledge.net
 

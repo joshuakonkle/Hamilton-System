@@ -1,7 +1,7 @@
 # From a national tracker to a local seat
 
-**American System · productive capacity**  
-September 2026 · student lab
+**American System · productive sovereignty · state/local execution**  
+student lab
 
 National policy is not finished work. It is finished when a plant, yard, fab, lab, or citizen seat in a named county can hold the load.
 
