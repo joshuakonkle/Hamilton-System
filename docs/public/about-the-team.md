@@ -72,7 +72,7 @@ Advanced AI, energy, and what they do to national capacity.
 Quantum technology and nuclear energy, with the claim and the guess kept apart.
 
 **Eternal War**  
-The long contest between productive systems and extractive finance.
+The long contest between the Hamiltonian system and extractive finance.
 
 **Synthesis & Thesis**  
 The desks brought into one briefing a builder can use.
