@@ -22,7 +22,7 @@ The Kratsios report, the National Security Science and Technology Strategy (NSST
 
 ### 2. Definitions (plain English)
 
-- **Productive sovereignty** — ability to discover, make, and improve critical capacity inside the nation, with benefits compounding first at home.
+- **Productive sovereignty** — capability first, then capacity. Capability is whether we can discover, make, and improve the thing inside the nation. Capacity is whether we can do enough of it. The benefits compound at home.
 - **Sovereign workforce** — permanent American citizen base in critical seats; genius-tier visas only where U.S. capability is genuinely thin — not short-cycle temporary or visa labor as permanent design.
 - **Directed productive credit** — capital and policy attention steered toward domestic manufacturing, energy, infrastructure, and real productivity gains rather than labor arbitrage or short-term financial extraction.
 - **Local pairing** — federal science and industrial signals only become durable when state and local programs (grants, apprenticeships, community-college pipelines) put citizen high-skill seats under them.

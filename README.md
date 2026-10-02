@@ -1,12 +1,12 @@
 **[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#american-system-policy-trackers)** · **[Implementation Support](#implementation-support)** · **[About the Team](docs/public/about-the-team.md)**
 
-# Hamiltonian System Local Revival
+# American System
 
 **Productive Sovereignty. Practical Action.**
 
 Operator execution that aligns companies and communities with the American System — sovereign domestic strength, merit-based opportunity, and high-performance results.
 
-Hamilton Economic Principles supercharged with the American System by Henry Clay; used by presidents Abraham Lincoln, William McKinley, Teddy Roosevelt, and now Donald Trump.
+Hamilton Economic Principles supercharged with the American System by Henry Clay and Henry Carey; used by presidents Abraham Lincoln, William McKinley, and now Donald Trump.
 
 Note: The American System is sometimes referred to as the [American School (economics)](https://grokipedia.com/page/American_School_(economics)); which is the antithesis to British classical liberalism, Rhodes Scholars, Chatham House, and/or British Imperial System.
 
