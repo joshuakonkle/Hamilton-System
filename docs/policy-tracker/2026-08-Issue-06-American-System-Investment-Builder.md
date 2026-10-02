@@ -123,7 +123,7 @@ This tracker does not sell stock picks. It sells the same operating system the m
 
 ### 9. Signal sources (ongoing pulse)
 
-**Standing (confirmations only):** @WarClandestine · @PrometheanActn · @TheDebriefing17
+**Standing (confirmations only, on X):** [@WarClandestine](https://x.com/WarClandestine) · [@PrometheanActn](https://x.com/PrometheanActn) · [@TheDebriefing17](https://x.com/TheDebriefing17)
 
 **This tracker’s weight:** DOL H-1B Labor Condition Applications and H-2B / H-2A disclosure files · 10-K / 10-Q geography · NRC / NAVSEA / launch-license and ITAR constraints as *why a seat cannot be a visa bench* · plant-level pairing (Texas, Indiana, Virginia, Connecticut, Rhode Island yards) · nuclear fuel-cycle and yard signals that change a name’s class.
 

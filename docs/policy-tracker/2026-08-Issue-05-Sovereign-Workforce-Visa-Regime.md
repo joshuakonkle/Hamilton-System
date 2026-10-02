@@ -155,9 +155,9 @@ This join is free and self-serve.
 
 ### 9. Signal sources (ongoing pulse)
 
-**Standing:** @WarClandestine · @PrometheanActn · @TheDebriefing17  
+**Standing (on X):** [@WarClandestine](https://x.com/WarClandestine) · [@PrometheanActn](https://x.com/PrometheanActn) · [@TheDebriefing17](https://x.com/TheDebriefing17)  
 
-**This tracker’s weight:** @USDOT / Sec. Duffy–adjacent · @DHSgov · @USCIS · @USDOL · WH workforce & immigration · state workforce / apprenticeship (TX first) · industrial capacity seats (shipyard, nuclear, advanced mfg).
+**This tracker’s weight (on X):** [@USDOT](https://x.com/USDOT) / Sec. Duffy–adjacent · [@DHSgov](https://x.com/DHSgov) · [@USCIS](https://x.com/USCIS) · [@USDOL](https://x.com/USDOL) · WH workforce & immigration · state workforce / apprenticeship (TX first) · industrial capacity seats (shipyard, nuclear, advanced mfg).
 
 **Additional pulse (visa-regime / program quality):** [@ChiefEngineerCE](https://x.com/ChiefEngineerCE) · [@SanDiegoKnight](https://x.com/SanDiegoKnight) · [@PlumbNick](https://x.com/PlumbNick) · [@realBrandonGill](https://x.com/realBrandonGill) · [@andrealucasEEOC](https://x.com/andrealucasEEOC) · [@VBierschwale](https://x.com/VBierschwale) (Texas-specific only).
 

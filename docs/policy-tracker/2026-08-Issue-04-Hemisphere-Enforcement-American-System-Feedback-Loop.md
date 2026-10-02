@@ -151,7 +151,7 @@ This tracker does not claim a single coordinated global order change, permanent 
 
 ### 9. Signal sources (ongoing pulse)
 
-- Primary pattern source: @TheDebriefing17 thread and follow-ons (Aug 8–12, 2026) on simultaneous multi-country enforcement.  
+- Primary pattern source: [@TheDebriefing17](https://x.com/TheDebriefing17) on X, thread and follow-ons (Aug 8–12, 2026) on simultaneous multi-country enforcement.  
 - U.S. Southern Command / Joint Task Force Western Hemisphere and Americas Counter-Cartel Coalition public reporting (Aug 2026); EPAC kinetic reporting 23–24 Aug 2026.  
 - Department of State, Lima, 10 Sep 2026 — Peru accession to Shield of the Americas (Secretary Rubio / President Fujimori).  
 - DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions; Treasury PR sb0610 (20 Aug 2026) Ecuador network; Sep 2026 Outcast / airline designations.  
