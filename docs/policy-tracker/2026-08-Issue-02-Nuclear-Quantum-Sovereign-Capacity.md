@@ -28,7 +28,7 @@ This tracker scores nuclear and quantum signals as productive capacity — not o
 - **Quantum sensing** — uses the extreme sensitivity of quantum systems to measure gravity, magnetic fields, time, or acceleration with far higher precision than classical instruments (e.g. navigation in GPS-denied environments; monitoring critical infrastructure).
 - **Quantum-secure communications** — uses quantum principles to detect eavesdropping; any attempt to intercept disturbs the signal, making the channel effectively tamper-evident.
 - **Permanent American citizen workforce** — high-skill roles in nuclear operations, systems integration, and continuous improvement staffed by people who stay long enough to master and improve the work — not short-cycle temporary labor as permanent design.
-- **Directed productive credit** — a named federal instrument that aims public capital at a productive American capacity (prize, RFA, or credit facility), not general accommodation. Genesis Q is this tracker’s live example. It is not a Hamiltonian national bank.
+- **Directed productive credit** — a named federal instrument that aims public capital at a productive American capacity (prize, RFA, or credit facility), not general accommodation. Genesis Q is this tracker’s live example. It is a named prize.
 
 ---
 
@@ -36,11 +36,11 @@ This tracker scores nuclear and quantum signals as productive capacity — not o
 
 **DOE deployment path.** The Department of Energy has moved from studies to deployment. In late 2025 it awarded $800 million to the Tennessee Valley Authority and Holtec to advance American light-water SMRs. Additional selections in 2026 expanded support for near-term SMR deployment. Parallel programs are accelerating microreactors and HALEU.
 
-**Directed credit on the quantum cell — Genesis Q (September 2026).** DOE opened the Quantum Genesis Q competition at **$215 million** — a named federal productive-credit instrument aimed at American quantum capacity. That is the energy-tech ↔ directed-credit pair for this tracker. The instrument is real. The next confirmation is a named lab, yard, or fab with a citizen crew on that prize. Do not treat Genesis Q as a Hamiltonian national bank. Do not mash it with the separate DOE geothermal field-test selections.
+**Directed credit on the quantum cell — Genesis Q (September 2026).** DOE opened the Quantum Genesis Q competition at **$215 million** — a named federal productive-credit instrument aimed at American quantum capacity. That is the energy-tech ↔ directed-credit pair for this tracker. The instrument is real. The next confirmation is a named lab, yard, or fab with a citizen crew on that prize. Genesis Q is a named prize. Keep it separate from the DOE geothermal field-test selections.
 
 **Quantum sensing and secure communications.** The Department of Defense and intelligence community already fund programs that apply quantum sensors for navigation in GPS-denied environments and for monitoring critical infrastructure. Large-scale fault-tolerant quantum computing remains further out. Near-term industrial and security value sits in sensing, timing, and secure networking.
 
-**Bessent / Warsh productive-capacity language.** Treasury Secretary Scott Bessent has stated that “productive capacity is power” and that trade policy, industrial policy, and national security execution must fit together or each will fail separately. Federal Reserve Chair Kevin Warsh was selected in part to reverse the long period of balance-sheet expansion and financialization. His direction points toward returning the Federal Reserve closer to a Hamiltonian national-bank standard that supports productive credit rather than pure financial accommodation. A dedicated tracker examines this Fed reorientation in detail.
+**Bessent / Warsh productive-capacity language.** Treasury Secretary Scott Bessent has stated that “productive capacity is power” and that trade policy, industrial policy, and national security execution must fit together or each will fail separately. Federal Reserve Chair Kevin Warsh was selected in part to reverse the long period of balance-sheet expansion and financialization. His direction is supply-side discipline and a balance-sheet review. The current architecture is Treasury-heavy. It is not a national bank. A dedicated tracker examines this Fed reorientation in detail.
 
 **Fuel-cycle stress signal (August 2026).** Kazatomprom — Kazakhstan’s national uranium company and the world’s largest primary producer of uranium — disclosed new major offtake agreements directing more material to Chinese and Russian buyers, while raising cost guidance and flagging a 6–12 month delay on a new sulphuric-acid plant needed for its in-situ leach mines. This is **not** a claim that Russia “owns” Kazakh production, and it is **not** proof of a deliberate cut-off aimed at U.S. quantum or nuclear programs. It **is** evidence that a large share of global primary supply is concentrating toward Eastern demand at the same time Western utilities still need long-term cover. Motive remains interpretive; the offtake tilt and cost floor are documented.
 
@@ -118,7 +118,7 @@ Each module already contains a practical 90-day action plan outline. Customized 
 
 ### 8. Out of scope (explicit)
 
-This tracker does not claim that foreign offtake concentration equals a deliberate cut-off of U.S. programs, does not deliver securities or portfolio advice, and does not treat speculative exotic-communications claims as established fact. It scores documented deployment, fuel-cycle, state-execution, and workforce signals against American System productive-capacity standards. Genesis Q is productive directed credit, not a national-bank reconstitution.
+This tracker does not claim that foreign offtake concentration equals a deliberate cut-off of U.S. programs, does not deliver securities or portfolio advice, and does not treat speculative exotic-communications claims as established fact. It scores documented deployment, fuel-cycle, state-execution, and workforce signals against American System productive-capacity standards. Genesis Q is productive directed credit, a named prize.
 
 ---
 

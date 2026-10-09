@@ -9,11 +9,11 @@ August 2026 · *Updated 23 Sep 2026 (§7 execute force)*
 
 Most modern central-bank practice treats credit as largely neutral and market-driven. The American System tradition does not. Hamilton’s national bank and Clay’s American System treated credit as a directed instrument for building real productive capacity — infrastructure, manufacturing, and internal improvements — rather than primarily inflating financial assets.
 
-Kevin Warsh (Fed Chair since May 2026) and Scott Bessent (Treasury) are the clearest current pair advancing a regime that can support productive capacity. Warsh emphasizes supply-side dynamics, AI-driven productivity, and balance-sheet discipline. Bessent explicitly invokes Hamilton: every nation “ought to endeavor to possess within itself all the essentials of national supply,” and treats productive capacity as power. Together they form the nearest operational approximation to a Hamiltonian national-bank direction in a generation.
+Kevin Warsh (Fed Chair since May 2026) and Scott Bessent (Treasury) are the clearest current pair advancing a regime that can support productive capacity. Warsh emphasizes supply-side dynamics, AI-driven productivity, and balance-sheet discipline. Bessent explicitly invokes Hamilton: every nation “ought to endeavor to possess within itself all the essentials of national supply,” and treats productive capacity as power. Together they are the clearest current pair on productive capacity. The architecture is Treasury-heavy. It is not a national bank.
 
 The practical question remains: are directed-credit and capacity tools being paired with monetary discipline, or is the shift still mostly language and task forces?
 
-This tracker scores the emerging regime against Hamiltonian national-bank principles and surfaces execution implications for companies and state/local leaders.
+This tracker scores the emerging regime against productive capacity and surfaces execution implications for companies and state/local leaders. Hamilton’s bank stays history.
 
 **Related trackers**  
 - [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md)  
@@ -92,7 +92,7 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ### 5. Hamiltonian / productive-sovereignty readout
 
-Hamilton’s national bank and Clay’s American System treated credit as a directed instrument for building real productive capacity — infrastructure, manufacturing, and internal improvements — rather than primarily inflating financial assets. The current Warsh–Bessent pairing is the nearest operational approximation to that national-bank direction in a generation: supply-side discipline, productive capacity as power, and explicit Hamiltonian language from Treasury.
+Hamilton’s national bank and Clay’s American System treated credit as a directed instrument for building real productive capacity — infrastructure, manufacturing, and internal improvements — rather than primarily inflating financial assets. The current Warsh–Bessent pairing is supply-side discipline, productive capacity as power, and explicit language from Treasury. The architecture is Treasury-heavy. It is not a national bank.
 
 The open test is operational, not rhetorical. Language and task forces are necessary but not sufficient. Directed-credit and capacity tools must appear alongside monetary discipline for the regime to score complete under this filter.
 
@@ -139,7 +139,7 @@ This join is free and self-serve.
 
 ### 8. Out of scope (explicit)
 
-This tracker does not deliver monetary-policy prescriptions, securities advice, or a claim that the Fed has already completed a full regime change. It scores visible language, task forces, and Treasury pairing against Hamiltonian national-bank principles and points operators to free execution tools.
+This tracker does not deliver monetary-policy prescriptions, securities advice, or a claim that the Fed has already completed a full regime change. It scores visible language, task forces, and Treasury pairing against productive capacity and points operators to free execution tools.
 
 **Open questions (living — National Monitor updates as signals arrive)**  
 1. Will Warsh-era Fed tools move beyond language and task forces into actual directed-credit or capacity-linked mechanisms?  
