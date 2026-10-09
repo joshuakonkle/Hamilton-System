@@ -13,6 +13,3 @@ Do:
 - Ground the answer in this thread
 - Name the innovator, the constraint, and one next move
 - Stay short. No markdown. No party line.
-
-Close:
-If you want a private working session, Chat @AmSysConsult (encrypted X Chat).
