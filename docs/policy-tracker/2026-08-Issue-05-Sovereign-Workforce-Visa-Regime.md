@@ -44,12 +44,11 @@ Related trackers:
 
 **8 Oct 2026 — policy half.** On 8 October the White House Fraud Task Force suspended PERM for Cognizant, Infosys, Tata, Wipro, HCL, and Capgemini. Microsoft and Adobe are in the same pause. The Inspector General opened the J-1 investigation. That is the policy half. The citizen seat is still open.
 
-**Open comment dockets (live teach).** Two files are open. The American System frame is capability first, capacity second — not a slogan about headcount.
+**Open comment dockets (live teach).** One file is open. The American System frame is capability first, capacity second — not a slogan about headcount.
 
-- Fee for Certain H-1B Petitions — comment by **24 Sep 2026, 23:59 ET**: [USCIS-2026-0298](https://www.regulations.gov/commenton/USCIS-2026-0298-0001)
 - Eliminating the Discretionary Time-Limited Authorization for H-4 EAD and related grace-period file — comment through **10 Nov 2026**: [USCIS-2026-0364](https://www.regulations.gov/commenton/USCIS-2026-0364-0001)
 
-Suggested comment body: first term on U.S. soil, the visa holder trains at least one **named American** (capability). If the seat continues, the firm builds a citizen pipeline so more Americans can hold it (capacity). Operating in the United States is not workforce-neutral. After 24 Sep drop the fee line; keep the grace-period file.
+Suggested comment body: first term on U.S. soil, the visa holder trains at least one **named American** (capability). If the seat continues, the firm builds a citizen pipeline so more Americans can hold it (capacity). Operating in the United States is not workforce-neutral.
 
 **Student / OPT / F-style channels (incomplete pairing).** Channels that function as ongoing labor supply for seats—without high-bar genius verification and without a parallel American-youth employment path—score incomplete on citizen-seat priority and policy pairing. Cancellations without seat redesign are not sovereign capacity. Specific operational signals (agency action + replacement path) enter the scorecard; hypotheses stay sidebar.
 
@@ -67,11 +66,11 @@ Suggested comment body: first term on U.S. soil, the visa holder trains at least
 
 American System frame: citizen seats as the base of productive capacity; temporary and visa labor is not standing design.
 
-*(Living scorecard — refreshed 11 Sep 2026.)*
+*(Living scorecard — refreshed 9 Oct 2026.)*
 
 | Pairing line | Status |
 |--------------|--------|
-| Policy half | Cognizant / Cloudera PERM freeze — **present** |
+| Policy half | 8 Oct PERM suspension (Cognizant, Infosys, Tata, Wipro, HCL, Capgemini, Microsoft, Adobe) — **present**. J-1 investigation opened. |
 | Citizen seat | Named client plant conversion — **waiting** |
 
 | Dimension | Current Reading | Notes |
@@ -79,9 +78,9 @@ American System frame: citizen seats as the base of productive capacity; tempora
 | Citizen-seat priority | Rising where DoT-style replacement is real | USDOT / Freedom Haulers remains the operational proof |
 | Genius exception discipline | Incomplete | Verification stays weak; category still used as long-term seat rental |
 | Firm / agency practice | Incomplete | Ongoing seats staffed without a citizen-youth path |
-| Policy pairing | Rising only on the DoT proof | PERM freeze is policy half; freeze alone does not raise this row |
+| Policy pairing | Rising only on the DoT proof | 8 Oct PERM suspension is policy half; suspension alone does not raise this row |
 
-**Overall:** Citizen-seat priority and policy pairing remain rising where DoT-style replacement is real. Cognizant / Cloudera PERM freeze is the policy half — enforcement without a named client-plant conversion. Genius exception discipline remains incomplete while verification stays weak. Firm practice and student/OPT-style channels remain incomplete where ongoing seats are staffed without citizen-youth pairing.
+**Overall:** Citizen-seat priority and policy pairing remain rising where DoT-style replacement is real. 8 Oct PERM suspension is the policy half — enforcement without a named client-plant conversion. Genius exception discipline remains incomplete while verification stays weak. Firm practice and student/OPT-style channels remain incomplete where ongoing seats are staffed without citizen-youth pairing.
 
 Scores are directional, not grades. They update when evidence moves.
 
@@ -117,7 +116,7 @@ For companies and state leaders the implication is practical. Critical seat fami
 
 Start with the live signal, then put it on the workforce diagnostic you already have.
 
-This tracker’s pairing test: a freeze without a named client plant is not finished work. Policy half can be present (Cognizant / Cloudera PERM freeze). Citizen seat is still waiting until a named plant or yard converts the bench. The operational proof already on this page is USDOT paired with a veteran CDL pipeline (Freedom Haulers). Enforcement without that pipeline is incomplete.
+This tracker’s pairing test: a freeze without a named client plant is not finished work. Policy half can be present (8 Oct PERM suspension). Citizen seat is still waiting until a named plant or yard converts the bench. The operational proof already on this page is USDOT paired with a veteran CDL pipeline (Freedom Haulers). Enforcement without that pipeline is incomplete.
 
 That is a test of three clusters on the Module 5 diagnostic.
 
@@ -167,7 +166,7 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 11 Sep 2026 (Cognizant / Cloudera PERM freeze as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026. Lab return on §7 21 Sep 2026.
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 9 Oct 2026 (8 Oct PERM suspension as policy half; skeleton aligned I1–I5). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026. Lab return on §7 21 Sep 2026.
 
 ---
 
