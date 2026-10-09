@@ -42,6 +42,8 @@ Related trackers:
 
 **PERM freeze — policy half (8–11 Sep 2026).** DOL-IG and the White House Fraud Task Force moved on Cognizant PERM; Cloudera sits on the same freeze rail. That is a named enforcement half: the staffing-vendor filing machine is no longer treated as ordinary. Missing half: a named client plant or yard that converts the bench to citizen seats. Payment-rail hypotheses (kickbacks, crypto, physical structures inside client companies) stay sidebar until a primary names them. Freeze alone does not raise pairing to Rising.
 
+**8 Oct 2026 — policy half.** On 8 October the White House Fraud Task Force suspended PERM for Cognizant, Infosys, Tata, Wipro, HCL, and Capgemini. Microsoft and Adobe are in the same pause. The Inspector General opened the J-1 investigation. That is the policy half. The citizen seat is still open.
+
 **Open comment dockets (live teach).** Two files are open. The American System frame is capability first, capacity second — not a slogan about headcount.
 
 - Fee for Certain H-1B Petitions — comment by **24 Sep 2026, 23:59 ET**: [USCIS-2026-0298](https://www.regulations.gov/commenton/USCIS-2026-0298-0001)
