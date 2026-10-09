@@ -1,7 +1,7 @@
 # American System Investment Builder
 **A Productive-Capacity Screen vs a Paper Index**  
 **National signals → business and local execution**  
-August 2026 · Published  
+October 2026 · *Updated 9 Oct 2026 (24-name sleeve print)*  
 
 This tracker is an **education screen**. It is **not** financial advice, a recommendation to buy or sell any security, a model portfolio you should copy, or a claim that past tape predicts future returns. Names appear so an operator can see *what kind of company* the American System filter keeps, parks as Red, or leaves off the list.
 
@@ -58,7 +58,7 @@ Screen surface: [investments.digitalknowledge.net](https://investments.digitalkn
 
 **Local pairing (Texas first, then Indiana).** Sinton sheet (Steel Dynamics), Starbase / Bastrop / Terafab-area build (SpaceX), Sherman 300-millimeter lines (Texas Instruments, Red until design seats convert — see that row’s Watch note). Fort Wayne / Butler / OmniSource scrap-to-steel is the Indiana pairing. Local pairing means plants and citizen pipelines under the federal signal — not a ticker tip.
 
-**4 Sep 2026 list growth.** MP Materials, GE Vernova, Freeport-McMoRan, and Cleveland-Cliffs marked Green / Sleeve Y. Deere, Lockheed Martin, and Cummins marked Green+Watch / Sleeve N. Equal-weight restates from **29 July 2026** across twelve Sleeve Y names. The start date did not move.
+**9 Oct 2026 list growth.** Duke Energy, Entergy, and Powell Industries marked Green / Sleeve Y. The Pairing Watch names added this sitting stay at $0. Equal-weight restates from **29 July 2026** across twenty-four Sleeve Y names: 23 × $416.67 + Powell Industries $416.59. The start date did not move. The name list lives on the investments screen, not on this page.
 
 ---
 
@@ -70,8 +70,8 @@ Screen surface: [investments.digitalknowledge.net](https://investments.digitalkn
 
 | Dimension | Current reading | Incomplete looks like |
 |-----------|-----------------|------------------------|
-| Screen integrity | Rising — two gates, closed lists, Watch notes required on every Red; 18 names on the guide | Mood tickers; Red rows with no Watch note; dropping columns instead of encoding Notes |
-| Paper sleeve vs SPYM | Rising — 12 Sleeve Y × $833.33 from 29 July 2026; last print 26 Aug sleeve $11,167 +11.7% vs SPYM $10,493 +4.9% (+6.8 pp) | Publishing prices as advice; mixing SPY and SPYM; putting Red or Watch-N names in the $10,000; moving the start date |
+| Screen integrity | Rising — two gates, closed lists, Watch notes required on every Red; 24 Sleeve Y on the book | Mood tickers; Red rows with no Watch note; dropping columns instead of encoding Notes |
+| Paper sleeve vs SPYM | Rising — 24 Sleeve Y, 23 × $416.67 + Powell $416.59, from 29 July 2026; print 29 Jul close → 26 Aug close, sleeve $11,008 +10.1% vs SPYM $10,493 +4.9% (+5.2 pp) | Publishing prices as advice; mixing SPY and SPYM; putting Pairing Watch or Red names in the $10,000; moving the start date |
 | Visa stack (observed) | Rising — Reds rest on counted H-1B Labor Condition Applications and Global Capability Centers; H-2B Unconfirmed where no petition found | Treating Unconfirmed as zero; H-1B-only filter |
 | Floor labor | Incomplete — Unobserved on every row; STLD is Green+Watch / Sleeve Y because scrap and contractor seats are the plausible dark path | Inventing mill-floor headcount; flipping Red on suspicion |
 
@@ -131,7 +131,7 @@ Confirmations change Status, Sleeve, or visa-stack cells. Hypotheses stay in Not
 
 ---
 
-**Status:** Published 26 Aug 2026. Living scorecard refreshes when visa-stack filings or Watch notes move. List grown 4 Sep 2026. Screen: [investments.digitalknowledge.net](https://investments.digitalknowledge.net).
+**Status:** Published 26 Aug 2026. Living scorecard refreshed 9 Oct 2026. List grown 9 Oct 2026 (24 Sleeve Y). Screen: [investments.digitalknowledge.net](https://investments.digitalknowledge.net).
 
 ---
 
