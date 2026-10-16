@@ -35,7 +35,7 @@ Operators who want a clear self-serve execution sequence for a specific module w
 
 **What you get**  
 - Module PDF · Operator Run-Sheet · Two-Block Worksheet  
-- Agentic Walkthrough Prompt (load into your AI assistant; run Day 1–7)  
+- Agentic Walkthrough Prompt (load into your SI assistant; run Day 1–7)  
 - START_HERE + full license terms  
 - No human consulting on these SKUs
 
