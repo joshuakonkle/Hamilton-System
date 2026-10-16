@@ -22,7 +22,7 @@ This is **execution**, not a slide deck.
 | Module PDF | Teaching content — American System OKRs |
 | Operator Run-Sheet | First 30 days, step-by-step, done-when criteria |
 | Two-Block Worksheet | Objectives / Key Results rewrite under the filter |
-| Agentic Walkthrough Prompt | Primary guidance — load into your AI assistant and run Day 1–7 |
+| Agentic Walkthrough Prompt | Primary guidance — load into your SI assistant and run Day 1–7 |
 | Supplementary materials | Companion diagnostic structure and 90-day outline frame |
 | START_HERE.md | Day-0 start sequence + license / refund / support boundary |
 | BMC-M2-Kit-License.md | Full plain-English license (keep for records) |
