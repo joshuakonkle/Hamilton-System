@@ -38,7 +38,7 @@ This is **execution**, not a slide deck.
 
 Introductory pricing is available for the initial release window.
 
-**[Buy the Module 2 Implementation Kit →](https://buy.stripe.com/fZufZhfPl0RxaMxf6k83C01)**
+**[Buy the Module 2 Implementation Kit →](https://store.digitalknowledge.net/l/bmc-module-2-implementation-kit)**
 
 After payment you receive a Day-0 email with a **private download link** (the only download method). Open `START_HERE.md` first.
 
@@ -92,7 +92,7 @@ Free modules and companion materials remain on [digitalknowledge.net](https://di
 
 ---
 
-**[Buy the Module 2 Implementation Kit — $159 introductory →](https://buy.stripe.com/fZufZhfPl0RxaMxf6k83C01)**
+**[Buy the Module 2 Implementation Kit — $159 introductory →](https://store.digitalknowledge.net/l/bmc-module-2-implementation-kit)**
 
 ---
 

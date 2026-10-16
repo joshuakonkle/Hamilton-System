@@ -10,4 +10,4 @@ Operating in the United States is not workforce-neutral. Seat design either buil
 
 PDF only. This overlay sits after Module 5. It does not replace BMC or EOS.
 
-[Download PDF](https://digitalknowledge.net/docs/Light-Tetrad-Overlay-v0.pdf)
+[Download PDF](Light-Tetrad-Overlay-v0.pdf)
