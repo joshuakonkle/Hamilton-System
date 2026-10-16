@@ -53,8 +53,21 @@ It was an instrument of **productive capacity and public credit**. A standing du
   The single most important primary document.  
   [Official U.S. Senate page with PDF](https://www.senate.gov/artandhistory/history/common/generic/Speeches_ClayAmericanSystem.htm)
 
+### What the Whigs built
+
+The Whig party carried the three instruments of the American System. Internal improvements—roads, canals, and other public works—widen the home market so producers reach one another. The protective tariff is a duty adjusted so farmers and manufacturers exchange in that home market, not under the British colonial system Clay named in the pamphlet title. National banking supplies public credit for a sound currency and for collecting and disbursing the revenue, in the service of commerce and production; the design is the one Hamilton laid out in the section above.
+
+Jackson’s Maysville Road veto (27 May 1830) and Bank recharter veto (10 July 1832) show the contest; the heading names the program the Whigs assembled and defended, not that every bill became a road or that the Bank survived.
+
+- [Speech of Henry Clay, in defence of the American System, against the British colonial system](https://archive.org/details/speechofhenrycla00inclay)
+- [Lincoln to the Sangamo Journal, 9 March 1832 (internal improvements)](https://papersofabrahamlincoln.org/documents/D200008)
+- [Resolutions of the Springfield Whigs, 1 March 1843 (tariff and national-bank resolutions)](https://papersofabrahamlincoln.org/documents/D200323)
+
 ### Henry C. Carey — productive power
 Carey is the mid-link Hamilton → Clay / Whig → **Carey** → Lincoln → McKinley. Where Clay defended the American System in Congress, Carey argued why protection and a home market build **productive power** — capacity that compounds — rather than labor and plant as cheap inputs to arbitrage. Prior results: not only a tariff speech. Production and home capability over rented benches.
+
+The Clay speech above is the defense in Congress. Carey is the economist who showed how a home market builds the productive power that compounds. Lincoln, below, is the next figure in that succession. That line of thinkers is the American School.
+
 - [*The Harmony of Interests, Agricultural, Manufacturing, and Commercial* (1851)](https://archive.org/details/cu31924030185056)
 - [*Principles of Social Science*, Vol. 1 (1858)](https://archive.org/details/socialscience01carerich)
 
