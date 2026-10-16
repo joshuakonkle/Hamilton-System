@@ -1,6 +1,6 @@
 # Science, Golden Age & Sovereign Capacity
 **National signals → business and local execution**  
-August 2026 · *Updated 18 Sep 2026 (Friday restack)*
+August 2026 · *Updated 16 Oct 2026 (Mesabi iron mine + Wolfspeed capacity)*
 
 This tracker centers on the White House OSTP report *Science: A New Golden Age* (Michael Kratsios, July 2026) and the credit / tax environment taking shape under Bessent and Warsh influence. It connects sovereign science policy to productive capacity, workforce design, and practical action for companies and state/local leaders.
 
@@ -46,6 +46,8 @@ One NSSTS line still needs an American System filter. Language on “attracting 
 
 Together, Kratsios, NSSTS, DoW research-security audits, and the McMahon call form one arc: merit, domestic translation of science into industry, and research security as conditions of national productive capacity — not optional prestige R&D.
 
+**16 Oct 2026 — capacity half.** Nashwauk/Mesabi iron mine — first new US iron mine in 50 years; first concentrate reported. Named production seat. Wolfspeed US chip plant — named semiconductor capacity (citizen-seat close still open on the prior OSC half).
+
 **Credit, tax, and the Bessent–Warsh vector.** Treasury Secretary Scott Bessent and the emerging influence of Kevin Warsh at the Federal Reserve are reinforcing the same direction through financial channels:
 
 - **Credit conditions** are gradually shifting away from pure financial engineering and toward productive investment. Capital is being encouraged to support domestic manufacturing, energy, infrastructure, and innovation that builds long-term American capacity.
@@ -63,7 +65,7 @@ This is not yet a fully formed industrial-policy regime, but the directional cha
 | Pairing line | Status |
 |--------------|--------|
 | Award / order | DoW 17 Aug 30-university research-security notification — **present** |
-| Citizen seat / findings / crew | Findings + U.S. lab / citizen pipeline — **waiting** |
+| Citizen seat / findings / crew | Mesabi iron mine + Wolfspeed plant named — **present** (findings + full citizen pipeline still waiting on the DoW order) |
 
 American System frame: science and workforce as productive national capacity.
 
@@ -71,7 +73,7 @@ American System frame: science and workforce as productive national capacity.
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
-| Science & technology oriented to national productive capacity | Positive / directional | Kratsios + NSSTS + DoW 30-university research-security audits + McMahon merit/foreign-influence call (Aug 2026) |
+| Science & technology oriented to national productive capacity | Positive / directional | Kratsios + NSSTS + DoW 30-university research-security audits + McMahon merit/foreign-influence call (Aug 2026) + Mesabi + Wolfspeed |
 | Sovereign American workforce (citizens + genius-level only where needed) | Directional — tension | National talent emphasis; NSSTS “global talent” line is a red flag if it becomes permanent temp/visa design for core seats |
 | Break with financialization-first innovation story | Directional | Innovation as capacity and cost-reducer, not asset narrative alone |
 | Pairing: science policy ↔ credit / industrial tools | Incomplete until the seat row closes | Vision strong; operational directed-credit link still maturing; state/local program pairing required |
@@ -136,7 +138,7 @@ This tracker does not claim a finished industrial-policy regime or deliver secur
 - DoW audit outcomes and any funding-eligibility actions after the 31 August 2026 deadline; university public reform statements under the McMahon call
 - State/local programs that pair federal science and industrial signals with citizen workforce and manufacturing initiatives (local-pairing standard)
 
-Primary anchors: White House OSTP *Science: A New Golden Age* (Kratsios); NSSTS; DoW research-security notifications; Education Department McMahon call; public Bessent and Warsh remarks on productive capacity and supply-side discipline.
+Primary anchors: White House OSTP *Science: A New Golden Age* (Kratsios); NSSTS; DoW research-security notifications; Education Department McMahon call; public Bessent and Warsh remarks on productive capacity and supply-side discipline; Nashwauk/Mesabi iron mine (first new US iron mine in 50 years); Wolfspeed US chip plant.
 
 ---
 
