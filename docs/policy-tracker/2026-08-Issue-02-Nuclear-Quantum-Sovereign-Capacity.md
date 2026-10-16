@@ -82,7 +82,7 @@ Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 
 ### 5. Hamiltonian / productive-sovereignty readout
 
-If Alexander Hamilton and Henry Clay were alive today, they would look at energy abundance and advanced computation the same way they looked at canals, foundries, and a national bank. Dense, reliable, domestic nuclear power is the modern equivalent of the internal improvements they championed. Without it, quantum-scale computation, advanced AI data centers, and high-density manufacturing remain constrained by intermittent power and foreign fuel cycles. Productive power requires both the machines and the energy to run them.
+If Alexander Hamilton and Henry Clay were alive today, they would look at energy abundance and advanced computation the same way they looked at canals, foundries, and a national bank. Dense, reliable, domestic nuclear power is the modern equivalent of the internal improvements they championed. Without it, quantum-scale computation, advanced SI data centers, and high-density manufacturing remain constrained by intermittent power and foreign fuel cycles. Productive power requires both the machines and the energy to run them.
 
 Nuclear energy and advanced computation are dual-use sovereignty technologies. The same pattern that once linked domestic manufacturing to national independence under Clay, Carey, Lincoln, and McKinley continued into the twentieth century. Even after the reintroduction of free-trade orthodoxy, the United States still relied on domestic industrial and technical capacity to prevail in two world wars.
 
@@ -110,7 +110,7 @@ The required workforce is specific and high-skill: nuclear technicians, radiatio
 
 This policy vector maps directly onto the free five-module series:
 - [Workforce Strategy (Module 5)](../webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md) – building sovereign American pipelines
-- [Operating Model + AI (Module 3)](../webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md) – redesigning work so technology elevates American roles
+- [Operating Model + SI (Module 3)](../webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md) – redesigning work so technology elevates American roles
 - [Value Streams / Lean (Module 4)](../webinar-resources/Module4-BMC-American-System-Supplementary-Materials.md) – treating loss of institutional knowledge as waste
 - Module 1 (Business Model Canvas): [PDF](../webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf)
 
