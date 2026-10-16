@@ -4,6 +4,10 @@
 
 How operators and leadership teams progress from learning the filter to executing it — with or without facilitated support.
 
+Start free with the modules, then the kit, then a fit conversation, then a pilot.
+
+Fit conversation via X [@7SwanSwimming](https://x.com/7SwanSwimming) or [joshua@digitalknowledge.net](mailto:joshua@digitalknowledge.net).
+
 ---
 
 ## 1. Free path — Learn and diagnose

@@ -1,8 +1,26 @@
 **[Modules](#webinar-modules--business-model-canvas-series)** · **[Trackers](#american-system-policy-trackers)** · **[Implementation Support](#implementation-support)** · **[About the Team](docs/public/about-the-team.md)**
 
-# American System
+# Run your bot team like you'd run your best people.
 
-**Productive Sovereignty. Practical Action.**
+Strategy, an operating system, and behavior standards for the humans who set up and run SI bot teams. Running daily on our own team of more than a dozen bot seats since August 2026.
+
+### [Strategy](https://digitalknowledge.net/modules)
+
+What to build and why.
+
+### [Operating system](https://digitalknowledge.net/start)
+
+Routines, quality gates, and no role approving its own work.
+
+### [Behavior](https://digitalknowledge.net/overlay)
+
+The standard every person and bot runs under.
+
+### American System
+
+The strategy layer is the American System, building lasting productive capacity in your own people instead of renting it.
+
+→ [Read the baseline](https://digitalknowledge.net/history)
 
 Operator execution that aligns companies and communities with the American System — sovereign domestic strength, merit-based opportunity, and high-performance results.
 
