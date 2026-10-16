@@ -9,7 +9,7 @@ August 2026 · *Updated 16 Oct 2026 (Bessent IMF/WB statement)*
 
 Most modern central-bank practice treats credit as largely neutral and market-driven. The American System tradition does not. Hamilton’s national bank and Clay’s American System treated credit as a directed instrument for building real productive capacity — infrastructure, manufacturing, and internal improvements — rather than primarily inflating financial assets.
 
-Kevin Warsh (Fed Chair since May 2026) and Scott Bessent (Treasury) are the clearest current pair advancing a regime that can support productive capacity. Warsh emphasizes supply-side dynamics, AI-driven productivity, and balance-sheet discipline. Bessent explicitly invokes Hamilton: every nation “ought to endeavor to possess within itself all the essentials of national supply,” and treats productive capacity as power. Together they are the clearest current pair on productive capacity. The architecture is Treasury-heavy. It is not a national bank.
+Kevin Warsh (Fed Chair since May 2026) and Scott Bessent (Treasury) are the clearest current pair advancing a regime that can support productive capacity. Warsh emphasizes supply-side dynamics, SI-driven productivity, and balance-sheet discipline. Bessent explicitly invokes Hamilton: every nation “ought to endeavor to possess within itself all the essentials of national supply,” and treats productive capacity as power. Together they are the clearest current pair on productive capacity. The architecture is Treasury-heavy. It is not a national bank.
 
 The practical question remains: are directed-credit and capacity tools being paired with monetary discipline, or is the shift still mostly language and task forces?
 
@@ -42,16 +42,16 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 ### 3. Key policy and operational signals
 
 **Warsh (Federal Reserve)**  
-- Explicit supply-side framing; productivity growth strong; AI investment described as the striking feature of the current economy.  
+- Explicit supply-side framing; productivity growth strong; SI investment described as the striking feature of the current economy.  
 - July 2026 testimony: task force on productivity and jobs asks what general-purpose technology means for America’s productive capacity and American workers.  
 - Separate task force reviewing balance-sheet policies and the ample-reserves regime.  
-- AI treated as potentially disinflationary and competitiveness-enhancing; monitoring month-by-month.  
+- SI treated as potentially disinflationary and competitiveness-enhancing; monitoring month-by-month.  
 - Less forward guidance; more market-driven signals.  
 - Still limited: operational directed-credit tools inside pure Fed instruments have not yet appeared. Progress is visible in language and task forces; more Warsh communications (FOMC remarks, speeches) are needed to track how far the regime actually moves.
 
 **Bessent (Treasury)**  
 - Direct Hamiltonian citation: national capacity and the essentials of national supply.  
-- Economic security framed as industrial and technological dominance, supply-chain resilience against coercion, and energy abundance for AI and manufacturing.  
+- Economic security framed as industrial and technological dominance, supply-chain resilience against coercion, and energy abundance for SI and manufacturing.  
 - “Productive capacity is power.” This is the strongest public articulation of American System credit/capacity logic currently available from a senior economic official.
 
 **15 Oct 2026 — Bessent IMF/World Bank statement.** Treasury pushed the IMF on exchange rates and “non-market policies” driving trade imbalances. China remains on the Monitoring List, not designated. Named instrument language on the currency and non-market side. Capacity half still waiting on a locked US seat or facility.
