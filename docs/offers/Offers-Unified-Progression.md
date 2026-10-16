@@ -1,93 +1,56 @@
-# Offers — Free → Low-touch → High-touch
+Offers — Free → Low-touch → High-touch
 
-**American System · Joshua Konkle · Operator**
+# Implementation Support
 
 How operators and leadership teams progress from learning the filter to executing it — with or without facilitated support.
 
----
+Start free with the modules, then the kit, then a fit conversation, then a pilot.
 
-## 1. Free path — Learn and diagnose
+Fit conversation via X [@7SwanSwimming](https://x.com/7SwanSwimming) or [joshua@digitalknowledge.net](mailto:joshua@digitalknowledge.net).
 
-**What it is**  
-The five-module American System Business Model Canvas series (and EOS series), companion materials, and American System Policy Trackers.
+[One filter. Two familiar systems.](https://digitalknowledge.net/offers/one-filter)
 
-**Who it is for**  
-Operators and leaders who want the productive-sovereignty filter without a purchase.
+## Learn and diagnose
 
-**What you get**  
-- Module PDFs and companion diagnostics  
-- Policy trackers with local/state relevance  
-- 90-day outline structure inside companion materials (starting point, not facilitated delivery)
+No purchase
 
-**Start:** [Modules and trackers on this site](../../README.md#webinar-modules--business-model-canvas-series)
+Five-module BMC series (and EOS series), companions, and American System Policy Trackers. Self-serve materials only. No human support obligation.
 
-No payment. No human support obligation on our side.
+Primary guidance: Self + published materials  
+Human facilitation: No
 
----
+→ [Start here](../public/start.md)
 
-## 2. Low-touch paid — Self-serve execution (BMC Module Implementation Kits)
+## BMC Module Implementation Kits
 
-**What it is**  
-BMC Module Implementation Kits (M1–M5): packaged 30-day operator paths with run-sheet, worksheet, and **agentic walkthrough prompt** as primary guidance.
+$159 intro · $249 standard · each
 
-**Who it is for**  
-Operators who want a clear self-serve execution sequence for a specific module without booking a human engagement.
+Self-serve 30-day operator path for each module: run-sheet, worksheet, and agentic walkthrough prompt as primary guidance. No human consulting on these SKUs.
 
-**What you get**  
-- Module PDF · Operator Run-Sheet · Two-Block Worksheet  
-- Agentic Walkthrough Prompt (load into your SI assistant; run Day 1–7)  
-- START_HERE + full license terms  
-- No human consulting on these SKUs
+Primary guidance: Agentic prompt + run-sheet  
+Human facilitation: No
 
-**Price**  
-Introductory **$159** · Standard $249 (each kit)
+→ [Kit details](#low-touch-kits-detail-buy)
 
-**Detail + buy**
+## 90-Day Sovereign Capacity Sprint
+
+$6,000 – $9,500 intro
+
+Facilitated 90-day execution. Separate purchase from the kit. Kit buyers who need facilitation move here; they are not entitled to Sprint hours from the kit SKU.
+
+Primary guidance: Facilitated + materials  
+Human facilitation: Yes
+
+→ [Sprint details](./90-Day-Sovereign-Capacity-Sprint.md)
+
+## Low-touch kits — Detail + Buy
 
 | Module | Focus | Detail | Buy |
 |--------|-------|--------|-----|
-| 1 – Business Model Canvas | Capacity redesign under productive-sovereignty filter | [Detail](./BMC-Module1-Implementation-Kit.md) | [Buy M1](https://buy.stripe.com/00wfZh7iP9o38Ep2jy83C00) |
-| 2 – OKRs | Objectives & key results that compound capacity | [Detail](./BMC-Module2-Implementation-Kit.md) | [Buy M2](https://buy.stripe.com/fZufZhfPl0RxaMxf6k83C01) |
-| 3 – Operating Model | How the work actually runs under the filter | [Detail](./BMC-Module3-Implementation-Kit.md) | [Buy M3](https://buy.stripe.com/4gM28reLh8jZ8Epgao83C02) |
-| 4 – Value Streams / Lean | Flow and waste under productive strength | [Detail](./BMC-Module4-Implementation-Kit.md) | [Buy M4](https://buy.stripe.com/fZu28r8mTbwb2g13nC83C03) |
-| 5 – Workforce Strategy | Critical seats & citizen capacity | [Detail](./BMC-Module5-Implementation-Kit.md) | [Buy M5](https://buy.stripe.com/bJe7sLcD9dEjdYJ3nC83C04) |
-
-**Boundary**  
-Self-serve, one module per kit. Residual need (multi-module integration, custom metrics, facilitated ownership) → Sprint or Fit.
-
----
-
-## 3. High-touch paid — Facilitated implementation (90-Day Sovereign Capacity Sprint)
-
-**What it is**  
-Facilitated 90-day execution engagement: operator support that turns free module outlines into a living operating rhythm.
-
-**Who it is for**  
-Leadership teams that want human facilitation, accountability, and integration — not only a self-serve kit.
-
-**What you get**  
-- Scoped 90-day path with check-ins  
-- Execution focus (not slide theater)  
-- Clear done-when outcomes agreed up front  
-
-**Price**  
-Introductory range **$6,000 – $9,500**
-
-**Detail:** [90-Day Sovereign Capacity Sprint one-pager (PDF)](./90-Day-Sovereign-Capacity-Sprint.pdf)
-
-**Boundary**  
-Facilitated work is a separate purchase from the Module Kits. Kit buyers who need facilitation move here; they are not entitled to Sprint hours from a kit SKU.
-
----
-
-## Progression at a glance
-
-| Path | Touch | Primary guidance | Human facilitation |
-|------|--------|------------------|--------------------|
-| Free modules + trackers | None | Self + published materials | No |
-| BMC Module Implementation Kits (M1–M5) | Low | Agentic prompt + run-sheet | No |
-| 90-Day Sovereign Capacity Sprint | High | Facilitated + materials | Yes |
-
----
+| 1 – Business Model Canvas | Capacity redesign under productive-sovereignty filter | [Detail](./BMC-Module1-Implementation-Kit.md) | [Buy $159](https://store.digitalknowledge.net/l/bmc-module-1-implementation-kit) |
+| 2 – OKRs | Objectives & key results that compound capacity | [Detail](./BMC-Module2-Implementation-Kit.md) | [Buy $159](https://store.digitalknowledge.net/l/bmc-module-2-implementation-kit) |
+| 3 – Operating Model | How the work actually runs under the filter | [Detail](./BMC-Module3-Implementation-Kit.md) | [Buy $159](https://store.digitalknowledge.net/l/bmc-module-3-implementation-kit) |
+| 4 – Value Streams / Lean | Flow and waste under productive strength | [Detail](./BMC-Module4-Implementation-Kit.md) | [Buy $159](https://store.digitalknowledge.net/l/bmc-module-4-implementation-kit) |
+| 5 – Workforce Strategy | Critical seats & citizen capacity | [Detail](./BMC-Module5-Implementation-Kit.md) | [Buy $159](https://store.digitalknowledge.net/l/bmc-module-5-implementation-kit) |
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
