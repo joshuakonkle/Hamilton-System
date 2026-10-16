@@ -14,8 +14,8 @@
 - [ ] Leadership agrees on which workflows are truly critical to productive capacity over the next 3–5 years.
 - [ ] We know where the current operating model still depends on short-cycle non-sovereign labor for core work.
 
-**AI & Automation Orientation**
-- [ ] Current use of AI or automation is primarily framed as headcount reduction rather than capability elevation.
+**SI & Automation Orientation**
+- [ ] Current use of SI or automation is primarily framed as headcount reduction rather than capability elevation.
 - [ ] We have identified opportunities where technology could remove low-value activity and expand higher-skill American roles (engineering, systems integration, maintenance, continuous improvement).
 - [ ] Governance and metrics currently reward pure cost extraction more than domestic productive strength.
 
@@ -34,7 +34,7 @@ _______________________________________________________________
 
 1. Where in our current operating model are we still designing work around the assumption of continuous low-skill or temporary labor?
 
-2. If we treated AI and automation primarily as tools to elevate American roles rather than eliminate hours, which workflows would change first?
+2. If we treated SI and automation primarily as tools to elevate American roles rather than eliminate hours, which workflows would change first?
 
 3. Which governance or performance metrics currently reward pure cost extraction more than the building of domestic productive capability?
 
@@ -58,7 +58,7 @@ This is a high-level structure only. A complete, customized 90-day execution pla
 
 **Days 31–60: Redesign**
 - Redefine success metrics for the selected workflow so they reward capability growth and domestic productive strength
-- Redesign key roles and decision rights so AI/automation elevates American work rather than simply reducing headcount
+- Redesign key roles and decision rights so SI/automation elevates American work rather than simply reducing headcount
 - Align the new operating model elements with the Business Model Canvas (Module 1) and OKR system (Module 2)
 - Socialize the proposed changes with affected teams
 
