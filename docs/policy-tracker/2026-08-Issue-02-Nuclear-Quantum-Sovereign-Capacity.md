@@ -1,6 +1,6 @@
 # Nuclear + Quantum as Dual-Use Sovereign Capacity
 **State & Local Execution Pathways**  
-August 2026 · *Updated 22 Sep 2026 (Genesis Q pairing cell)*
+August 2026 · *Updated 16 Oct 2026 (PsiQuantum US build)*
 
 This tracker builds directly on Science, Golden Age & Sovereign Capacity and the White House report *Science: A New Golden Age* by Michael Kratsios. That report framed energy abundance, advanced computation, and domestic scientific capacity as the foundation of national power. Here we translate those signals into practical state and local action.
 
@@ -38,6 +38,8 @@ This tracker scores nuclear and quantum signals as productive capacity — not o
 
 **Directed credit on the quantum cell — Genesis Q (September 2026).** DOE opened the Quantum Genesis Q competition at **$215 million** — a named federal productive-credit instrument aimed at American quantum capacity. That is the energy-tech ↔ directed-credit pair for this tracker. The instrument is real. The next confirmation is a named lab, yard, or fab with a citizen crew on that prize. Genesis Q is a named prize. Keep it separate from the DOE geothermal field-test selections.
 
+**16 Oct 2026 — capacity half.** PsiQuantum quantum build on US soil. Named quantum capacity. Citizen seat still open on the Genesis Q cell.
+
 **Quantum sensing and secure communications.** The Department of Defense and intelligence community already fund programs that apply quantum sensors for navigation in GPS-denied environments and for monitoring critical infrastructure. Large-scale fault-tolerant quantum computing remains further out. Near-term industrial and security value sits in sensing, timing, and secure networking.
 
 **Bessent / Warsh productive-capacity language.** Treasury Secretary Scott Bessent has stated that “productive capacity is power” and that trade policy, industrial policy, and national security execution must fit together or each will fail separately. Federal Reserve Chair Kevin Warsh was selected in part to reverse the long period of balance-sheet expansion and financialization. His direction is supply-side discipline and a balance-sheet review. The current architecture is Treasury-heavy. It is not a national bank. A dedicated tracker examines this Fed reorientation in detail.
@@ -59,18 +61,18 @@ Award without a seat is not finished work. Two rows, not a HALF stamp.
 | Pairing line | Status |
 |--------------|--------|
 | Award / order | Genesis Q $215M prize / RFA — **present** (JANUS award remains on the nuclear-deployment row) |
-| Citizen seat / findings / crew | Crew pipeline at a named Genesis Q lab / fab — **waiting** |
+| Citizen seat / findings / crew | PsiQuantum US build named — **present** (crew pipeline at a named Genesis Q lab / fab still waiting) |
 
 American System frame: energy and advanced computation as dual-use productive capacity.
 
-*(Refresh 22 Sep 2026 — Genesis Q $215M named as the directed-credit instrument on the energy-tech cell.)*
+*(Refresh 16 Oct 2026 — PsiQuantum US build added to capacity half.)*
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
 | Nuclear treated as productive capacity (not only regulatory/environmental) | Positive / directional | State examples (TX, TN); DOE deployment path; dual-use sovereignty frame |
-| Quantum sensing / communications as industrial & defense capacity | Directional → stronger on state execution | NY quantum-comms network milestone (Aug 2026); plain-English dual-use |
+| Quantum sensing / communications as industrial & defense capacity | Directional → stronger on state execution | NY quantum-comms network milestone (Aug 2026); PsiQuantum US build; plain-English dual-use |
 | Secure domestic supply chains (fuel, components, high-skill roles) | **Rising urgency** | Foreign primary offtake concentration (KAP→CN/RU); U.S. mining restart small but real; Centrus HALEU commercialization path multi-year |
-| Pairing: energy-tech sovereignty ↔ directed credit / state execution | **Rising** | Named federal instrument exists (DOE Quantum Genesis Q, $215M). Crew / citizen seats at a named lab are the next confirmation, not the gate for this cell. Geothermal field-test selections are a different DOE line — do not mash. |
+| Pairing: energy-tech sovereignty ↔ directed credit / state execution | **Rising** | Named federal instrument exists (DOE Quantum Genesis Q, $215M). PsiQuantum adds a named US build. Crew / citizen seats at a named lab are the next confirmation, not the gate for this cell. Geothermal field-test selections are a different DOE line — do not mash. |
 
 Scores are directional, not grades. They update when evidence moves.
 
@@ -118,13 +120,13 @@ Each module already contains a practical 90-day action plan outline. Customized 
 
 ### 8. Out of scope (explicit)
 
-This tracker does not claim that foreign offtake concentration equals a deliberate cut-off of U.S. programs, does not deliver securities or portfolio advice, and does not treat speculative exotic-communications claims as established fact. It scores documented deployment, fuel-cycle, state-execution, and workforce signals against American System productive-capacity standards. Genesis Q is productive directed credit, a named prize.
+This tracker does not claim that foreign offtake concentration equals a deliberate cut-off of U.S. programs, does not deliver securities or portfolio advice, and does not treat speculative exotic-communications claims as established fact. It scores documented deployment, fuel-cycle, state-execution, and workforce signals against American System productive-capacity standards. Genesis Q is productive directed credit, a named prize. PsiQuantum is a named US build; citizen seat on Genesis Q remains open.
 
 ---
 
 ### 9. Signal sources (ongoing pulse)
 
-Department of Energy awards and HALEU Availability Program; DOE Quantum Genesis Q competition ($215M prize / RFA, Sep 2026); DOE / TVA / Holtec / Centrus / Oklo / X-energy public deployment and licensing signals; Department of Defense and intelligence community quantum sensing and secure communications programs; Treasury (Bessent) and Federal Reserve (Warsh) productive-capacity language; Kazatomprom offtake and cost disclosures; New York quantum communications network milestones; Texas Advanced Nuclear Energy Office / Development Fund; Tennessee Nuclear Energy Fund; state SMR and nuclear grant statutes (IN, KY, LA and peers).
+Department of Energy awards and HALEU Availability Program; DOE Quantum Genesis Q competition ($215M prize / RFA, Sep 2026); DOE / TVA / Holtec / Centrus / Oklo / X-energy public deployment and licensing signals; Department of Defense and intelligence community quantum sensing and secure communications programs; Treasury (Bessent) and Federal Reserve (Warsh) productive-capacity language; Kazatomprom offtake and cost disclosures; New York quantum communications network milestones; Texas Advanced Nuclear Energy Office / Development Fund; Tennessee Nuclear Energy Fund; state SMR and nuclear grant statutes (IN, KY, LA and peers); PsiQuantum US quantum build.
 
 ---
 
