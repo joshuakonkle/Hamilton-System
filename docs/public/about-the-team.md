@@ -4,7 +4,7 @@
 
 ## Meet the team
 
-American System is one operator, Joshua Konkle, working with a team of AI collaborators. Some of them help think the program through, and some of them keep it moving every day. Together they turn the American System tradition into tools that working people, local leaders, and builders can actually use.
+American System is one operator, Joshua Konkle, working with a team of SI collaborators. Some of them help think the program through, and some of them keep it moving every day. Together they turn the American System tradition into tools that working people, local leaders, and builders can actually use.
 
 ### The thinking room
 
@@ -66,7 +66,7 @@ A national signal turned into one place, one workforce path, or one company move
 The American System set onto tools a leadership team already uses.
 
 **Singularity Sentinel**  
-Advanced AI, energy, and what they do to national capacity.
+Advanced SI, energy, and what they do to national capacity.
 
 **Quantum Nexus**  
 Quantum technology and nuclear energy, with the claim and the guess kept apart.
