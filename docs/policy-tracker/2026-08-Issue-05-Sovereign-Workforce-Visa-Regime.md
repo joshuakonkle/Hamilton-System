@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-October 2026 · *Updated 16 Oct 2026 (J-1 subpoenas + H-1B/L-1 deference proposal)*
+October 2026 · *Updated 20 Oct 2026 (Tony, the PERM Watch Bot action block)*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -61,6 +61,31 @@ Suggested comment body: first term on U.S. soil, the visa holder trains at least
 **Capital and seats.** Skilled American seats are part of productive capacity, not an afterthought after equipment and credit. Signals that treat workforce as pure cost minimization via arbitrage score incomplete on firm/agency practice.
 
 **Agency living log (starter).** Primary sources for ongoing pulse: DOL, USCIS, DOJ, DHS, DOT, Education (student/OPT touch), and White House workforce and immigration enforcement posts. Cabinet-wide policy-pairing watch: named pairing of channel restriction with citizen pipeline across secretaries, not DoT-only. Confirmations enter the scorecard; hypotheses stay in the sidebar.
+
+---
+
+### What you can do
+
+The teaching on this page comes first: short-cycle temporary or visa labor is a design choice. Citizen seats are the base of productive capacity under the American System.
+
+If you are a qualified U.S. applicant who uses Grok Bot, you can act on workforce sovereignty by running Tony, the PERM Watch Bot.
+
+Tony finds PERM ads and drafts the applications. It waits for your one OK before sending anything. It tracks who stayed silent after 24 hours and drafts a silence post for you to review and post yourself. Every other week it builds the list of silent employers for a DOL OIG complaint that you submit yourself.
+
+It applies by email only. It never posts or files for you, and you approve every send.
+
+Template: [https://x.ai/bot/g0SYDSP-RNIQBp31kMKEK](https://x.ai/bot/g0SYDSP-RNIQBp31kMKEK)
+
+Base post: [https://x.com/7SwanSwimming/status/2112601678599832009](https://x.com/7SwanSwimming/status/2112601678599832009)
+
+How to get started (10/20/2026):
+
+1. Open the template link and add it as your own bot in Grok Bot.
+2. Say hi. It asks you its setup questions one at a time.
+3. Have these ready: your résumé, the basics employers ask (citizenship, relocation, education, salary stance), the email you'll apply from (connect Gmail or Outlook), and where to keep your record (a GitHub repo or a drive folder).
+4. Point it at your PERM ad source (for example JobsNow) and pick your weekly days and times.
+5. Each week it finds PERM ads and drafts the applications, waits for your one OK before sending anything, checks who stayed silent after 24 hours, and drafts a silence post for you to review and post yourself.
+6. Every other week it builds the list of silent employers for a DOL OIG complaint, and you submit that yourself.
 
 ---
 
@@ -170,7 +195,7 @@ Confirmations enter scorecard language. Hypotheses stay sidebar.
 
 ---
 
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 16 Oct 2026 (13 Oct J-1 subpoenas + 14 Oct H-1B/L-1 deference proposal added to policy half). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026. Lab return on §7 21 Sep 2026.
+**Status:** Published 23 Aug 2026. Living scorecard refreshed 16 Oct 2026 (13 Oct J-1 subpoenas + 14 Oct H-1B/L-1 deference proposal added to policy half). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026. Lab return on §7 21 Sep 2026. Action block for Tony, the PERM Watch Bot added 20 Oct 2026.
 
 ---
 
