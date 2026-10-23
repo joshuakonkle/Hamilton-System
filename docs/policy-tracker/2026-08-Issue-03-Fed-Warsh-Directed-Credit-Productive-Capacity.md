@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 16 Oct 2026 (Bessent IMF/WB statement)*
+August 2026 · *Updated 23 Oct 2026 (Bessent Lincoln banking model + short-bond)*
 
 ---
 
@@ -56,6 +56,8 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 **15 Oct 2026 — Bessent IMF/World Bank statement.** Treasury pushed the IMF on exchange rates and “non-market policies” driving trade imbalances. China remains on the Monitoring List, not designated. Named instrument language on the currency and non-market side. Capacity half still waiting on a locked US seat or facility.
 
+**23 Oct 2026 — Bessent Lincoln banking model + short-bond alignment.** Secretary Bessent named Abraham Lincoln’s banking model and aligned it with the short-bond model. Named historical model and mechanism present. Divergence between the Lincoln model and the short-bond structure is known and noted. Operational directed-credit instruments that lock capacity seats still waiting.
+
 **What to watch**  
 - Whether Fed task forces produce actual capacity-linked or directed-credit mechanisms, or remain analytical.  
 - Coordination between Treasury industrial policy and Fed balance-sheet actions.  
@@ -70,17 +72,17 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 American System frame: credit directed to real productive capacity, not financialization.
 
-*(Living scorecard — refreshed 16 Oct 2026.)*
+*(Living scorecard — refreshed 23 Oct 2026 with Bessent Lincoln / short-bond.)*
 
 | Pairing line | Status |
 |--------------|--------|
-| Language / task force | Warsh capacity task force + Bessent Hamilton citations + 15 Oct IMF/WB statement — **present** |
+| Language / task force | Warsh capacity task force + Bessent Hamilton citations + 15 Oct IMF/WB statement + 23 Oct Lincoln banking model / short-bond alignment — **present** |
 | Operational tools | Directed-credit instruments alongside monetary discipline — **waiting** |
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
 | Credit directed toward real capacity | Emerging | Stronger on Treasury/industrial side than pure Fed instruments |
-| Domestic productive strength as explicit goal | Strengthening | Warsh task-force language + Bessent Hamilton citations + IMF/WB statement |
+| Domestic productive strength as explicit goal | Strengthening | Warsh task-force language + Bessent Hamilton citations + IMF/WB statement + Lincoln / short-bond |
 | Break with pure financialization | Directional | Balance-sheet review is real; full regime change not locked |
 | Pairing of security / capacity tools | Developing | Clear on energy, supply chains, advanced manufacturing |
 
@@ -155,6 +157,7 @@ This tracker does not deliver monetary-policy prescriptions, securities advice, 
 - Warsh July 2026 Semiannual Monetary Policy Report testimony (productive capacity task force; balance-sheet review).  
 - Bessent public remarks citing Hamilton on national supply and productive capacity as power.  
 - 15 Oct 2026 Bessent IMF/World Bank statement on exchange rates and non-market policies.  
+- 23 Oct 2026 Bessent Lincoln banking model + short-bond alignment.  
 - Prior trackers: [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md); [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md).  
 - Free modules & 90-day outlines: [digitalknowledge.net](https://digitalknowledge.net)  
 - American System Historical Baseline on source / digitalknowledge.net
