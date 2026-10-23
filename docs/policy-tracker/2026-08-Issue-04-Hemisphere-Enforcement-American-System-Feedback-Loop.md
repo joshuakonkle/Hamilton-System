@@ -1,7 +1,7 @@
 # Hemisphere Enforcement + American System Feedback Loop
 **Security Gains as Precondition for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 16 Oct 2026 (SWPC MOA + Fincantieri shipyard capacity)*
+August 2026 · *Updated 23 Oct 2026 (visa restrictions Colombia/Bolivia + prior SWPC/Fincantieri)*
 
 ---
 
@@ -20,6 +20,8 @@ August 2026 produced a dense cluster of simultaneous enforcement actions across 
 **5 Oct add (scorecard still waits on the other half):** Three later security acts, none of them Shield of the Americas. Colombia handed Geovany Andrés Rojas (“Araña”) to U.S. officials in Bogotá on 25 Sep; U.S. custody San Diego 26 Sep; magistrate appearance 28 Sep (S.D. Cal.). Treasury OFAC on 29 Sep designated Sinaloa Cartel leadership and corruption networks. On 1 Oct the Corte Nacional de Justicia of Ecuador granted extradition of Daniel Salcedo Bonilla and Ronald Patricio Herrera to the Southern District of New York — a grant, not a completed delivery. Security and financial-friction present. A named U.S. plant, port, yard, or directed-credit tool is still waiting.
 
 **16 Oct add — capacity half:** SBA / DoW Smaller War Plants Commission MOA (framework). Fincantieri Marine Group Wisconsin System of Shipyards received ~$10M (Navy SCIB + MARAD Small Shipyard Grant) for modernization of advanced manufacturing capacity. Named US shipyard seats. Production-funding credit half. Does not close Shield or prior Hemisphere parents.
+
+**23 Oct add — security half:** State Department visa restrictions (22 Oct) on 21 Colombian and 40 Bolivian individuals under INA 212(a)(3)(C). Advances Shield of the Americas / Doral. Security half present. Named U.S. plant, port, yard, or directed productive-credit tool still waiting. Not a workforce tracker signal.
 
 This tracker does **not** claim a single coordinated global order change. It scores concrete enforcement data against a two-way feedback loop:
 
@@ -58,6 +60,7 @@ Simultaneous multi-country actions are evidence of rising enforcement pressure a
 - **Colombia:** New president Abelardo De La Espriella inaugurated with organized-crime enforcement and fiscal discipline as opening priorities; early capture of a senior Comandos de Frontera figure on southern trafficking corridors; Colombia joining the Americas Counter-Cartel Coalition and requesting deeper U.S. operational partnership.  
 - **28 Sep 2026:** Colombia extradition of Geovany Andrés Rojas (“Araña”) to the United States. Handed to U.S. officials in Bogotá 25 Sep; U.S. custody San Diego 26 Sep; magistrate appearance 28 Sep (S.D. Cal.). Charges: narcoterrorism / drug trafficking (Comandos de la Frontera, Putumayo–Ecuador–Peru corridor). Security present; named U.S. plant, port, yard, or directed-credit tool waiting. Not Shield of the Americas.  
 - **1 Oct 2026:** Corte Nacional de Justicia (Ecuador) — extradition granted of Daniel Salcedo Bonilla and Ronald Patricio Herrera to the Southern District of New York. Salcedo is required there on narcotics-import conspiracy, firearms, and money-laundering conspiracy; Herrera, a former police officer, is requested on narcotics-import conspiracy and firearms. The grant is the act, not delivery. Security present; named U.S. plant, port, yard, or directed-credit tool waiting. Not Shield of the Americas. Pointer quoting the court comunicado: [El Universo, 1 Oct 2026](https://www.eluniverso.com/noticias/politica/ecuador-concede-extradicion-a-estados-unidos-de-daniel-salcedo-y-exagente-policial-ronald-herrera-nota/).  
+- **22 Oct 2026:** State Department visa restrictions on 21 Colombian and 40 Bolivian individuals (INA 212(a)(3)(C)). Advances Shield of the Americas / Doral. Security half present. Named U.S. plant, port, yard, or directed productive-credit tool waiting.  
 - **Chile:** Tougher organized-crime agenda under President Kast in the same window.  
 - **Haiti:** National Police permanent base at Varreux fuel terminal (Cité Soleil) — the node gangs previously used to hold fuel supply and the wider economy.  
 - **Amazon five-country operation (Brazil, Colombia, Peru, Ecuador, Bolivia):** Coordinated environmental-crime and trafficking crackdown; arrests and seizures across shared corridors.  
@@ -78,7 +81,7 @@ Presidential Memorandum on rebuilding the U.S. Navy and America’s shipbuilding
 **16 Oct 2026 — capacity half.** SBA / DoW Smaller War Plants Commission MOA (framework for smaller war plants). Fincantieri Marine Group Wisconsin System of Shipyards (Marinette et al.): ~$8.3M Navy Shipbuilding Capability Industrial Base (SCIB) funding + $1.3M MARAD Small Shipyard Grant for advanced cutting/forming/welding/automation. Named US shipyard capacity modernization. Production-funding credit half. Does not close Hemisphere or Anduril parents.
 
 **What this is not**  
-A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it. The late-August Ecuador OFAC + EPAC kinetic pair is **same-corridor pressure**, not a new simultaneous Colombia+Chile+Haiti+Amazon package, and it carries **no co-announced productive-credit tool** in the primary documents reviewed. Shield of the Americas is the same rule: coalition accession is not a U.S. yard or credit tool. The 28 Sep Colombia extradition, the 29 Sep Sinaloa leadership designations, and the 1 Oct Ecuador extradition grant are the same rule: security or financial-friction present, capacity still waiting.
+A claim that every listed action was directed from one desk, or that illicit networks are finished. It is a snapshot of rising, multi-theater enforcement and industrial-base moves that clear space for productive capacity — if credit, workforce, and industrial tools move with it. The late-August Ecuador OFAC + EPAC kinetic pair is **same-corridor pressure**, not a new simultaneous Colombia+Chile+Haiti+Amazon package, and it carries **no co-announced productive-credit tool** in the primary documents reviewed. Shield of the Americas is the same rule: coalition accession is not a U.S. yard or credit tool. The 28 Sep Colombia extradition, the 29 Sep Sinaloa leadership designations, the 1 Oct Ecuador extradition grant, and the 22 Oct visa restrictions are the same rule: security or financial-friction present, capacity still waiting.
 
 **Link to the Federal Reserve tracker**  
 Bessent’s framing — productive capacity as power, essentials of national supply — is the economic half of the same sovereignty logic. Security gains without directed capacity tools leave the loop incomplete; capacity rhetoric without hemisphere control leaves supply chains and finance exposed.
@@ -91,16 +94,16 @@ Bessent’s framing — productive capacity as power, essentials of national sup
 
 American System frame: security gains paired with productive capacity and citizen capability.
 
-*(Living scorecard — refreshed 16 Oct 2026 with SWPC MOA + Fincantieri Wisconsin shipyard modernization. Loop still Incomplete on Shield and prior Hemisphere parents.)*
+*(Living scorecard — refreshed 23 Oct 2026 with 22 Oct visa restrictions. Loop still Incomplete on Shield and prior Hemisphere parents.)*
 
 | Pairing line | Status |
 |--------------|--------|
-| Security half | Colombia extradition of Geovany Andrés Rojas (“Araña”) (28 Sep); OFAC Sinaloa Cartel leadership and corruption networks (29 Sep); Ecuador grant of extradition of Daniel Salcedo Bonilla and Ronald Patricio Herrera (1 Oct); prior Shield of the Americas / Peru accession — **present** |
+| Security half | 22 Oct State Dept visa restrictions (21 Colombian + 40 Bolivian); Colombia extradition of Geovany Andrés Rojas (“Araña”) (28 Sep); OFAC Sinaloa Cartel leadership and corruption networks (29 Sep); Ecuador grant of extradition of Daniel Salcedo Bonilla and Ronald Patricio Herrera (1 Oct); prior Shield of the Americas / Peru accession — **present** |
 | Capacity / credit half | Fincantieri Wisconsin System of Shipyards modernization (~$10M Navy SCIB + MARAD) + SWPC MOA framework — **present** (does not close Shield or prior Hemisphere parents) |
 
 | Dimension | Current Reading | Notes |
 |-----------|-----------------|-------|
-| Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure; Aug 20 OFAC Ecuador + Aug 23–24 EPAC kinetic; 10 Sep Shield of the Americas / Peru accession; 28 Sep Colombia extradition of Rojas; 29 Sep OFAC Sinaloa leadership and corruption networks; 1 Oct Ecuador extradition grant |
+| Sovereignty (territorial / financial control) | Positive / rising | Multi-country territorial actions + designation/AML pressure; Aug 20 OFAC Ecuador + Aug 23–24 EPAC kinetic; 10 Sep Shield of the Americas / Peru accession; 28 Sep Colombia extradition of Rojas; 29 Sep OFAC Sinaloa leadership and corruption networks; 1 Oct Ecuador extradition grant; 22 Oct visa restrictions |
 | Precondition for productive credit | Supportive | Clearing cartel control of ports, corridors, and finance is necessary ground for capacity investment |
 | Innovation-over-arbitrage / repatriation | Neutral | Enforcement does not by itself shift labor or innovation models; that remains company and credit-policy work |
 | Two-way loop (security ↔ capacity tools) | **Incomplete** | Security half active. Capacity half now has a named shipyard modernization (Fincantieri) and SWPC framework. Shield and prior Hemisphere parents still wait on a paired tool. |
@@ -145,7 +148,7 @@ Free hub: [digitalknowledge.net](https://digitalknowledge.net)
 
 ### 8. Out of scope (explicit)
 
-This tracker does not claim a single coordinated global order change, permanent victory over illicit networks, or co-announced productive-credit tools where primary documents do not show them. Late-August OFAC Ecuador + EPAC kinetic, September Shield accession, Outcast airline designations, the 28 Sep Colombia extradition of Geovany Andrés Rojas (“Araña”), the 29 Sep OFAC designations of Sinaloa Cartel leadership and corruption networks, and the 1 Oct Ecuador grant of extradition of Daniel Salcedo Bonilla and Ronald Patricio Herrera are scored as security and financial-friction moves — not as proof that the economic half of the loop has closed. Fincantieri Wisconsin modernization and the SWPC MOA are capacity half; they do not close Shield or prior Hemisphere parents.
+This tracker does not claim a single coordinated global order change, permanent victory over illicit networks, or co-announced productive-credit tools where primary documents do not show them. Late-August OFAC Ecuador + EPAC kinetic, September Shield accession, Outcast airline designations, the 28 Sep Colombia extradition of Geovany Andrés Rojas (“Araña”), the 29 Sep OFAC designations of Sinaloa Cartel leadership and corruption networks, the 1 Oct Ecuador grant of extradition of Daniel Salcedo Bonilla and Ronald Patricio Herrera, and the 22 Oct visa restrictions are scored as security and financial-friction moves — not as proof that the economic half of the loop has closed. Fincantieri Wisconsin modernization and the SWPC MOA are capacity half; they do not close Shield or prior Hemisphere parents.
 
 **Open questions (living — National Monitor updates as signals arrive)**  
 1. Do new enforcement waves continue to land on territorial nodes (ports, fuel, border corridors) or shift mainly to episodic raids?  
@@ -153,28 +156,6 @@ This tracker does not claim a single coordinated global order change, permanent 
 3. Where, if anywhere, are productive-credit or industrial-capacity tools being explicitly paired with hemisphere security gains (federal or state)?  
 4. Which U.S. states are treating logistics and energy-node integrity as part of sovereign capacity strategy rather than pure regulation?  
 5. Which states beyond Texas are pairing federal shipbuilding / Finland Model signals with concrete citizen workforce and yard-capital programs?  
-6. Are follow-on hulls after the first foreign builds actually shifting to U.S. yards with documented domestic investment, or is the transfer clause weak in practice?
-7. Does Shield of the Americas attach a named U.S. plant, port, yard, shipyard, or directed-credit tool — or does it remain a security coalition only?
-
----
-
-### 9. Signal sources (ongoing pulse)
-
-- Primary pattern source: [@TheDebriefing17](https://x.com/TheDebriefing17) on X, thread and follow-ons (Aug 8–12, 2026) on simultaneous multi-country enforcement.  
-- U.S. Southern Command / Joint Task Force Western Hemisphere and Americas Counter-Cartel Coalition public reporting (Aug 2026); EPAC kinetic reporting 23–24 Aug 2026.  
-- Department of State, Lima, 10 Sep 2026 — Peru accession to Shield of the Americas (Secretary Rubio / President Fujimori).  
-- DOJ/DEA/OFAC public actions on CJNG leadership, rewards, and related AML/sanctions; Treasury PR sb0610 (20 Aug 2026) Ecuador network; Treasury PR sb0636 (29 Sep 2026) Sinaloa Cartel leadership and corruption network.  
-- 16 Oct 2026: SBA / DoW Smaller War Plants Commission MOA; Fincantieri Wisconsin System of Shipyards Navy SCIB + MARAD Small Shipyard Grant.  
-- Free modules & 90-day outlines: [digitalknowledge.net](https://digitalknowledge.net)
-
----
-
-**Joshua Konkle**  
-Operator  
-@7SwanSwimming on X.com  
-512-423-5448  
-joshua@digitalknowledge.net
-
----
+6. Are follow-on hulls after the first foreign builds actually shipping from U.S. yards on citizen seats?
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
