@@ -33,6 +33,8 @@ Prior results (only if someone asks whether this pattern has worked): [historica
 
 ---
 
+<section id="diagnostic">
+
 ### One-Page Diagnostic Checklist
 #### Workforce & Productive Capacity Diagnostic
 
@@ -63,6 +65,8 @@ Prior results (only if someone asks whether this pattern has worked): [historica
 **Summary Notes / Priority Gaps**:
 _______________________________________________________________
 _______________________________________________________________
+
+</section>
 
 ---
 

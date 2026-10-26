@@ -3,6 +3,8 @@
 
 ---
 
+<section id="diagnostic">
+
 ### One-Page Diagnostic Checklist
 #### Operating Model Diagnostic
 
@@ -27,6 +29,8 @@
 **Summary Notes / Priority Gaps**:
 _______________________________________________________________
 _______________________________________________________________
+
+</section>
 
 ---
 
