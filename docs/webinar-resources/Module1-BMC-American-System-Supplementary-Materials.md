@@ -7,7 +7,7 @@
 
 The live signal from [Reorienting the Federal Reserve](/trackers/issue-03) sits on the diagnostic.
 
-*(Landing renders this line + the Diagnose card only. Do not dump the checklist under the slides.)*
+*(Landing renders this line + the Diagnose card. Render the printable One-Page Diagnostic Checklist section (id="diagnostic") on this module page in the same format as modules 02–04: heading, company/date lines, grouped tick boxes. Do not dump the Live signal under the slides. Live signal stays on the guide. Emit the section id; do not print the section tags as text.)*
 
 ---
 
@@ -34,6 +34,9 @@ Prior results (only if someone asks whether this pattern has worked): [historica
 ---
 
 ### One-Page Diagnostic Checklist
+
+<section id="diagnostic">
+
 #### Workforce & Productive Capacity Diagnostic
 
 **Company / Business Unit**: _______________________________  
@@ -63,6 +66,8 @@ Prior results (only if someone asks whether this pattern has worked): [historica
 **Summary Notes / Priority Gaps**:
 _______________________________________________________________
 _______________________________________________________________
+
+</section>
 
 ---
 

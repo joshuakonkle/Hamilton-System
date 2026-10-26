@@ -4,6 +4,9 @@
 ---
 
 ### One-Page Diagnostic Checklist
+
+<section id="diagnostic">
+
 #### Value Stream & Lean Diagnostic
 
 **Company / Business Unit**: _______________________________  
@@ -27,6 +30,8 @@
 **Summary Notes / Priority Gaps**:
 _______________________________________________________________
 _______________________________________________________________
+
+</section>
 
 ---
 

@@ -112,6 +112,8 @@ Modern examples (such as deliberate replacement of non-sovereign CDL drivers wit
 
 This baseline is intended as a living resource. Future updates may add additional primary texts, modern applications, or cross-references to strategy frameworks developed for state and local use.
 
+Next, start the diagnostic at [/start](/start). Then take the same questions to a local seat at [/local](/local).
+
 ---
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
