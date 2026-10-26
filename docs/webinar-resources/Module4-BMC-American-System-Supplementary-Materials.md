@@ -3,10 +3,9 @@
 
 ---
 
-### One-Page Diagnostic Checklist
-
 <section id="diagnostic">
 
+### One-Page Diagnostic Checklist
 #### Value Stream & Lean Diagnostic
 
 **Company / Business Unit**: _______________________________  

@@ -3,10 +3,9 @@
 
 ---
 
-### One-Page Diagnostic Checklist
-
 <section id="diagnostic">
 
+### One-Page Diagnostic Checklist
 #### Operating Model Diagnostic
 
 **Company / Business Unit**: _______________________________  
