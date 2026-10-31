@@ -38,7 +38,23 @@ This tracker scores nuclear and quantum signals as productive capacity — not o
 
 **Directed credit on the quantum cell — Genesis Q (September 2026).** DOE opened the Quantum Genesis Q competition at **$215 million** — a named federal productive-credit instrument aimed at American quantum capacity. That is the energy-tech ↔ directed-credit pair for this tracker. The instrument is real. The next confirmation is a named lab, yard, or fab with a citizen crew on that prize. Genesis Q is a named prize. Keep it separate from the DOE geothermal field-test selections.
 
+**17 Sep 2026 (opened), DOE Quantum Genesis Q Competition:** up to $215M in planned funding to demonstrate the first fault-tolerant, scientifically relevant quantum computers (at least 100 logical qubits). It is open to private companies. $2.5M is FY2026 money; the out-years depend on appropriations. It is a named federal prize instrument. No named lab or citizen crew yet.
+
+FACT
+
+https://www.energy.gov/science/articles/doe-launches-competition-accelerate-development-worlds-first-fault-tolerant
+
+https://x.com/7SwanSwimming/status/2114846322901557711
+
 **16 Oct 2026 — capacity half.** PsiQuantum quantum build on US soil. Named quantum capacity. Citizen seat still open on the Genesis Q cell.
+
+**27 Oct 2026, BWXT and Antares:** a multi-year commercial agreement for TRISO fuel, with an initial 1 MTU, made at BWXT's Lynchburg, Virginia facility. It is the same TRISO line that made fuel for the Department of War's Project Pele and Antares' Mark-0. A named domestic plant. No credit instrument. The crew is still open.
+
+FACT
+
+https://www.bwxt.com/bwxt-announces-contract-with-antares-for-triso-nuclear-fuel-production/
+
+https://x.com/7SwanSwimming/status/2115196805814120612
 
 **Quantum sensing and secure communications.** The Department of Defense and intelligence community already fund programs that apply quantum sensors for navigation in GPS-denied environments and for monitoring critical infrastructure. Large-scale fault-tolerant quantum computing remains further out. Near-term industrial and security value sits in sensing, timing, and secure networking.
 
@@ -75,6 +91,14 @@ American System frame: energy and advanced computation as dual-use productive ca
 | Pairing: energy-tech sovereignty ↔ directed credit / state execution | **Rising** | Named federal instrument exists (DOE Quantum Genesis Q, $215M). PsiQuantum adds a named US build. Crew / citizen seats at a named lab are the next confirmation, not the gate for this cell. Geothermal field-test selections are a different DOE line — do not mash. |
 
 Scores are directional, not grades. They update when evidence moves.
+
+**17 Sep 2026 (opened), DOE Quantum Genesis Q Competition:** up to $215M in planned funding to demonstrate the first fault-tolerant, scientifically relevant quantum computers (at least 100 logical qubits). It is open to private companies. $2.5M is FY2026 money; the out-years depend on appropriations. It is a named federal prize instrument. No named lab or citizen crew yet.
+
+FACT
+
+https://www.energy.gov/science/articles/doe-launches-competition-accelerate-development-worlds-first-fault-tolerant
+
+https://x.com/7SwanSwimming/status/2114846322901557711
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
 

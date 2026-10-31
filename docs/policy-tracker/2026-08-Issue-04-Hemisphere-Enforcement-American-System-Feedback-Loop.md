@@ -72,7 +72,19 @@ Simultaneous multi-country actions are evidence of rising enforcement pressure a
 - OFAC and related AML actions against cartel-linked finance, fuel-smuggling schemes, and laundering channels; record or near-record penalties in adjacent AML cases underscoring financial-rail pressure.  
 - **20 Aug 2026:** OFAC / Treasury — *Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels* — 15 Ecuador-based targets designated; 10 fishing vessels blocked (Manta / EPAC go-fast support) tied to Los Choneros and Los Lobos with cocaine routes into Mexico via Sinaloa and CJNG. Primary: [home.treasury.gov/news/press-releases/sb0610](https://home.treasury.gov/news/press-releases/sb0610).  
 - **29 Sep 2026:** OFAC / Treasury — *Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks* — designations of Sinaloa Cartel leadership and corruption networks (21 individuals and 25 entities), including Los Mayos leader Ismael Zambada Sicairos (“Mayito Flaco”), Tijuana cell leaders, money launderers, and named corrupt politicians tied to Baja California plazas. Security / financial-friction present; named U.S. plant, port, yard, or directed-credit tool waiting. Not Shield of the Americas. Primary: [home.treasury.gov/news/press-releases/sb0636](https://home.treasury.gov/news/press-releases/sb0636).  
+- **28 Oct 2026:** OFAC / Treasury, *Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses*. Ten individuals and one entity were designated. The entity is the First Financial and Technical Development Center, a DPRK-controlled entity located in Russia that runs IT-worker schemes defrauding U.S. businesses. Security and financial friction are present. A named U.S. plant, port, yard or directed-credit tool is still waiting. Primary: [home.treasury.gov/news/press-releases/sb0669](https://home.treasury.gov/news/press-releases/sb0669).
+
+FACT
+
+https://ofac.treasury.gov/recent-actions/20261028
+
+**PATTERN TO WATCH (Joshua's own; no primary source claimed):** "Russia stood aside. Treasury hit a DPRK-run center on Russian soil, and Moscow did not step in, as with Iran. Joshua reads this as a sign of Trump–Putin alignment within Hemisphere Enforcement." [No primary source for any Russian non-response; Treasury's release does not address Russia's reaction.]
+
 - **Sep 2026 Outcast / airline-sanctions continuation:** Treasury designation wave against Iranian aviation and related nodes, including tentacles touching Britain and China. Same security / financial-friction rail as earlier Outcast work. Not a productive-credit pairing.
+- **Oct 2026, Operation Economic Outcast (Treasury).** On 8 Oct, Treasury said its shadow-fleet action 'effectively neutralizes the vast majority of Iran's remaining shadow fleet network' ([sb0653](https://home.treasury.gov/news/press-releases/sb0653)). On 21 Oct it sanctioned the law firm Karnakis and Karnakis plus shipping agents and vessels ([sb0664](https://home.treasury.gov/news/press-releases/sb0664)). This is the same security and financial-friction rail. It is not a productive-credit pairing.
+
+FACT (Treasury's claims, cited as Treasury's).
+
 - Parallel partner sanctions and joint European actions against CJNG-linked cells outside the hemisphere (context only; not the core of this scorecard).
 
 **Industrial base / shipbuilding (Finland Model)**  
@@ -98,7 +110,7 @@ American System frame: security gains paired with productive capacity and citize
 
 | Pairing line | Status |
 |--------------|--------|
-| Security half | 22 Oct State Dept visa restrictions (21 Colombian + 40 Bolivian); Colombia extradition of Geovany Andrés Rojas (“Araña”) (28 Sep); OFAC Sinaloa Cartel leadership and corruption networks (29 Sep); Ecuador grant of extradition of Daniel Salcedo Bonilla and Ronald Patricio Herrera (1 Oct); prior Shield of the Americas / Peru accession — **present** |
+| Security half | 22 Oct State Dept visa restrictions (21 Colombian + 40 Bolivian); Colombia extradition of Geovany Andrés Rojas (“Araña”) (28 Sep); OFAC Sinaloa Cartel leadership and corruption networks (29 Sep); Ecuador grant of extradition of Daniel Salcedo Bonilla and Ronald Patricio Herrera (1 Oct); prior Shield of the Americas / Peru accession — **present**. **28 Oct 2026:** OFAC / Treasury, *Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses*. Ten individuals and one entity were designated. The entity is the First Financial and Technical Development Center, a DPRK-controlled entity located in Russia that runs IT-worker schemes defrauding U.S. businesses. Security and financial friction are present. A named U.S. plant, port, yard or directed-credit tool is still waiting. Primary: [home.treasury.gov/news/press-releases/sb0669](https://home.treasury.gov/news/press-releases/sb0669). FACT. https://ofac.treasury.gov/recent-actions/20261028 |
 | Capacity / credit half | Fincantieri Wisconsin System of Shipyards modernization (~$10M Navy SCIB + MARAD) + SWPC MOA framework — **present** (does not close Shield or prior Hemisphere parents) |
 
 | Dimension | Current Reading | Notes |
