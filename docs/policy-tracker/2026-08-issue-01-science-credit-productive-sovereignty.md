@@ -48,6 +48,14 @@ Together, Kratsios, NSSTS, DoW research-security audits, and the McMahon call fo
 
 **16 Oct 2026 — capacity half.** Nashwauk/Mesabi iron mine — first new US iron mine in 50 years; first concentrate reported. Named production seat. Wolfspeed US chip plant — named semiconductor capacity (citizen-seat close still open on the prior OSC half).
 
+**28 Oct 2026, finding plus negotiations, not a tariff.** The President concurred with Commerce's Section 232 finding that imports of robotics, industrial machinery and their parts threaten to impair national security. He directed Commerce and USTR to negotiate agreements with trading partners, with an update due within 180 days. No tariff was imposed. Tariffs, quotas, fees, or 'a program to incentivize new investment in United States production' are named only as possible future remedies. **Watch date: about 26 Apr 2027 (180 days).**
+
+FACT
+
+https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/
+
+**Framing (PATTERN TO WATCH, Joshua's):** the proclamation recognizes supply-chain risk ("import reliance poses risks to the United States industrial base"). The tie to clean supply chains and ports is Joshua's framing. The proclamation does not mention ports.
+
 **Credit, tax, and the Bessent–Warsh vector.** Treasury Secretary Scott Bessent and the emerging influence of Kevin Warsh at the Federal Reserve are reinforcing the same direction through financial channels:
 
 - **Credit conditions** are gradually shifting away from pure financial engineering and toward productive investment. Capital is being encouraged to support domestic manufacturing, energy, infrastructure, and innovation that builds long-term American capacity.

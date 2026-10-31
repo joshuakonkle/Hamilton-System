@@ -58,11 +58,61 @@ Policy that prioritizes the conditions for real output, innovation, and domestic
 
 **23 Oct 2026 — Bessent Lincoln banking model + short-bond alignment.** Secretary Bessent named Abraham Lincoln’s banking model and aligned it with the short-bond model. Named historical model and mechanism present. Divergence between the Lincoln model and the short-bond structure is known and noted. Operational directed-credit instruments that lock capacity seats still waiting.
 
+**Watch, Dec 11.** Federal highway programs run on the stopgap CR through 11 Dec 2026 (snippet-only). Three roles to watch: Treasury (Secretary Bessent) holds the Highway Trust Fund, which the statute establishes 'in the Treasury of the United States'; DOT's FHWA (Secretary Duffy's department) administers the Federal-aid Highway Program; Congress sets the funding through the authorization act.
+
+WATCH. The roles are FACT.
+
+https://www.law.cornell.edu/uscode/text/26/9503
+
+https://www.fhwa.dot.gov/policy/olsp/fundingfederalaid/02.cfm
+
+The Federal-Aid Highway Act of 1956 created the **National System of Interstate and Defense Highways**.
+
+FACT
+
+https://www.archives.gov/milestone-documents/national-interstate-and-defense-highways-act
+
+https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-Pg374.pdf
+
+https://highways.dot.gov/highway-history/interstate-system/dwight-d-eisenhower-system-interstate-and-defense-highways/part-i
+
+snippet-only
+
+In 1919, Lt. Col. Dwight D. Eisenhower rode with the Army's first transcontinental motor convoy, Washington to San Francisco, along the Lincoln Highway.
+
+FACT
+
+https://www.eisenhowerlibrary.gov/research/online-documents/1919-transcontinental-motor-convoy
+
+https://www.fhwa.dot.gov/interstate/brainiacs/eisenhowerinterstate.cfm
+
+Gen. Lucius D. Clay chaired the President's Advisory Committee on a National Highway Program (the 'Clay Committee'). It was appointed 7 Sep 1954.
+
+FACT
+
+https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/us-presidents-advisory-committee-national-highway-system.pdf
+
+FHWA says Clay was 'a descendant of the Kentucky statesman Henry Clay (1777-1852).'
+
+https://www.fhwa.dot.gov/infrastructure/clay.cfm
+
+https://highways.dot.gov/highway-history/interstate-system/general-lucius-d-clay-presidents-man
+
+snippet-only
+
 **What to watch**  
 - Whether Fed task forces produce actual capacity-linked or directed-credit mechanisms, or remain analytical.  
 - Coordination between Treasury industrial policy and Fed balance-sheet actions.  
 - State-level positioning in energy, advanced manufacturing, and technical pipelines.  
 - Ongoing monitor: Federal Reserve and Warsh remarks for further definition of the productivity/capacity task force and any credit-regime language.
+
+**26 Oct 2026.** The Comptroller of the Currency said: 'The OCC was created as a bureau of @USTreasury in 1863 to guide the creation of a national currency and banking system. Implementing the GENIUS Act and overseeing stablecoin issuers is a reminder of our roots.' Lincoln signed the National Currency Act on 25 Feb 1863, and the National Bank Act followed in 1864 (see card).
+
+FACT
+
+https://x.com/USComptroller/status/2114721364451934475
+
+https://www.federalreservehistory.org/essays/national-banking-acts
 
 ---
 
@@ -138,6 +188,14 @@ Do this in order:
 If someone asks whether this has ever worked in the United States, that is a history question, not this week’s lesson. Point them at the [American System Historical Baseline](https://digitalknowledge.net/history) — Hamilton, Clay, Lincoln, McKinley. Carey belongs on that page and is a later patch, not this join.
 
 This join is free and self-serve.
+
+**Watch, Dec 11.** Federal highway programs run on the stopgap CR through 11 Dec 2026 (snippet-only). Three roles to watch: Treasury (Secretary Bessent) holds the Highway Trust Fund, which the statute establishes 'in the Treasury of the United States'; DOT's FHWA (Secretary Duffy's department) administers the Federal-aid Highway Program; Congress sets the funding through the authorization act.
+
+WATCH. The roles are FACT.
+
+https://www.law.cornell.edu/uscode/text/26/9503
+
+https://www.fhwa.dot.gov/policy/olsp/fundingfederalaid/02.cfm
 
 ---
 
