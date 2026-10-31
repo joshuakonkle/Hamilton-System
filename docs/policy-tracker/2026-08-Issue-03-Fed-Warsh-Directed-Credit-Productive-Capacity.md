@@ -106,7 +106,7 @@ snippet-only
 - State-level positioning in energy, advanced manufacturing, and technical pipelines.  
 - Ongoing monitor: Federal Reserve and Warsh remarks for further definition of the productivity/capacity task force and any credit-regime language.
 
-**26 Oct 2026.** The Comptroller of the Currency said: 'The OCC was created as a bureau of @USTreasury in 1863 to guide the creation of a national currency and banking system. Implementing the GENIUS Act and overseeing stablecoin issuers is a reminder of our roots.' Lincoln signed the National Currency Act on 25 Feb 1863, and the National Bank Act followed in 1864 (see card).
+**26 Oct 2026.** The Comptroller of the Currency said: 'The OCC was created as a bureau of @USTreasury in 1863 to guide the creation of a national currency and banking system. Implementing the GENIUS Act and overseeing stablecoin issuers is a reminder of our roots.' Lincoln signed the National Currency Act on 25 Feb 1863, and the National Bank Act followed in 1864.
 
 FACT
 
