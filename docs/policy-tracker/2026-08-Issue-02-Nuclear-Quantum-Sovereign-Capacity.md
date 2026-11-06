@@ -64,6 +64,15 @@ https://x.com/7SwanSwimming/status/2115196805814120612
 
 **Still-live U.S. deployment cluster (select):** Centrus completed DOE demonstration HALEU production and signed a large DOE task order to build commercial-scale HALEU capacity at Piketon, Ohio (first new commercial capacity targeted around 2029; existing cascade moving toward commercial operation for near-term customers). X-energy and Centrus have a HALEU supply path tied to Xe-100 development. TVA Clinch River Unit 1 (BWRX-300) remains in active NRC licensing. Oklo’s first criticality under the DOE Reactor Pilot Program occurred in Texas. New York announced a milestone expanding its quantum communications network (Stony Brook–Brookhaven free-space link on a multi-site entanglement network). These are the domestic answers that make the foreign-supply stress actionable rather than merely alarming.
 
+**21 Oct 2026 (flight); 4 Nov 2026 (NASA Glenn announce) — airborne quantum-channel demo.** NASA’s Glenn Research Center stated that researchers sent photons between a NASA PC-12 aircraft and a ground station over a quantum channel — “the first time this has been achieved in the U.S.” — and that on Oct. 21 the team locked onto a quantum signal and recorded data in flight. Platform is a **plane** (PC-12), not a drone or satellite. The Nov 4 @NASAglenn thread is the primary; a Nov 5 secondary amplify (@Qtumanalysis) is not. FACT as NASA’s statement. Limitations: NASA has not published distance, photon rate, error rate, or key rate in that thread; it has not stated whether keys were generated or whether the link was entanglement distribution versus prepare-and-measure. International airborne QKD existed earlier (e.g. German air-to-ground work reported in 2013). This is a research/demo signal for free-space quantum-secure communications capacity — not an operational nuclear or aviation crypto deployment. Campaign context: AFRC PC-12 hangar support notice 80AFRC26Q0010 named the Quantum Aerospace Communication (QUARC) campaign at Cleveland Hopkins with line-of-sight to Glenn ground stations (Sep 2026–early 2027 window).
+
+FACT (agency statement + dates)  
+https://x.com/NASAglenn/status/2117995323104666087  
+https://x.com/NASAglenn/status/2117995335507181657  
+https://x.com/NASAglenn/status/2117995348358566263  
+https://www.govtribe.com/opportunity/federal-contract-opportunity/pc-12-hangar-support-80afrc26q0010  
+Secondary (not primary): https://x.com/Qtumanalysis/status/2118329721666547999
+
 **Sidebar – QAnon Patriots, Tesla, Trump, and the long thread.** The Quantum Nexus watches a long technical and historical thread: Nikola Tesla’s high-frequency and wireless work, John G. Trump’s wartime review of Tesla’s papers, the radar and Manhattan Project efforts that followed, and the present-day linkage of energy abundance, advanced computation, and national power under the current administration and figures such as Elon Musk. That thread is real and documented. The more speculative claims about exotic communications or cross-time effects remain science-fiction and fringe conjecture. Stay grounded so you are not shocked by the hypothesis. The serious work is still the hard engineering of domestic reactors, fuel supply, sensing systems, and the high-skill American workforce that runs them.
 
 ---
@@ -150,7 +159,7 @@ This tracker does not claim that foreign offtake concentration equals a delibera
 
 ### 9. Signal sources (ongoing pulse)
 
-Department of Energy awards and HALEU Availability Program; DOE Quantum Genesis Q competition ($215M prize / RFA, Sep 2026); DOE / TVA / Holtec / Centrus / Oklo / X-energy public deployment and licensing signals; Department of Defense and intelligence community quantum sensing and secure communications programs; Treasury (Bessent) and Federal Reserve (Warsh) productive-capacity language; Kazatomprom offtake and cost disclosures; New York quantum communications network milestones; Texas Advanced Nuclear Energy Office / Development Fund; Tennessee Nuclear Energy Fund; state SMR and nuclear grant statutes (IN, KY, LA and peers); PsiQuantum US quantum build.
+Department of Energy awards and HALEU Availability Program; DOE Quantum Genesis Q competition ($215M prize / RFA, Sep 2026); DOE / TVA / Holtec / Centrus / Oklo / X-energy public deployment and licensing signals; Department of Defense and intelligence community quantum sensing and secure communications programs; Treasury (Bessent) and Federal Reserve (Warsh) productive-capacity language; Kazatomprom offtake and cost disclosures; New York quantum communications network milestones; Texas Advanced Nuclear Energy Office / Development Fund; Tennessee Nuclear Energy Fund; state SMR and nuclear grant statutes (IN, KY, LA and peers); PsiQuantum US quantum build; NASA Glenn thread: https://x.com/NASAglenn/status/2117995323104666087; https://x.com/NASAglenn/status/2117995335507181657; https://x.com/NASAglenn/status/2117995348358566263.
 
 ---
 
