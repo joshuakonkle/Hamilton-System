@@ -24,7 +24,9 @@ The engineering guide describes a fleet with a head of operations who manages on
 
 ## 4. Working Bot
 
-Tony, the working-bot example.
+Tony, the PERM Watch Bot. Runs a weekly PERM labor-market test for a qualified U.S. job seeker. It applies to PERM ads, flags employers who stay silent past 24 hours, drafts the silence post, preps regulator filings, with you approving every send.
+
+[Get Tony](/bots/tony)
 
 ## Bots we help you develop
 
