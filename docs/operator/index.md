@@ -1,8 +1,8 @@
 # Become an operator under the American System
 
-[Start the path](/modules)
+Set up the seats before you take the training.
 
-## Free Training
+## 1 You are here
 
 ### Humans alone
 
@@ -18,49 +18,57 @@
 - Easier to scale
 - You direct and elevate
 
-## Basic Bot Setup
+## 2 Basic Bot Setup
 
 ### 1. Primary Bot
 
-First bot. Handles the start of your workload. Establishes the foundation.
+First bot. Handles the start of your workload.
 
 ### 2. Scaffold Bot
 
-Builds structure and flow. Creates repeatable pathways and organization.
+Builds structure and flow.
 
 ### 3. PM/QA Bot
 
-Plans, checks, and verifies. Keeps quality and alignment steady.
+Plans, checks, and verifies. No seat approves its own work.
 
 ### 4. Working Bot
 
-Executes the work. Delivers output at scale.
-
-[After Module 5: the standard you make explicit and use to review every seat](../public/overlay.md)
-
-[See these four seats in practice.](/bots)
+Executes the work.
 
 Foundation is green
 
-Free next step: [the operating-model module](/modules/module-03).
+## 3 Then the Free Training
 
-## Scale
+### Strategy
+
+What to build and why.
+
+### Operating system
+
+Routines, quality gates, and no role approving its own work.
+
+### Behavior
+
+The standard every person and bot runs under.
+
+These modules teach you how to direct and review the seats you just set up.
+
+## 4 American System Application
+
+### Build capability
+
+Find more work to hand off.
 
 ### Scale capacity
 
-Give your bots more room to do the work they already have.
-
-### Scale capability
-
-Find more work your human operator can hand off.
+Give your bots more room.
 
 Can run together. Best done one at a time.
 
-## Paid
+## 5 Paid option
 
 Free to self-serve. Joshua's help is the paid option.
-
-[Fit conversation](/contact)
 
 When to call Joshua: Stuck on a seat, or foundation green and ready to scale.
 
