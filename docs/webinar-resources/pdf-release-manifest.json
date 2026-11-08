@@ -1,0 +1,142 @@
+{
+  "approval": "2026-11-07 7:32 PM CT",
+  "published_from_zip_sha256": "6089ada1db395ac6d0dc41caca2a74ec8846734d40bb2047089e0a163f224bff",
+  "scope": "Exact approved PDF bytes on existing free download paths. PPTX masters, listings, prices, companions, and paid kits are unchanged.",
+  "rollback": "Previous PDF bytes remain in git history at previous_commit for each file.",
+  "files": [
+    {
+      "id": "BMC1",
+      "export_filename": "Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas-v1-production-enos-fix.pdf",
+      "published_path": "docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf",
+      "sha256": "654c19495a13ade02dd2c892248ae70017f5a29114f16138a3f810fc0bcd45ca",
+      "page_count": 12,
+      "bytes": 96105,
+      "previous_sha256": "08b7d5df1505ef0420a80f0efa90b3db9d6c00550d8b3ed445baf4b93d00acf5",
+      "previous_bytes": 87198,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "BMC2",
+      "export_filename": "Module2-BMC-American-System-Hamiltonian-OKRs-v1-production.pdf",
+      "published_path": "docs/webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pdf",
+      "sha256": "d06f1b843398a2668ced5784b5b75422ebc769c65e12a92f03c5afd8b0efc901",
+      "page_count": 13,
+      "bytes": 93537,
+      "previous_sha256": "45b5c349d3479a8a8b62e04146b44e0cb5e18b7f6274688c5298e3dd54fe4911",
+      "previous_bytes": 84839,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "BMC3",
+      "export_filename": "Module3-BMC-American-System-Hamiltonian-Operating-Model-v1-production-r3-final.pdf",
+      "published_path": "docs/webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pdf",
+      "sha256": "ee458cd462eaa5a90dba8866b48570e495eddd80ff3753c334d7ffcec7c67c06",
+      "page_count": 13,
+      "bytes": 87676,
+      "previous_sha256": "8d351802397d6cf97bce0c1b4bd88b5fdaf5eff534c48943996e6aac382a5d23",
+      "previous_bytes": 78513,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "BMC4",
+      "export_filename": "Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean-v1-production.pdf",
+      "published_path": "docs/webinar-resources/Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean.pdf",
+      "sha256": "f581d892e3954587223e7efc631864543956cec39bfb0b2af4763e9cbff405a3",
+      "page_count": 13,
+      "bytes": 88058,
+      "previous_sha256": "d5cf28285dfc1699b4440c0253e08243a7fe985fec32de571bfe4a33c1611fb0",
+      "previous_bytes": 79527,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "BMC5",
+      "export_filename": "Module5-BMC-American-System-Hamiltonian-Workforce-Strategy-v1-production-enos-fix.pdf",
+      "published_path": "docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf",
+      "sha256": "b9b99ffa685d3a9ba7f3c39916020e65c5787b84c538e12fb863dd0f5740c81b",
+      "page_count": 13,
+      "bytes": 95501,
+      "previous_sha256": "3d7b387f38740c5563da88f3eb6830f39c8d993365dbb8556cf20e73823a2439",
+      "previous_bytes": 86995,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "EOS1",
+      "export_filename": "Module1-EOS-American-System-Vision-VTO-v1-production.pdf",
+      "published_path": "docs/webinar-resources/Module1-EOS-American-System-Vision-VTO.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module1-EOS-American-System-Vision-VTO.pdf",
+      "sha256": "81707c68fc75db880c672b74a31ed97cf39865b1a32f91c647b710d365af8779",
+      "page_count": 13,
+      "bytes": 105322,
+      "previous_sha256": "e7768b35b3a520b9db0200079862d94ac0bf02d11be63d8ababb7396834a2a71",
+      "previous_bytes": 96696,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "EOS2",
+      "export_filename": "Module2-EOS-American-System-Rocks-Capacity-v1-production.pdf",
+      "published_path": "docs/webinar-resources/Module2-EOS-American-System-Rocks-Capacity.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module2-EOS-American-System-Rocks-Capacity.pdf",
+      "sha256": "6ca0ace720d907ef2428caf37f63ad460a068875212621925a1ff2ac0e3a6062",
+      "page_count": 13,
+      "bytes": 107438,
+      "previous_sha256": "896ed81ab20dab5166541f04a9267ef86617be5371f8a5941f436d12e6b0a764",
+      "previous_bytes": 99036,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "EOS3",
+      "export_filename": "Module3-EOS-American-System-Scorecard-Capacity-v1-production.pdf",
+      "published_path": "docs/webinar-resources/Module3-EOS-American-System-Scorecard-Capacity.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module3-EOS-American-System-Scorecard-Capacity.pdf",
+      "sha256": "57dd5203dd49049c2c5c838997b44d2a2e0a930d7cb1668c0b053af4201593e3",
+      "page_count": 13,
+      "bytes": 107576,
+      "previous_sha256": "e35653b692eec18c3df053046a8bad2a84deeef8a366dd615a8de2b0e0116722",
+      "previous_bytes": 99054,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "EOS4",
+      "export_filename": "Module4-EOS-American-System-Core-Processes-v1-production.pdf",
+      "published_path": "docs/webinar-resources/Module4-EOS-American-System-Core-Processes.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module4-EOS-American-System-Core-Processes.pdf",
+      "sha256": "70d4bd83d4a4ddf28ab4bef5e082abee0cb54ba53f338414ce04deabdf1fe6a4",
+      "page_count": 13,
+      "bytes": 104373,
+      "previous_sha256": "d5d7f3fced73c80a1f8f6cc140934f27319c023eff9861db377b321e22c72d1c",
+      "previous_bytes": 96162,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "EOS5",
+      "export_filename": "Module5-EOS-American-System-People-Workforce-v1-production.pdf",
+      "published_path": "docs/webinar-resources/Module5-EOS-American-System-People-Workforce.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/webinar-resources/Module5-EOS-American-System-People-Workforce.pdf",
+      "sha256": "02c23ebe4ee7f10d480d22a1256c8d718d61d2d2fc2d666c9fea5b81b758e1c7",
+      "page_count": 13,
+      "bytes": 107911,
+      "previous_sha256": "48a51f886e54921db924a2eed00be7bf68f62edcd070f2692719b9818abff137",
+      "previous_bytes": 99329,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2"
+    },
+    {
+      "id": "OVERLAY",
+      "export_filename": "Light-Tetrad-Overlay-v1-production-r2-final.pdf",
+      "published_path": "docs/public/Light-Tetrad-Overlay-v0.pdf",
+      "public_url": "https://source.digitalknowledge.net/docs/public/Light-Tetrad-Overlay-v0.pdf",
+      "sha256": "f857d1340ed01cad8716e8b16fe3e84da2c784e9b2affecb94352eec5735e511",
+      "page_count": 16,
+      "bytes": 131065,
+      "previous_sha256": "33c58d729f50cb820a64bcfeab236332dee0c16c592127c17ecbe3c9f5602c5e",
+      "previous_bytes": 111324,
+      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2",
+      "apex_static_url": "https://digitalknowledge.net/docs/Light-Tetrad-Overlay-v0.pdf",
+      "apex_note": "Front-door overlay is a separate Vercel static file. This repository publishes the source.digitalknowledge.net copy only."
+    }
+  ]
+}
