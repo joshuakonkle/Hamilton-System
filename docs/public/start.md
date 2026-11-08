@@ -18,27 +18,27 @@ Get the frame first. Five American System rewrites of the canvas you already run
 
 **01 — Business Model Canvas**  
 Start here — rebuild strategy around productive capacity.  
-→ [Open Module 1](../webinar-resources/Module1-BMC-American-System-Supplementary-Materials.md)  
+→ [Open Module 1](/modules/module-01)  
 → [Slide deck (PDF)](../webinar-resources/Module1-BMC-American-System-Hamiltonian-Business-Model-Canvas.pdf)
 
 **02 — OKRs**  
 Measure capability built, not temporary labor minimized.  
-→ [Open Module 2](../webinar-resources/Module2-BMC-American-System-Supplementary-Materials.md)  
+→ [Open Module 2](/modules/module-02)  
 → [Slide deck (PDF)](../webinar-resources/Module2-BMC-American-System-Hamiltonian-OKRs.pdf)
 
 **03 — Operating Model + SI**  
 Decisions and execution that reinforce sovereign strength.  
-→ [Open Module 3](../webinar-resources/Module3-BMC-American-System-Supplementary-Materials.md)  
+→ [Open Module 3](/modules/module-03)  
 → [Slide deck (PDF)](../webinar-resources/Module3-BMC-American-System-Hamiltonian-Operating-Model.pdf)
 
 **04 — Value Streams / Lean**  
 Protect the flow of real value and institutional knowledge.  
-→ [Open Module 4](../webinar-resources/Module4-BMC-American-System-Supplementary-Materials.md)  
+→ [Open Module 4](/modules/module-04)  
 → [Slide deck (PDF)](../webinar-resources/Module4-BMC-American-System-Hamiltonian-Value-Streams-Lean.pdf)
 
 **05 — Workforce Strategy**  
 Treat high-skill American talent as strategic capacity.  
-→ [Open Module 5](../webinar-resources/Module5-BMC-American-System-Supplementary-Materials.md)  
+→ [Open Module 5](/modules/module-05)  
 → [Slide deck (PDF)](../webinar-resources/Module5-BMC-American-System-Hamiltonian-Workforce-Strategy.pdf)
 
 → [Behavior overlay — after M5](overlay.md)
