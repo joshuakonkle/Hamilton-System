@@ -1,8 +1,8 @@
-# Learn, diagnose, then act
+# Start from the work you already do
 
-Start here · Free training path
+Start here · Free path
 
-Tell and show with the slide deck. Do the interactive diagnostic checklist on the companion. Review the 90-day outline and execute. The facilitated sprint is optional if the outline is not enough.
+These modules teach human operating skills: judgment, habits, standards, and direction. When you use bots as extensions of your work, you make those skills explicit so you can direct and review the output. The free Learn + Diagnose path is complete. Paid help is optional.
 
 [Already on EOS? EOS path](#eos-path)
 
@@ -10,7 +10,7 @@ Tell and show with the slide deck. Do the interactive diagnostic checklist on th
 
 Progress stays on this device.
 
-## Step 1 · Learn
+## Then open a module
 
 ### Pick a module
 
@@ -63,7 +63,7 @@ When you have a tracker, run it into a county: [From a national tracker to a loc
 
 ## EOS path
 
-[BMC path / Start here](#learn-diagnose-then-act)
+[BMC path / Start here](#start-from-the-work-you-already-do)
 
 [One filter. Two familiar systems.](https://digitalknowledge.net/offers/one-filter)
 

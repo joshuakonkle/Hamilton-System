@@ -1,6 +1,6 @@
 # Become an operator under the American System
 
-[Start the path](#free-training)
+[Start the path](/modules)
 
 ## Free Training
 
@@ -36,7 +36,13 @@ Plans, checks, and verifies. Keeps quality and alignment steady.
 
 Executes the work. Delivers output at scale.
 
+[After Module 5: the standard you make explicit and use to review every seat](../public/overlay.md)
+
+[See these four seats in practice.](/bots)
+
 Foundation is green
+
+Free next step: [the operating-model module](/modules/module-03).
 
 ## Scale
 
@@ -53,6 +59,8 @@ Can run together. Best done one at a time.
 ## Paid
 
 Free to self-serve. Joshua's help is the paid option.
+
+[Fit conversation](/contact)
 
 When to call Joshua: Stuck on a seat, or foundation green and ready to scale.
 
