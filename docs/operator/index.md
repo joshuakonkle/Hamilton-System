@@ -1,6 +1,6 @@
 # Become an operator under the American System
 
-Set up the seats before you take the training.
+Learn strategy and operations in the American System, then use that training with your bots to put it into practice and build good habits.
 
 ## 1 You are here
 
