@@ -1,3 +1,5 @@
+[Back to Become an Operator](/operator)
+
 # Bots
 
 Four seats · not a starter pack
@@ -26,7 +28,9 @@ The engineering guide describes a fleet with a head of operations who manages on
 
 Tony, the PERM Watch Bot. Runs a weekly PERM labor-market test for a qualified U.S. job seeker. It applies to PERM ads, flags employers who stay silent past 24 hours, drafts the silence post, preps regulator filings, with you approving every send.
 
-[Get Tony](/bots/tony)
+[Get Tony](https://x.ai/bot/g0SYDSP-RNIQBp31kMKEK)
+
+[Back to Become an Operator](/operator)
 
 ## Bots we help you develop
 

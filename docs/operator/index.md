@@ -38,21 +38,29 @@ Executes the work.
 
 Foundation is green
 
+[See these four seats](/bots)
+
 ## 3 Then the Free Training
 
 ### Strategy
 
 What to build and why.
 
+→ [Strategy](/modules)
+
 ### Operating system
 
 Routines, quality gates, and no role approving its own work.
+
+→ [Operating system](/start)
 
 ### Behavior
 
 The standard every person and bot runs under.
 
-These modules teach you how to direct and review the seats you just set up.
+→ [Behavior](/overlay)
+
+Give this training to your bots and ask them to help you execute according to this framework.
 
 ## 4 American System Application
 
@@ -71,6 +79,8 @@ Can run together. Best done one at a time.
 Free to self-serve. Joshua's help is the paid option.
 
 When to call Joshua: Stuck on a seat, or foundation green and ready to scale.
+
+→ [Fit conversation](/contact)
 
 ## Get in touch
 
