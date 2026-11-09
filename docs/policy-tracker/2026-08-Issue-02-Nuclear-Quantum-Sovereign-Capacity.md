@@ -1,6 +1,6 @@
 # Nuclear + Quantum as Dual-Use Sovereign Capacity
 **State & Local Execution Pathways**  
-August 2026 · *Updated 16 Oct 2026 (PsiQuantum US build)*
+November 2026 · *Updated 6 Nov 2026 (Section 232 robotics proclamation + Radiant Kaleidos attributed)*
 
 This tracker builds directly on Science, Golden Age & Sovereign Capacity and the White House report *Science: A New Golden Age* by Michael Kratsios. That report framed energy abundance, advanced computation, and domestic scientific capacity as the foundation of national power. Here we translate those signals into practical state and local action.
 
@@ -74,6 +74,20 @@ https://www.govtribe.com/opportunity/federal-contract-opportunity/pc-12-hangar-s
 Secondary (not primary): https://x.com/Qtumanalysis/status/2118329721666547999
 
 **Sidebar – QAnon Patriots, Tesla, Trump, and the long thread.** The Quantum Nexus watches a long technical and historical thread: Nikola Tesla’s high-frequency and wireless work, John G. Trump’s wartime review of Tesla’s papers, the radar and Manhattan Project efforts that followed, and the present-day linkage of energy abundance, advanced computation, and national power under the current administration and figures such as Elon Musk. That thread is real and documented. The more speculative claims about exotic communications or cross-time effects remain science-fiction and fringe conjecture. Stay grounded so you are not shocked by the hypothesis. The serious work is still the hard engineering of domestic reactors, fuel supply, sensing systems, and the high-skill American workforce that runs them.
+
+**2 Nov 2026, policy half.** Proclamation 11077, published 2 November 2026 (signed 28 October 2026, FR Doc 2026-22385), finds under section 232 that robotics, industrial machinery, and their parts and components are being imported in such quantities and under such circumstances as to threaten to impair national security. It directs the Department of Commerce and the Trade Representative to pursue negotiations and contemplates future tariffs, duties, quotas, fees, or an investment-incentive program. It does not itself impose a tariff schedule.
+
+FACT
+
+https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united
+
+**2 Nov 2026, capacity watch.** A 2 November post states that Radiant received DSA approval for Kaleidos. That claim stays attributed to the post until a company or Department of War / NRC primary is attached.
+
+PATTERN TO WATCH: whether a named plant or crew is confirmed, and whether a credit instrument or security pairing lands.
+
+ATTRIBUTED
+
+https://x.com/7SwanSwimming/status/2117280930360656325
 
 ---
 

@@ -1,7 +1,7 @@
 # Hemisphere Enforcement + American System Feedback Loop
 **Security Gains as Precondition for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 23 Oct 2026 (visa restrictions Colombia/Bolivia + prior SWPC/Fincantieri)*
+November 2026 · *Updated 6 Nov 2026 (Minnesota follow-the-money watch + Outcast security half)*
 
 ---
 
@@ -106,6 +106,26 @@ A claim that every listed action was directed from one desk, or that illicit net
 
 **Link to the Federal Reserve tracker**  
 Bessent’s framing — productive capacity as power, essentials of national supply — is the economic half of the same sovereignty logic. Security gains without directed capacity tools leave the loop incomplete; capacity rhetoric without hemisphere control leaves supply chains and finance exposed.
+
+**3–5 Nov 2026, watch.** PATTERN TO WATCH: whether Treasury's Minnesota-style benefits-fraud enforcement — tracing illicit flows through less-regulated channels to end accounts, then freezing them or holding intermediaries — rolls out elsewhere. Signs to watch: reporting orders like Minnesota's wire-transfer order appearing in other geographies; an IRS nonprofit fraud task force; FinCEN rules on money-transfer businesses; OFAC naming offshore trust companies and tied properties; and whether a wire-reporting or geographic targeting-order geography renews or expands around February 2027.
+
+PATTERN TO WATCH
+
+https://x.com/7SwanSwimming/status/2117630933213802602
+
+https://x.com/7SwanSwimming/status/2118388189769470119
+
+**30 Oct–4 Nov 2026, security half.** PATTERN TO WATCH: whether Operation Economic Outcast and related Treasury acts pair security with U.S. productive capacity. In this window: Outcast targeting IRGC financing (30 Oct); Hormuz transit described without Iranian barrels (31 Oct); the Administration's three-phase Venezuela approach of stabilization, recovery, and transition (3 Nov); and an India-based shadow-fleet network named under Outcast (4 Nov). Each is a named Treasury/Bessent security act. A named U.S. plant, yard, credit instrument, or citizen seat remains open.
+
+PATTERN TO WATCH
+
+https://x.com/SecScottBessent/status/2115963031674925345
+
+https://x.com/SecScottBessent/status/2116581781562368057
+
+https://x.com/SecScottBessent/status/2117392151436771332
+
+https://x.com/SecScottBessent/status/2118051597779435674
 
 ---
 

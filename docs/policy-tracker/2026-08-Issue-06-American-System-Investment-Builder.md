@@ -1,7 +1,7 @@
 # American System Investment Builder
 **A Productive-Capacity Screen vs a Paper Index**  
 **National signals → business and local execution**  
-October 2026 · *Updated 16 Oct 2026 (26-name sleeve print)*  
+November 2026 · *Updated 16 Oct 2026 (26-name sleeve print)*  
 
 This tracker is an **education screen**. It is **not** financial advice, a recommendation to buy or sell any security, a model portfolio you should copy, or a claim that past tape predicts future returns. Names appear so an operator can see *what kind of company* the American System filter keeps, parks as Red, or leaves off the list.
 
