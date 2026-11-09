@@ -1,6 +1,6 @@
 # Science, Golden Age & Sovereign Capacity
 **National signals → business and local execution**  
-August 2026 · *Updated 16 Oct 2026 (Mesabi iron mine + Wolfspeed capacity)*
+November 2026 · *Updated 6 Nov 2026 (OSC Neros attributed half)*
 
 This tracker centers on the White House OSTP report *Science: A New Golden Age* (Michael Kratsios, July 2026) and the credit / tax environment taking shape under Bessent and Warsh influence. It connects sovereign science policy to productive capacity, workforce design, and practical action for companies and state/local leaders.
 
@@ -63,6 +63,14 @@ https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-rob
 - The combination of science policy (Kratsios), Treasury direction (Bessent), and monetary/credit philosophy (Warsh influence) is creating a more coherent environment for American System-aligned businesses.
 
 This is not yet a fully formed industrial-policy regime, but the directional change is clear: capital and policy attention are moving toward productive sovereignty.
+
+**3 Nov 2026, directed credit.** A 3 November post states that OSC made a loan commitment to Neros. That claim stays attributed to the post until an OSC or company primary is attached.
+
+PATTERN TO WATCH: whether financial close and a named plant conversion are documented, matching the prior OSC halves (Antheia, Phoenix Tailings). The security half remains open.
+
+ATTRIBUTED HALF
+
+https://x.com/7SwanSwimming/status/2117672576457834539
 
 ---
 

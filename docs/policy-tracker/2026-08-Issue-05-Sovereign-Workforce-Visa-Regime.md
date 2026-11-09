@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-October 2026 · *Updated 20 Oct 2026 (Tony, the PERM Watch Bot action block)*
+November 2026 · *Updated 6 Nov 2026 (silence test, OIG audit plan, EO 14431, docket re-check, PERM modernization re-check)*
 
 This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
@@ -70,18 +70,42 @@ https://x.com/7SwanSwimming/status/2110135956108153060
 
 https://www.regulations.gov/commenton/USCIS-2026-0529-0001
 
+**5 Nov 2026, policy half.** Executive Order 14431, *Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program*, signed 18 September 2026 and published 23 September 2026 (FR Doc 2026-19555), directs the Departments of State, Labor, and Homeland Security to weigh whether a sponsor laid off similarly situated United States workers before an H-1B filing moves.
+
+FACT
+
+https://www.federalregister.gov/documents/2026/09/23/2026-19555
+
+https://x.com/7SwanSwimming/status/2118429338991566869
+
 **PERM labor-market testing continues.** A complaint went to the DOL Office of Inspector General.
 
 FACT
 
 https://x.com/7SwanSwimming/status/2115454874196328875
 
+**2–3 Nov 2026, silence test.** 42 PERM email applies were sent on 2 November after a go. Once every 24-hour window closed on 3 November, the count was 7 replied, 35 silent, and 0 pending.
+
+FACT
+
+https://x.com/7SwanSwimming/status/2117314175349473637
+
+https://x.com/7SwanSwimming/status/2117688722045222999
+
+**3 Nov 2026, oversight watch.** The DOL Office of Inspector General's FY 2027 Audit Work Plan lists a new audit of U.S.-worker recruitment for PERM applications filed for workers already holding H-1B visas. The plan, as cited in the 3 Nov teaching post, puts FY 2025 share and approval at 53 percent of PERM applications for existing H-1B holders and 93 percent approved; those integers stay attributed to the plan until the primary PDF is attached.
+
+PATTERN TO WATCH: whether the audit produces a public announcement letter, interim, or final report, and whether a named plant, shop, or training pipeline converts seats to citizens who stay.
+
+FACT (attributed to the plan) + PATTERN TO WATCH
+
+https://x.com/7SwanSwimming/status/2117724288942006594
+
 **Open comment dockets (live teach).** Three DHS rules are open for comment. A fourth rule, from DOL, is coming. The American System frame is capability first, then capacity. It is not a slogan about headcount.
 
 - **Optional Practical Training Fees** (ICE, DHS Docket ICEB-2026-0100, 91 FR 64566, 8 Oct 2026). Comments close **9 Nov 2026**. Comment: https://www.regulations.gov/commenton/ICEB-2026-0100-0001 · Post: https://x.com/7SwanSwimming/status/2116239949687115813
 - **Eliminating the Discretionary 60-Day Grace Period** (USCIS, DHS Docket USCIS-2026-0364, 91 FR 57807, 11 Sep 2026). Comments close **10 Nov 2026**. Comment: https://www.regulations.gov/commenton/USCIS-2026-0364-0001 · Post: https://x.com/7SwanSwimming/status/2116239949687115813
 - **Removing Deference to Prior USCIS Determinations of Eligibility** (USCIS, DHS Docket USCIS-2026-0529, 91 FR 65119, 14 Oct 2026). Comments close **13 Nov 2026**. Comment: https://www.regulations.gov/commenton/USCIS-2026-0529-0001 · Post: https://x.com/7SwanSwimming/status/2110135956108153060
-- *Coming soon:* **PERM modernization** (DOL/ETA, RIN 1205-AC29). It cleared White House (OIRA) review on 23 Oct 2026, "Consistent with Change." It is not yet in the Federal Register, and no comment window is open. This line will be updated next week.
+- *Coming soon:* **PERM modernization** (DOL/ETA, RIN 1205-AC29). It cleared White House (OIRA) review on 23 Oct 2026, "Consistent with Change." It is not yet in the Federal Register, and no comment window is open. Re-checked 5 Nov 2026: it is still not in the Federal Register, and no comment window is open.
 
 FACT (all four bullets).
 
@@ -94,6 +118,18 @@ https://www.federalregister.gov/d/2026-20941
 https://www.reginfo.gov/public/do/eoDetails?rrid=1533011
 
 Suggested comment body: first term on U.S. soil, the visa holder trains at least one **named American** (capability). If the seat continues, the firm builds a citizen pipeline so more Americans can hold it (capacity). Operating in the United States is not workforce-neutral.
+
+**5 Nov 2026, docket re-check.** All three open DHS dockets remain Proposed Rule, not withdrawn: ICEB-2026-0100 (Optional Practical Training Fees) comments close 9 Nov 2026; USCIS-2026-0364 (Eliminating the Discretionary 60-Day Grace Period) comments close 10 Nov 2026; USCIS-2026-0529 (Removing Deference to Prior USCIS Determinations of Eligibility) comments close 13 Nov 2026.
+
+FACT
+
+https://www.federalregister.gov/d/2026-20660
+
+https://www.federalregister.gov/d/2026-18631
+
+https://www.federalregister.gov/d/2026-20941
+
+https://x.com/7SwanSwimming/status/2116239949687115813
 
 **Student / OPT / F-style channels (incomplete pairing).** Channels that function as ongoing labor supply for seats—without high-bar genius verification and without a parallel American-youth employment path—score incomplete on citizen-seat priority and policy pairing. Cancellations without seat redesign are not sovereign capacity. Specific operational signals (agency action + replacement path) enter the scorecard; hypotheses stay sidebar.
 

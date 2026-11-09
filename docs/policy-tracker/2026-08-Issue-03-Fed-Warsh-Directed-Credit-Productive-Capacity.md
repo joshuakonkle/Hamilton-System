@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-August 2026 · *Updated 23 Oct 2026 (Bessent Lincoln banking model + short-bond)*
+November 2026 · *Updated 6 Nov 2026 (GENIUS / OCC watch lines)*
 
 ---
 
@@ -113,6 +113,18 @@ FACT
 https://x.com/USComptroller/status/2114721364451934475
 
 https://www.federalreservehistory.org/essays/national-banking-acts
+
+OCC Bulletin 2026-50 keeps the permitted reserve list as cash, deposits, overnight repurchase agreements, government money-market funds, and Treasuries of 93 days or less.
+
+FACT
+
+https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html
+
+**4 Nov 2026, watch.** PATTERN TO WATCH: (1) any rule that moves stablecoin reserves past 93 days; (2) the GENIUS effective date, the earlier of 18 January 2027 or 120 days after final rules; (3) the 3 February refunding — whether the long end stays ordinary paper.
+
+PATTERN TO WATCH
+
+https://x.com/7SwanSwimming/status/2118073289641734490
 
 ---
 
