@@ -3,29 +3,96 @@
 **National signals → business and local execution**  
 November 2026 · *Updated 6 Nov 2026 (silence test, OIG audit plan, EO 14431, docket re-check, PERM modernization re-check)*
 
-This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
+**Watch line:** Is enforcement on short-cycle temporary and visa labor being paired with citizen pipelines into named seats, or is it still enforcement alone? When we see policy pairing, we see execution.
 
-**Lead:** seats · capability · genius exception (with program-quality caveat) · operational proof (USDOT / Freedom Haulers) · **policy pairing**.
+> **Put these watches to work.** Each watch below ends with one question to bring into your own operations. [Become an Operator](https://digitalknowledge.net/operator) shows you how to run them.
 
 ---
 
-### 1. Why this tracker exists
+## Watching now
+
+### Watch 1 · PERM enforcement and the U.S.-worker test
+*Suspensions, debarments, settlements, audits, and recruitment tests on the permanent-labor channel.*
+
+**8 Oct 2026 — policy half.** On 8 October the White House Fraud Task Force suspended PERM for <span style="color:red">Cognizant</span>, <span style="color:red">Infosys</span>, <span style="color:red">Tata</span>, <span style="color:red">Wipro</span>, <span style="color:red">HCL</span>, and <span style="color:red">Capgemini</span>. <span style="color:red">Microsoft</span> and <span style="color:red">Adobe</span> are in the same pause. The Inspector General opened the J-1 investigation. That is the policy half. The citizen seat is still open.
+
+**FACT · 16 Oct 2026.** DOL suspended Cloudera's PERM processing for 180 days on 12 May 2026. On 16 Oct 2026, DOJ and DOL announced a settlement: Cloudera is barred from the PERM program for two years and pays a $1.4M back-pay fund and $600K in civil penalties. That is a named enforcement half: the staffing-vendor filing machine is no longer treated as ordinary. Missing half: a named client plant or yard that converts the bench to citizen seats.  
+[DOL](https://www.dol.gov/newsroom/releases/eta/eta20260512) · [DOJ](https://www.justice.gov/opa/pr/us-departments-justice-and-labor-secure-settlement-cloudera-enforce-two-year-perm-debarment)
+
+**FACT · 20 Oct 2026.** DOJ's Civil Rights Division and the EEOC reached a $5,000,000 settlement with Instacart over discrimination against U.S. workers in PERM recruitment. It includes a fund of up to $4,000,000 for applicants and deterred applicants, December 2023 to February 2026. A claims administrator determines eligibility. Until that administrator posts a contact, affected applicants email Instacart@eeoc.gov. Joshua filed his claim ([X 2113350837598917094](https://x.com/7SwanSwimming/status/2113350837598917094)), and the EEOC replied that his information is being forwarded to the claims administrator ([X 2113621981014737393](https://x.com/7SwanSwimming/status/2113621981014737393)).  
+The settlement terms come from the agency release; the filing and the EEOC reply come from Joshua's posts.  
+[EEOC](https://www.eeoc.gov/newsroom/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint) · [DOJ](https://www.justice.gov/opa/pr/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint)
+
+**FACT (attributed to the plan) · 3 Nov 2026.** The DOL Office of Inspector General's FY 2027 Audit Work Plan lists a new audit of U.S.-worker recruitment for PERM applications filed for workers already holding H-1B visas. The plan, as cited in the 3 Nov teaching post, puts FY 2025 share and approval at 53 percent of PERM applications for existing H-1B holders and 93 percent approved; those integers stay attributed to the plan until the primary PDF is attached.  
+[Post](https://x.com/7SwanSwimming/status/2117724288942006594)
+
+**PATTERN TO WATCH:** whether the audit produces a public announcement letter, interim, or final report, and whether a named plant, shop, or training pipeline converts seats to citizens who stay.
+
+**Labor-market testing and earlier lines on this watch:**
+- **2–3 Nov 2026, silence test (FACT).** 42 PERM email applies were sent on 2 November. Once every 24-hour window closed on 3 November, the count was 7 replied, 35 silent, and 0 pending. [Post](https://x.com/7SwanSwimming/status/2117314175349473637) · [Post](https://x.com/7SwanSwimming/status/2117688722045222999)
+- **PERM labor-market testing continues (FACT).** A complaint went to the DOL Office of Inspector General. [Post](https://x.com/7SwanSwimming/status/2115454874196328875)
+- **13 Oct 2026.** DOL Inspector General issued J-1 subpoenas to nine universities. Enforcement action on the student-channel side, not only an announcement. Citizen seat still waiting.
+
+**Next mark:** an OIG announcement letter or report on the PERM audit; a named client plant or yard that converts the bench to citizen seats.
+
+**Operate this watch:** Which of your roles are filled through PERM or a staffing vendor today, and what would it take to fill one with an American who stays? [Run this watch as an operator →](https://digitalknowledge.net/operator)
+
+### Watch 2 · Rules on the visa channels
+*H-1B, OPT, grace-period, and extension rules moving through the Federal Register, and the states moving alongside them.*
+
+**FACT · 5 Nov 2026.** Executive Order 14431, *Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program*, signed 18 September 2026 and published 23 September 2026 (FR Doc 2026-19555), directs the Departments of State, Labor, and Homeland Security to weigh whether a sponsor laid off similarly situated United States workers before an H-1B filing moves.  
+[Federal Register](https://www.federalregister.gov/d/2026-19555) · [Post](https://x.com/7SwanSwimming/status/2118429338991566869)
+
+**FACT · 5 Nov 2026, docket re-check.** On the 5 Nov 2026 re-check, all three DHS dockets were Proposed Rule, not withdrawn: ICEB-2026-0100 (Optional Practical Training Fees) comments closed 9 Nov 2026; USCIS-2026-0364 (Eliminating the Discretionary 60-Day Grace Period) comments closed 10 Nov 2026; USCIS-2026-0529 (Removing Deference to Prior USCIS Determinations of Eligibility) comments close 13 Nov 2026.
+- **Optional Practical Training Fees** (ICE, DHS Docket ICEB-2026-0100, 91 FR 64566, 8 Oct 2026). Comments closed **9 Nov 2026**. [Post](https://x.com/7SwanSwimming/status/2116239949687115813) · [Federal Register](https://www.federalregister.gov/d/2026-20660)
+- **Eliminating the Discretionary 60-Day Grace Period** (USCIS, DHS Docket USCIS-2026-0364, 91 FR 57807, 11 Sep 2026). Comments closed **10 Nov 2026**. [Post](https://x.com/7SwanSwimming/status/2116239949687115813) · [Federal Register](https://www.federalregister.gov/d/2026-18631)
+- **Removing Deference to Prior USCIS Determinations of Eligibility** (USCIS, DHS Docket USCIS-2026-0529, 91 FR 65119, 14 Oct 2026). Comments close **13 Nov 2026**. DHS proposed removing 8 CFR 214.1(c)(5), the rule that has USCIS defer to a prior approval when an H-1B, L-1 or other petition is extended (USCIS-2026-0529, 91 FR 65119). This is a structural rule change on the extension channel. [Comment](https://www.regulations.gov/commenton/USCIS-2026-0529-0001) · [Post](https://x.com/7SwanSwimming/status/2110135956108153060) · [Federal Register](https://www.federalregister.gov/d/2026-20941)
+- *Coming soon:* **PERM modernization** (DOL/ETA, RIN 1205-AC29). It cleared White House (OIRA) review on 23 Oct 2026, "Consistent with Change." It is not yet in the Federal Register, and no comment window is open. Re-checked 5 Nov 2026: it is still not in the Federal Register, and no comment window is open. [OIRA review](https://www.reginfo.gov/public/do/eoDetails?rrid=1533011)
+
+**Suggested comment body (USCIS-2026-0529, comments close 13 Nov 2026):** first term on U.S. soil, the visa holder trains at least one **named American** (capability). If the seat continues, the firm builds a citizen pipeline so more Americans can hold it (capacity). Operating in the United States is not workforce-neutral.
+
+**FACT (moratorium) · State watch: Florida.** Under Board of Governors Regulation 1.001(5)(h), Florida's public universities have a moratorium on hiring new employees who need immediate H-1B sponsorship, through 5 Jan 2027.  
+[FSU HR](https://hr.fsu.edu/article/h-1b-hiring-update) · [Reuters](https://www.reuters.com/legal/government/florida-public-universities-temporarily-halt-hiring-foreigners-h1-b-visas-2026-03-03/)
+
+**PATTERN TO WATCH (Joshua's):** the pause covers direct university hires only, not contractors, so the seat can move to a vendor.
+
+**PATTERN TO WATCH:** whether these rules finalize, and whether any of them is paired with a citizen pipeline. Litigation and stays are a real constraint on the speed of broad executive action on visa programs; they do not convert short-cycle temporary or visa labor into sound permanent design.
+
+**Next mark:** PERM modernization (RIN 1205-AC29) in the Federal Register; final action on the three DHS dockets; the 5 Jan 2027 end of Florida's moratorium.
+
+**Operate this watch:** Which of your seats depend on an H-1B, OPT, or extension today, and which one could you move to a citizen pipeline before these rules land? [Run this watch as an operator →](https://digitalknowledge.net/operator)
+
+### Watch 3 · Citizen pipelines into shortage seats
+*Federal tools pointed at Americans who will hold the seat: the pairing half of this tracker.*
+
+**Operational proof (anchor).** USDOT / non-sovereign CDL rescission and veteran replacement under Freedom Haulers-style expansion demonstrates that critical transport capacity can be redesigned around citizen seats without waiting for a comprehensive immigration bill. Pairing enforcement with a replacement pipeline is the standard this tracker scores against.
+
+**FACT that the program exists (Freedom Haulers).** It is a DOT-led interagency campaign under Secretary Duffy recruiting veterans into trucking.  
+[DOT](https://www.transportation.gov/briefing-room/trump-administration-launches-new-interagency-campaign-led-secretary-duffy-recruiting) · [Trade-press confirmation](https://www.trucknews.com/transportation/dot-launches-freedom-haulers-campaign-to-recruit-veterans-to-trucking/1003218940/)
+
+**FACT · 23 Oct 2026.** CMS and all 50 states plus DC launched *Nurses for Nursing Homes*: $275M ($100M CMS, at least $175M from states) for up to $40,000 in loan repayment and/or a $10,000 stipend, in exchange for a three-year commitment to a qualifying nursing home. The money is funded through civil money penalties collected by CMS and the states from nursing homes, and it is aimed at nurses who will hold these seats.  
+[CMS](https://www.cms.gov/newsroom/press-releases/cms-states-launch-275-million-initiative-recruit-retain-nurses-nursing-homes)
+
+**PATTERN TO WATCH (Joshua's):** CMS's nurse incentive is the nursing-home counterpart of Freedom Haulers. Both point existing federal tools at a citizen pipeline into a shortage seat.
+
+**FACT (the visit and quote) + WATCH · 23 Oct 2026.** Labor Secretary Sonderling visited Topeka and Lawrence, Kansas. DOL: 'We want a skilled local workforce.' This stays a watch until named citizen jobs exist at a named site.  
+X 2114045796890849596 (@USDOL) · [Kansas Reflector](https://kansasreflector.com/2026/10/23/u-s-labor-secretary-praises-kansas-manufacturing-industry-in-visit-to-topeka-business/) · [Post](https://x.com/7SwanSwimming/status/2114097563574104140)
+
+**Next mark:** named citizen jobs at a named site in Kansas; a named plant, yard, or shop that pairs a channel restriction with a citizen pipeline.
+
+**Operate this watch:** Which shortage seat in your company could a veteran, apprentice, or local graduate hold, and what pipeline would put them there? [Run this watch as an operator →](https://digitalknowledge.net/operator)
+
+---
+
+## Why this tracker exists
+
+This tracker treats short-cycle temporary and visa labor as a **design choice**, not a natural law. Sovereign productive capacity and hemisphere security require a permanent American citizen workforce as the base. Temporary and visa channels are not a standing capacity strategy except for genuine genius-level contribution.
 
 Policy and firm practice still treat short-cycle temporary or visa labor as normal capacity design. That design exports learning, weakens institutional knowledge, and conflicts with Hamiltonian productive sovereignty.
 
 National moves show the alternative is operational, not theoretical. The clearest current proof point is USDOT-led rescission of non-sovereign CDL capacity **paired with** replacement by American veterans (Freedom Haulers expansion). That is citizen-seat priority in practice: critical roles designed for people who stay, retain skill, and succession-plan inside the republic. **When we see policy pairing, we see execution.**
 
-Related trackers:
-
-- [Science, Golden Age & Sovereign Capacity](2026-08-issue-01-science-credit-productive-sovereignty.md) (NSSTS “global talent” tension)
-- [Nuclear + Quantum as Dual-Use Sovereign Capacity](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md) (skilled seats as capital-complement)
-- [Hemisphere Enforcement + American System Feedback Loop](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md) (security as precondition for productive compounding)
-- [American System Investment Builder](2026-08-Issue-06-American-System-Investment-Builder.md) (visa stack on a ticker; paper sleeve vs SPYM)
-
----
-
-### 2. Definitions (plain English)
-
+**Plain-English terms**
 - **Permanent citizen workforce** — American citizens in critical seats, with retained skill and succession.
 - **Short-cycle temporary or visa labor** — non-citizen labor used as an ongoing staffing model rather than a narrow, time-bound gap fill.
 - **Genius-level visa (as exception)** — exceptional individual contribution; retained as exception, not as the template for mass capacity. **Caveat:** current tests and verification are weak; the existing channel is often used for long-term seat rental rather than narrow genius admission. Reform of the test—not expansion of the category—is required before “genius exception” can be treated as reliable capacity policy.
@@ -34,173 +101,7 @@ Related trackers:
 
 ---
 
-### 3. Key policy and operational signals
-
-**Operational proof (anchor).** USDOT / non-sovereign CDL rescission and veteran replacement under Freedom Haulers-style expansion demonstrates that critical transport capacity can be redesigned around citizen seats without waiting for a comprehensive immigration bill. Pairing enforcement with a replacement pipeline is the standard this tracker scores against.
-
-**Policy pairing as execution standard.** When elimination of non-sovereign capacity is **paired** with a real citizen pipeline, execution sticks. Enforcement without that pipeline is incomplete. Litigation and stays are a real constraint on the speed of broad executive action on visa programs; they do not convert short-cycle temporary or visa labor into sound permanent design. Cabinet-level moves are scored the same way: pairing present → rising; enforcement-only or rhetoric-only → incomplete.
-
-**PERM freeze — policy half (8–11 Sep 2026).** DOL-IG and the White House Fraud Task Force moved on Cognizant PERM; **Cloudera.** DOL suspended Cloudera's PERM processing for 180 days on 12 May 2026. On 16 Oct 2026, DOJ and DOL announced a settlement: Cloudera is barred from the PERM program for two years and pays a $1.4M back-pay fund and $600K in civil penalties. That is a named enforcement half: the staffing-vendor filing machine is no longer treated as ordinary. Missing half: a named client plant or yard that converts the bench to citizen seats. Payment-rail hypotheses (kickbacks, crypto, physical structures inside client companies) stay sidebar until a primary names them. Freeze alone does not raise pairing to Rising.
-
-FACT
-
-https://www.dol.gov/newsroom/releases/eta/eta20260512
-
-https://www.justice.gov/opa/pr/us-departments-justice-and-labor-secure-settlement-cloudera-enforce-two-year-perm-debarment
-
-**8 Oct 2026 — policy half.** On 8 October the White House Fraud Task Force suspended PERM for <span style="color:red">Cognizant</span>, <span style="color:red">Infosys</span>, <span style="color:red">Tata</span>, <span style="color:red">Wipro</span>, <span style="color:red">HCL</span>, and <span style="color:red">Capgemini</span>. <span style="color:red">Microsoft</span> and <span style="color:red">Adobe</span> are in the same pause. The Inspector General opened the J-1 investigation. That is the policy half. The citizen seat is still open.
-
-**20 Oct 2026, enforcement.** DOJ's Civil Rights Division and the EEOC reached a $5,000,000 settlement with Instacart over discrimination against U.S. workers in PERM recruitment. It includes a fund of up to $4,000,000 for applicants and deterred applicants, December 2023 to February 2026. A claims administrator determines eligibility. Until that administrator posts a contact, affected applicants email Instacart@eeoc.gov. Joshua filed his claim ([X 2113350837598917094](https://x.com/7SwanSwimming/status/2113350837598917094)), and the EEOC replied that his information is being forwarded to the claims administrator ([X 2113621981014737393](https://x.com/7SwanSwimming/status/2113621981014737393)).
-
-FACT (the settlement terms come from the agency release; the filing and the EEOC reply come from Joshua's posts).
-
-https://www.eeoc.gov/newsroom/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint
-
-https://www.justice.gov/opa/pr/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint
-
-**13 Oct 2026 — policy half.** DOL Inspector General issued J-1 subpoenas to nine universities. Enforcement action on the student-channel side, not only an announcement. Citizen seat still waiting.
-
-**14 Oct 2026, policy half.** DHS proposed removing 8 CFR 214.1(c)(5), the rule that has USCIS defer to a prior approval when an H-1B, L-1 or other petition is extended (USCIS-2026-0529, 91 FR 65119). Comments close 13 Nov 2026. This is a structural rule change on the extension channel. The citizen seat is still waiting.
-
-FACT
-
-https://www.federalregister.gov/d/2026-20941
-
-https://x.com/7SwanSwimming/status/2110135956108153060
-
-https://www.regulations.gov/commenton/USCIS-2026-0529-0001
-
-**5 Nov 2026, policy half.** Executive Order 14431, *Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program*, signed 18 September 2026 and published 23 September 2026 (FR Doc 2026-19555), directs the Departments of State, Labor, and Homeland Security to weigh whether a sponsor laid off similarly situated United States workers before an H-1B filing moves.
-
-FACT
-
-https://www.federalregister.gov/documents/2026/09/23/2026-19555
-
-https://x.com/7SwanSwimming/status/2118429338991566869
-
-**PERM labor-market testing continues.** A complaint went to the DOL Office of Inspector General.
-
-FACT
-
-https://x.com/7SwanSwimming/status/2115454874196328875
-
-**2–3 Nov 2026, silence test.** 42 PERM email applies were sent on 2 November after a go. Once every 24-hour window closed on 3 November, the count was 7 replied, 35 silent, and 0 pending.
-
-FACT
-
-https://x.com/7SwanSwimming/status/2117314175349473637
-
-https://x.com/7SwanSwimming/status/2117688722045222999
-
-**3 Nov 2026, oversight watch.** The DOL Office of Inspector General's FY 2027 Audit Work Plan lists a new audit of U.S.-worker recruitment for PERM applications filed for workers already holding H-1B visas. The plan, as cited in the 3 Nov teaching post, puts FY 2025 share and approval at 53 percent of PERM applications for existing H-1B holders and 93 percent approved; those integers stay attributed to the plan until the primary PDF is attached.
-
-PATTERN TO WATCH: whether the audit produces a public announcement letter, interim, or final report, and whether a named plant, shop, or training pipeline converts seats to citizens who stay.
-
-FACT (attributed to the plan) + PATTERN TO WATCH
-
-https://x.com/7SwanSwimming/status/2117724288942006594
-
-**Open comment dockets (live teach).** Three DHS rules are open for comment. A fourth rule, from DOL, is coming. The American System frame is capability first, then capacity. It is not a slogan about headcount.
-
-- **Optional Practical Training Fees** (ICE, DHS Docket ICEB-2026-0100, 91 FR 64566, 8 Oct 2026). Comments close **9 Nov 2026**. Comment: https://www.regulations.gov/commenton/ICEB-2026-0100-0001 · Post: https://x.com/7SwanSwimming/status/2116239949687115813
-- **Eliminating the Discretionary 60-Day Grace Period** (USCIS, DHS Docket USCIS-2026-0364, 91 FR 57807, 11 Sep 2026). Comments close **10 Nov 2026**. Comment: https://www.regulations.gov/commenton/USCIS-2026-0364-0001 · Post: https://x.com/7SwanSwimming/status/2116239949687115813
-- **Removing Deference to Prior USCIS Determinations of Eligibility** (USCIS, DHS Docket USCIS-2026-0529, 91 FR 65119, 14 Oct 2026). Comments close **13 Nov 2026**. Comment: https://www.regulations.gov/commenton/USCIS-2026-0529-0001 · Post: https://x.com/7SwanSwimming/status/2110135956108153060
-- *Coming soon:* **PERM modernization** (DOL/ETA, RIN 1205-AC29). It cleared White House (OIRA) review on 23 Oct 2026, "Consistent with Change." It is not yet in the Federal Register, and no comment window is open. Re-checked 5 Nov 2026: it is still not in the Federal Register, and no comment window is open.
-
-FACT (all four bullets).
-
-https://www.federalregister.gov/d/2026-20660
-
-https://www.federalregister.gov/d/2026-18631
-
-https://www.federalregister.gov/d/2026-20941
-
-https://www.reginfo.gov/public/do/eoDetails?rrid=1533011
-
-Suggested comment body: first term on U.S. soil, the visa holder trains at least one **named American** (capability). If the seat continues, the firm builds a citizen pipeline so more Americans can hold it (capacity). Operating in the United States is not workforce-neutral.
-
-**5 Nov 2026, docket re-check.** All three open DHS dockets remain Proposed Rule, not withdrawn: ICEB-2026-0100 (Optional Practical Training Fees) comments close 9 Nov 2026; USCIS-2026-0364 (Eliminating the Discretionary 60-Day Grace Period) comments close 10 Nov 2026; USCIS-2026-0529 (Removing Deference to Prior USCIS Determinations of Eligibility) comments close 13 Nov 2026.
-
-FACT
-
-https://www.federalregister.gov/d/2026-20660
-
-https://www.federalregister.gov/d/2026-18631
-
-https://www.federalregister.gov/d/2026-20941
-
-https://x.com/7SwanSwimming/status/2116239949687115813
-
-**Student / OPT / F-style channels (incomplete pairing).** Channels that function as ongoing labor supply for seats—without high-bar genius verification and without a parallel American-youth employment path—score incomplete on citizen-seat priority and policy pairing. Cancellations without seat redesign are not sovereign capacity. Specific operational signals (agency action + replacement path) enter the scorecard; hypotheses stay sidebar.
-
-**State watch: Florida.** Under Board of Governors Regulation 1.001(5)(h), Florida's public universities have a moratorium on hiring new employees who need immediate H-1B sponsorship, through 5 Jan 2027. PATTERN TO WATCH (Joshua's): the pause covers direct university hires only, not contractors, so the seat can move to a vendor.
-
-FACT (moratorium) + PATTERN TO WATCH (contractor gap, Joshua's).
-
-https://hr.fsu.edu/article/h-1b-hiring-update
-
-https://www.reuters.com/legal/government/florida-public-universities-temporarily-halt-hiring-foreigners-h1-b-visas-2026-03-03/
-
-**Science and talent tension.** The Kratsios *Science: A New Golden Age* report and the National Security Science and Technology Strategy (NSSTS) name domestic talent and productive capacity. NSSTS language on “attracting and retaining top-tier global talent” is compatible only as genius-tier and critical-field exception where U.S. capability is thin—and only if the admission test is real. It is not a license for short-cycle temporary or visa labor as permanent design on core seats, nor an endorsement of the current weak genius-channel practice.
-
-**Capital and seats.** Skilled American seats are part of productive capacity, not an afterthought after equipment and credit. Signals that treat workforce as pure cost minimization via arbitrage score incomplete on firm/agency practice.
-
-**23 Oct 2026, capability.** CMS and all 50 states plus DC launched *Nurses for Nursing Homes*: $275M ($100M CMS, at least $175M from states) for up to $40,000 in loan repayment and/or a $10,000 stipend, in exchange for a three-year commitment to a qualifying nursing home. The money is funded through civil money penalties collected by CMS and the states from nursing homes, and it is aimed at nurses who will hold these seats.
-
-FACT
-
-https://www.cms.gov/newsroom/press-releases/cms-states-launch-275-million-initiative-recruit-retain-nurses-nursing-homes
-
-FACT that the program exists. It is a DOT-led interagency campaign under Secretary Duffy recruiting veterans into trucking: https://www.transportation.gov/briefing-room/trump-administration-launches-new-interagency-campaign-led-secretary-duffy-recruiting (403 to curl, **snippet-only**). Trade-press confirmation: https://www.trucknews.com/transportation/dot-launches-freedom-haulers-campaign-to-recruit-veterans-to-trucking/1003218940/ (snippet-only).
-
-**PATTERN TO WATCH (Joshua's):** CMS's nurse incentive is the nursing-home counterpart of Freedom Haulers. Both point existing federal tools at a citizen pipeline into a shortage seat.
-
-**Agency living log (starter).** Primary sources for ongoing pulse: DOL, USCIS, DOJ, DHS, DOT, Education (student/OPT touch), and White House workforce and immigration enforcement posts. Cabinet-wide policy-pairing watch: named pairing of channel restriction with citizen pipeline across secretaries, not DoT-only. Confirmations enter the scorecard; hypotheses stay in the sidebar.
-
-**23 Oct 2026, watch.** Labor Secretary Sonderling visited Topeka and Lawrence, Kansas. DOL: 'We want a skilled local workforce.' This stays a watch until named citizen jobs exist at a named site.
-
-FACT (the visit and quote) + WATCH.
-
-X 2114045796890849596 (@USDOL)
-
-https://kansasreflector.com/2026/10/23/u-s-labor-secretary-praises-kansas-manufacturing-industry-in-visit-to-topeka-business/
-
-https://x.com/7SwanSwimming/status/2114097563574104140
-
----
-
-### What you can do
-
-The teaching on this page comes first: short-cycle temporary or visa labor is a design choice. Citizen seats are the base of productive capacity under the American System.
-
-If you are a qualified U.S. applicant who uses Grok Bot, you can act on workforce sovereignty by running Tony, the PERM Watch Bot.
-
-Tony finds PERM ads and drafts the applications. It waits for your one OK before sending anything. It tracks who stayed silent after 24 hours and drafts a silence post for you to review and post yourself. Every other week it builds the list of silent employers for a DOL OIG complaint that you submit yourself.
-
-It applies by email only. It never posts or files for you, and you approve every send.
-
-Template: [https://x.ai/bot/g0SYDSP-RNIQBp31kMKEK](https://x.ai/bot/g0SYDSP-RNIQBp31kMKEK)
-
-Base post: [https://x.com/7SwanSwimming/status/2112601678599832009](https://x.com/7SwanSwimming/status/2112601678599832009)
-
-How to get started (10/20/2026):
-
-1. Open the template link and add it as your own bot in Grok Bot.
-2. Say hi. It asks you its setup questions one at a time.
-3. Have these ready: your résumé, the basics employers ask (citizenship, relocation, education, salary stance), the email you'll apply from (connect Gmail or Outlook), and where to keep your record (a GitHub repo or a drive folder).
-4. Point it at your PERM ad source (for example JobsNow) and pick your weekly days and times.
-5. Each week it finds PERM ads and drafts the applications, waits for your one OK before sending anything, checks who stayed silent after 24 hours, and drafts a silence post for you to review and post yourself.
-6. Every other week it builds the list of silent employers for a DOL OIG complaint, and you submit that yourself.
-
----
-
-### 4. Scorecard
-
-**Sovereign Workforce under the American System — Scorecard**
-
-American System frame: citizen seats as the base of productive capacity; temporary and visa labor is not standing design.
-
-*(Living scorecard — refreshed 16 Oct 2026.)*
+## Scorecard
 
 | Pairing line | Status |
 |--------------|--------|
@@ -219,23 +120,11 @@ American System frame: citizen seats as the base of productive capacity; tempora
 
 Scores are directional, not grades. They update when evidence moves.
 
-Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
-
 ---
 
-### 5. American System / productive-sovereignty readout
+## What this means for companies (next 6–12 months)
 
-The American System holds that national strength rests on a high-capability domestic productive base, merit-based development of American talent, and directed improvement of real capacity. Benefits of innovation and skill should compound first inside the nation that builds them.
-
-Temporary labor as permanent design does the opposite: it rents weakness, exports learning, and substitutes arbitrage for innovation. Genuine genius-level contribution remains welcome as exception—**after** admission standards mean something. Mass capacity built on short-cycle non-citizen staffing is not sovereign capacity.
-
-For companies and state leaders the implication is practical. Critical seat families that will not be permanent short-cycle temporary or visa labor are a design choice under American System norms—systems and habits, not slogans—the same logic Module 5 (Workforce Strategy) and Module 1 (innovation as the real cost reducer) already teach.
-
----
-
-### 6. Implications for business and local leaders (next 6–12 months)
-
-1. **Name at least one critical seat family** that will not be permanent temp/visa design. Treat that as a Rock-level commitment, not a slogan.
+1. **Name at least one critical seat family** that will not be permanent temp/visa design.
 2. **Prefer innovation and training** over headcount arbitrage when cutting cost. The elevator-operator analogy still holds: process and tool innovation shifts humans into higher-skill seats rather than importing lower-cost permanent temp.
 3. **Watch policy pairing.** When we see pairing, we see execution. DoT succeeded by joining elimination of non-sovereign CDL capacity to a veteran employment bridge. Student, OPT, and similar channels that staff ongoing seats without a parallel American-youth employment path score incomplete. Broad cuts without pairing invite lawsuits and stays; pairing is how redesign sticks. Manufacturing, energy craft, and shipbuilding need the same local proof points beyond Texas transport.
 4. **Local pairing.** Federal visa and workforce signals matter when state workforce boards, apprenticeships, and employer pipelines put citizen high-skill seats under them. Texas is an early watch; expand the list as signals firm up. Lab: [From a national tracker to a local seat](https://digitalknowledge.net/local).
@@ -243,65 +132,16 @@ For companies and state leaders the implication is practical. Critical seat fami
 
 ---
 
-### 7. Teach ↔ track (the join)
+## Operate it
 
-**Bridge.** Open Module 5 and run the workforce diagnostic with this tracker’s pairing test in the room.
+Reading the signal is half the job. Turning it into decisions inside your own company is what [Become an Operator](https://digitalknowledge.net/operator) teaches.
 
-[Module 5 — start the work](https://digitalknowledge.net/modules/module-05)
+**Run the PERM test yourself.** If you are a qualified U.S. applicant who uses Grok Bot, you can act on workforce sovereignty by running Tony, the PERM Watch Bot. Tony finds PERM ads and drafts the applications. It waits for your one OK before sending anything. It tracks who stayed silent after 24 hours and drafts a silence post for you to review and post yourself. Every other week it builds the list of silent employers for a DOL OIG complaint that you submit yourself. It applies by email only. It never posts or files for you, and you approve every send.  
+[Template](https://x.ai/bot/g0SYDSP-RNIQBp31kMKEK) · [Base post](https://x.com/7SwanSwimming/status/2112601678599832009)
 
-Start with the live signal, then put it on the workforce diagnostic you already have.
+**Related trackers:** [Science, Golden Age](2026-08-issue-01-science-credit-productive-sovereignty.md) · [Nuclear + Quantum](2026-08-Issue-02-Nuclear-Quantum-Sovereign-Capacity.md) · [Hemisphere Enforcement](2026-08-Issue-04-Hemisphere-Enforcement-American-System-Feedback-Loop.md) · [Investment Builder](2026-08-Issue-06-American-System-Investment-Builder.md)
 
-This tracker’s pairing test: a freeze without a named client plant is not finished work. Policy half can be present (8 Oct PERM suspension, 13 Oct J-1 subpoenas, 14 Oct H-1B/L-1 deference proposal). Citizen seat is still waiting until a named plant or yard converts the bench. The operational proof already on this page is USDOT paired with a veteran CDL pipeline (Freedom Haulers). Enforcement without that pipeline is incomplete.
-
-That is a test of three clusters on the Module 5 diagnostic.
-
-- **Critical roles.** Which seat families are productive capacity over 3–5 years, and what share is long-term American versus short-cycle temporary or visa labor as standing design?
-- **Pipeline.** Is there a citizen path (internal development, apprenticeship, veterans, local partnership), or only time-to-fill?
-- **One action.** Name one pipeline move that can start reducing standing temp/visa design within 12 months — and name the plant or yard if the work is conversion, not a slogan.
-
-**Lab return.** Write these three before you leave. If you cannot, the join failed.
-
-- Seat family + owner: ________
-- Plant / yard / fab / lab, or “waiting — no named site yet”: ________
-- One 12-month pipeline action (then score it on this tracker’s pairing lines): ________
-
-Do this in order:
-
-1. Open the [Module 5 companion](https://digitalknowledge.net/modules/module-05). Run the Sovereign Workforce Diagnostic with the pairing test in the room. The items that take the sentence are Critical Roles and Current Reality, Pipeline Strength, and the 12-month pipeline action.
-2. Come back here. Score your own firm against this tracker’s pairing lines: policy half present; named client-plant conversion waiting. If you can nod at the PERM freeze and still cannot name a seat family and a plant, the join failed.
-3. Credit and cost structure already have a join: [Reorienting the Federal Reserve](https://digitalknowledge.net/trackers/issue-03) and [Module 1](https://digitalknowledge.net/modules/module-01). Do not reopen that punch here.
-
-Teams already on EOS can use the same filter on [EOS Module 5](https://digitalknowledge.net/starteos) (People / Workforce). Same diagnostic job. Not a second course.
-
-If someone asks whether citizen-seat design has worked in the United States, that is a history question. Point them at the [American System Historical Baseline](https://digitalknowledge.net/history). Carey is a later patch on that page, not this join.
-
-This join is free and self-serve.
-
----
-
-### 8. Out of scope (explicit)
-
-- Full immigration bill tracking.
-- Culture-war content for its own sake.
-- Claiming every enforcement action equals American System industrial policy (pairing must be evidenced).
-- Endorsing the status-quo genius/admission channel as if verification were already rigorous.
-- Treating a staffing-vendor PERM freeze as citizen-seat conversion without a named client plant.
-
----
-
-### 9. Signal sources (ongoing pulse)
-
-**Standing (on X):** [@WarClandestine](https://x.com/WarClandestine) · [@PrometheanActn](https://x.com/PrometheanActn) · [@TheDebriefing17](https://x.com/TheDebriefing17)  
-
-**This tracker’s weight (on X):** [@USDOT](https://x.com/USDOT) / Sec. Duffy–adjacent · [@DHSgov](https://x.com/DHSgov) · [@USCIS](https://x.com/USCIS) · [@USDOL](https://x.com/USDOL) · WH workforce & immigration · state workforce / apprenticeship (TX first) · industrial capacity seats (shipyard, nuclear, advanced mfg).
-
-**Additional pulse (visa-regime / program quality):** [@ChiefEngineerCE](https://x.com/ChiefEngineerCE) · [@SanDiegoKnight](https://x.com/SanDiegoKnight) · [@PlumbNick](https://x.com/PlumbNick) · [@realBrandonGill](https://x.com/realBrandonGill) · [@andrealucasEEOC](https://x.com/andrealucasEEOC) · [@VBierschwale](https://x.com/VBierschwale) (Texas-specific only).
-
-Confirmations enter scorecard language. Hypotheses stay sidebar.
-
----
-
-**Status:** Published 23 Aug 2026. Living scorecard refreshed 16 Oct 2026 (13 Oct J-1 subpoenas + 14 Oct H-1B/L-1 deference proposal added to policy half). Seats join written 14 Sep 2026. Comment dockets + /local lab 18 Sep 2026. Bridge A on §7 20 Sep 2026. Lab return on §7 21 Sep 2026. Action block for Tony, the PERM Watch Bot added 20 Oct 2026.
+**Out of scope:** Full immigration bill tracking. Culture-war content for its own sake. Claiming every enforcement action equals American System industrial policy (pairing must be evidenced). Endorsing the status-quo genius/admission channel as if verification were already rigorous. Treating a staffing-vendor PERM freeze as citizen-seat conversion without a named client plant.
 
 ---
 
@@ -310,7 +150,5 @@ Operator
 [X](https://x.com/7SwanSwimming) / [Truth Social](https://truthsocial.com/@7SwanSwimming): [@7SwanSwimming](https://x.com/7SwanSwimming)  
 Mobile: 512-423-5448  
 joshua@digitalknowledge.net
-
----
 
 Copyright © 2026 Digital Knowledge / Patriots Locked In and In Control.
