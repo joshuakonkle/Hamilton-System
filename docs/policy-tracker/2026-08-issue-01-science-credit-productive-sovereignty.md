@@ -1,6 +1,6 @@
 # Science, Golden Age & Sovereign Capacity
 **National signals → business and local execution**  
-November 2026
+November 2026 · *Updated 13 Nov 2026 (Titomic EXIM loan; Anduril Arsenal-2 candidate)*
 
 **Watch line:** Is national science policy turning into American production on the ground: named plants, mines, and citizen seats, backed by credit that favors building over financial engineering?
 
@@ -16,29 +16,34 @@ November 2026
 **Evidence so far:**
 - Nashwauk / Mesabi iron mine: first new US iron mine in 50 years; first concentrate reported; named production seat (16 Oct 2026).
 - Wolfspeed US chip plant: named semiconductor capacity; the citizen-seat close is still open (16 Oct 2026).
+- **Candidate · Baltimore County, Maryland (announced 6 Oct 2026).** Anduril Arsenal-2 at Tradepoint Atlantic. Per Anduril, the Navy awarded a contract of up to $2.9B, with payments tied to demonstrated production outcomes, and Anduril is putting $3.7B of private capital beside it. Initial operations are expected in 2030. The 3,100 direct jobs are an expectation, and no permanent American citizen crew is named. A named site with a contract, not a loan. It stays a candidate until a crew and output are counted.  
+[Anduril](https://www.anduril.com/news/anduril-u-s-navy-invest-usd6-6-billion-to-expand-america-s-submarine-industrial-base) · [Post](https://x.com/7SwanSwimming/status/2119924468562944302)
 
 **FACT · 28 Oct 2026.** The President concurred with Commerce's Section 232 finding that imports of robotics, industrial machinery, and their parts threaten to impair national security, and directed Commerce and USTR to negotiate, with an update due within 180 days. No tariff was imposed. Tariffs, quotas, fees, or "a program to incentivize new investment in United States production" are named only as possible future remedies.  
 [Proclamation](https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/)
 
 **PATTERN TO WATCH (Joshua's framing):** the proclamation recognizes supply-chain risk ("import reliance poses risks to the United States industrial base"). The tie to clean supply chains and ports is Joshua's framing; the proclamation does not mention ports.
 
-**Next mark:** about 26 Apr 2027 (180-day update).
+**Next mark:** about 26 Apr 2027 (180-day update); a named crew and first output at Arsenal-2.
 
 **Operate this watch:** Which of your suppliers, parts, or machines depend on imports this finding names, and where is the nearest American plant that could take that work? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
 ### Watch 2 · Directed credit into production
 *Treasury, Fed, and Office of Strategic Capital money that steers toward building.*
 
+**FACT · 21 Oct 2026.** The Export-Import Bank of the United States approved a $10.3M direct loan to Titomic USA under the Make More in America Initiative. It finances an integrated high-pressure cold-spray production cell in Huntsville, Alabama, to manufacture, repair, and restore high-performance metal components. A credit instrument tied to a named shop and machine. The jobs are an expectation, and no citizen crew is named.  
+[EXIM](https://exim.gov/news/exim-lends-103m-titomic-usa-inc-boost-advanced-manufacturing-and-support-jobs-alabama) · [Post](https://x.com/7SwanSwimming/status/2120200742606876799)
+
 **REPORTED, NOT YET CONFIRMED · 3 Nov 2026.** A post states that OSC made a loan commitment to Neros. That claim stays attributed to the post until an OSC or company primary is attached.  
 [Post](https://x.com/7SwanSwimming/status/2117672576457834539)
 
 **Earlier OSC cases on this watch, still open:** Antheia, Phoenix Tailings.
 
-**PATTERN TO WATCH:** whether financial close and a named plant conversion are documented for Neros, matching the earlier OSC cases. The security side of the reported Neros commitment remains open.
+**PATTERN TO WATCH:** whether the Huntsville cell is installed and staffed by a named citizen crew, and whether financial close and a named plant conversion are documented for Neros, matching the earlier OSC cases. The security side of the reported Neros commitment remains open.
 
 **Direction, not yet a regime:** Bessent at Treasury and Warsh influence at the Fed may point credit, tax, and incentive signals toward domestic manufacturing, energy, infrastructure, and real productivity gains. The Fed architecture itself is watched on [Reorienting the Federal Reserve](2026-08-Issue-03-Fed-Warsh-Directed-Credit-Productive-Capacity.md).
 
-**Next mark:** an OSC or company primary on Neros; any Treasury guidance or tax proposal favoring domestic productive investment.
+**Next mark:** the Titomic cell installed in Huntsville with a named crew; an OSC or company primary on Neros; any Treasury guidance or tax proposal favoring domestic productive investment.
 
 **Operate this watch:** If credit keeps favoring building over financial engineering, which project in your plan would qualify, and what would it take to finance it? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 

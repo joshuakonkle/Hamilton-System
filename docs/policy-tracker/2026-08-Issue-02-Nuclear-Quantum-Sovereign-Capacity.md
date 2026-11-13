@@ -1,6 +1,6 @@
 # Nuclear + Quantum as Dual-Use Sovereign Capacity
 **State & Local Execution Pathways**  
-November 2026 · *Updated 6 Nov 2026 (Section 232 robotics proclamation + Radiant Kaleidos attributed)*
+November 2026 · *Updated 13 Nov 2026 (Constellation DOE conditional loan commitment)*
 
 **Watch line:** Are nuclear and quantum signals turning into American capacity on the ground: named reactors, fuel lines, labs, and citizen crews, paired with credit that funds them?
 
@@ -24,14 +24,17 @@ November 2026 · *Updated 6 Nov 2026 (Section 232 robotics proclamation + Radian
 **FACT · 27 Oct 2026.** BWXT and Antares: a multi-year commercial agreement for TRISO fuel, with an initial 1 MTU, made at BWXT's Lynchburg, Virginia facility. It is the same TRISO line that made fuel for the Department of War's Project Pele and Antares' Mark-0. A named domestic plant. No credit instrument. The crew is still open.  
 [BWXT](https://www.bwxt.com/bwxt-announces-contract-with-antares-for-triso-nuclear-fuel-production/) · [Post](https://x.com/7SwanSwimming/status/2115196805814120612)
 
+**FACT · 27 Oct 2026.** DOE's Office of Energy Dominance Financing announced a conditional loan commitment of up to $5B to Constellation for uprates and modernization that add nearly 1.1 GW across its nuclear fleet in Illinois, Maryland, and Pennsylvania, including Byron, Illinois. Named plants with a credit instrument. The commitment is conditional; the loan has not closed. The crew is still open.  
+[DOE](https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs) · [Post](https://x.com/7SwanSwimming/status/2120662397342126548)
+
 **REPORTED, NOT YET CONFIRMED · 2 Nov 2026.** A 2 November post states that Radiant received DSA approval for Kaleidos. That claim stays attributed to the post until a company or Department of War / NRC primary is attached.  
 [Post](https://x.com/7SwanSwimming/status/2117280930360656325)
 
-**PATTERN TO WATCH:** whether a named plant or crew is confirmed, and whether a credit instrument or security pairing lands.
+**PATTERN TO WATCH:** whether the Constellation commitment reaches financial close, whether a named plant or crew is confirmed, and whether a credit instrument or security pairing lands.
 
 **Fuel-cycle stress signal (August 2026).** Kazatomprom — Kazakhstan’s national uranium company and the world’s largest primary producer of uranium — disclosed new major offtake agreements directing more material to Chinese and Russian buyers, while raising cost guidance and flagging a 6–12 month delay on a new sulphuric-acid plant needed for its in-situ leach mines. This is **not** a claim that Russia “owns” Kazakh production, and it is **not** proof of a deliberate cut-off aimed at U.S. quantum or nuclear programs. It **is** evidence that a large share of global primary supply is concentrating toward Eastern demand at the same time Western utilities still need long-term cover. Motive remains interpretive; the offtake tilt and cost floor are documented.
 
-**Next mark:** a company or Department of War / NRC primary on Radiant and Kaleidos; a named crew at a named plant.
+**Next mark:** financial close on the Constellation loan; a company or Department of War / NRC primary on Radiant and Kaleidos; a named crew at a named plant.
 
 **Operate this watch:** Which of your fuel, parts, or components depend on concentrated foreign supply, and which American plant could take that work? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
