@@ -1,7 +1,7 @@
 # Reorienting the Federal Reserve to the American System
 **Directed Credit for Productive Capacity**  
 **National signals → business and local execution**  
-November 2026 · *Updated 6 Nov 2026 (GENIUS / OCC watch lines)*
+November 2026 · *Updated 13 Nov 2026 (H.R. 10375 House passage; Louisiana small-shops watch)*
 
 **Watch line:** Are directed-credit and capacity tools being paired with monetary discipline, or is the shift still mostly language and task forces?
 
@@ -36,11 +36,14 @@ November 2026 · *Updated 6 Nov 2026 (GENIUS / OCC watch lines)*
 - **15 Oct 2026, Bessent IMF/World Bank statement.** Treasury pushed the IMF on exchange rates and “non-market policies” driving trade imbalances. China remains on the Monitoring List, not designated. Named instrument language on the currency and non-market side.
 - **23 Oct 2026, Bessent Lincoln banking model + short-bond alignment.** Secretary Bessent named Abraham Lincoln’s banking model and aligned it with the short-bond model. Named historical model and mechanism present. Divergence between the Lincoln model and the short-bond structure is known and noted.
 
+**FACT · 11 Nov 2026.** The House passed H.R. 10375, the 504 Modernization and Small Manufacturer Enhancement Act of 2026, under suspension. The House Committee on Small Business says the bill adds workforce development to the SBA 504 program mission, updates occupancy and leasing requirements, streamlines loan-closing procedures, and clarifies that the 7(a) "credit elsewhere" requirement does not apply to 504. It is a bill, not law. The Senate has not acted.  
+[House Committee on Small Business](https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=407504) · [Post](https://x.com/7SwanSwimming/status/2120965262585544717)
+
 **Still waiting:** Operational directed-credit instruments that lock capacity seats still waiting. Still limited: operational directed-credit tools inside pure Fed instruments have not yet appeared.
 
-**PATTERN TO WATCH:** Whether Fed task forces produce actual capacity-linked or directed-credit mechanisms, or remain analytical. Coordination between Treasury industrial policy and Fed balance-sheet actions. State-level positioning in energy, advanced manufacturing, and technical pipelines.
+**PATTERN TO WATCH:** Whether Fed task forces produce actual capacity-linked or directed-credit mechanisms, or remain analytical. Whether the Senate takes up H.R. 10375, and whether its occupancy and leasing changes reach small manufacturers who share a building (see Watch 4). Coordination between Treasury industrial policy and Fed balance-sheet actions. State-level positioning in energy, advanced manufacturing, and technical pipelines.
 
-**Next mark:** Federal Reserve and Warsh remarks for further definition of the productivity/capacity task force and any credit-regime language.
+**Next mark:** Federal Reserve and Warsh remarks for further definition of the productivity/capacity task force and any credit-regime language; Senate action on H.R. 10375.
 
 **Operate this watch:** If credit starts to favor building over financial engineering, which project in your plan would qualify first, and what would it take to finance it? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
@@ -61,6 +64,33 @@ November 2026 · *Updated 6 Nov 2026 (GENIUS / OCC watch lines)*
 **Next mark:** 11 Dec 2026.
 
 **Operate this watch:** Which of your sites, shipments, or suppliers depend on federal-aid highways, and what changes for you if the stopgap lapses or is extended? [Run this watch as an operator →](https://digitalknowledge.net/operator)
+
+### Watch 4 · Small shops near the Louisiana build-out
+*Whether new small machine shops can form near four large announced Louisiana projects, and the credit routes that would fund them.*
+
+**FACT · 2023, the count.** Louisiana had 241 machine shops (NAICS 332710) with 3,538 employees in 2023. That is about 5.27 per 100,000 residents, against 5.12 nationally (computed from Census counts and population estimates). Per resident, Louisiana is at the national rate.  
+[Census CBP 2023, states](https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23st.zip) · [Census CBP 2023, U.S.](https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23us.zip) · [Census population estimates](https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/counties/totals/co-est2023-alldata.csv)
+
+**FACT · 2023, where the shops are.** The shops cluster in Acadiana and the Bayou parishes: Lafayette 43 (the most of any parish), Iberia 19, Terrebonne 18, St. Martin 12, and St. Mary 9. Census publishes no machine-shop count for any of the 10 Grow NELA parishes in northeast Louisiana, which include Richland, the Meta site. No published count means fewer than three shops or none; the file cannot say which.  
+[Census CBP 2023, counties](https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23co.zip) · [LED, Grow NELA parishes](https://www.opportunitylouisiana.gov/resource/northeast-louisiana-economic-alliance)
+
+**FACT · announced, not spent.** Four large announced projects sit in three parishes: Meta's data center in Richland ($10B announced Dec 2024), Woodside Louisiana LNG in Calcasieu ($17.5B forecast capital expenditure), and, in Ascension, the Hyundai Steel mill ($5.8B) and the CF Industries Blue Point ammonia plant (about $4B). In 2023 Census showed no published machine-shop count in Richland, 8 shops in Calcasieu, and 10 in Ascension.  
+[Governor (Meta)](https://gov.louisiana.gov/news/4697) · [Woodside](https://www.woodside.com/docs/default-source/asx-announcements/2025/028-woodside-approves-louisiana-lng-development.pdf) · [LED (Hyundai Steel)](https://www.opportunitylouisiana.gov/news/louisiana-wins-again-governor-jeff-landry-led-secure-5-8-billion-hyundai-steel-plant) · [LED (CF Industries)](https://www.opportunitylouisiana.gov/news/another-louisiana-win-cf-industries-jera-and-mitsui-announce-4-billion-final-investment-decision-to-construct-worlds-largest-ammonia-facility-in-ascension-parish)
+
+**FACT · 2019 to 2023, are shops forming?** Louisiana's machine shops fell from 268 to 241 (down 10.1%), against 17,948 to 17,156 nationally (down 4.4%). Shops with fewer than 5 employees fell from 112 to 86, which is 26 of the net 27 lost. Machine-shop jobs held nearly flat, 3,574 to 3,538.  
+[Census CBP 2019, states](https://www2.census.gov/programs-surveys/cbp/datasets/2019/cbp19st.zip) · [Census CBP 2019, U.S.](https://www2.census.gov/programs-surveys/cbp/datasets/2019/cbp19us.zip)
+
+**FACT · pipeline and demand.** River Parishes Community College and HYUNDAI-POSCO Louisiana Steel broke ground on 6 Feb 2026 on a training center in Donaldsonville, targeted to open in the fourth quarter of 2027. LED says about 70% of contracts connected to Hyundai Steel's Louisiana project have gone to businesses in the state; it does not say whether that counts contracts or dollars. Meta says it has contracted more than $1.6B with Louisiana businesses across the state (July 2026).  
+[RPCC](https://www.rpcc.edu/news/1824246/rpcc-hyundai-posco-louisiana-steel-and-state-leaders-break-ground-on-new-training-center-in-donaldsonville) · [LED](https://www.opportunitylouisiana.gov/news/momentum-in-action-hyundai-steel-building-louisianas-business-ecosystem) · [Meta](https://datacenters.atmeta.com/2026/07/deepening-our-investment-in-richland-parish-louisiana/)
+
+**FACT · the SBA occupancy rule.** For SBA 7(a) and 504 real-estate loans, a borrower must occupy at least 51% of an existing building and may lease up to 49%; for new construction it must occupy at least 60% and may permanently lease up to 20%.  
+[13 CFR 120.131 (eCFR)](https://www.ecfr.gov/current/title-13/part-120/section-120.131)
+
+**PATTERN TO WATCH (not settled):** Louisiana's machine shops are not where these four announced projects are going, and the net loss since 2019 sits almost entirely in the smallest shops. Open: whether new small shops form near RiverPlex in Ascension or near Richland; whether project buying reaches machining at all; and whether a shared building for several small shops can use SBA real-estate credit under the occupancy rule, or under H.R. 10375 if it becomes law (Watch 2). Census net counts cannot separate openings from closures, and no public source yet measures where these projects buy machined parts.
+
+**Next mark:** Census 2024 County Business Patterns for Louisiana; Senate action on H.R. 10375; a machining or tool-and-die program tied to one of these sites.
+
+**Operate this watch:** If your shop is within reach of a large new project, what would it take to bid on that work, and what would a second small shop near the site need to open? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
 ---
 

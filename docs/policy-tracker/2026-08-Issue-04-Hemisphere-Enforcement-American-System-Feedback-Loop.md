@@ -1,7 +1,7 @@
 # Hemisphere Enforcement + American System Feedback Loop
 **Security Gains as Precondition for Productive Capacity**  
 **National signals → business and local execution**  
-November 2026 · *Updated 6 Nov 2026 (Minnesota follow-the-money watch + Outcast security half)*
+November 2026 · *Updated 13 Nov 2026 (sea-lane chokepoints security half + Philly yard pairing candidate)*
 
 **Watch line:** Are hemisphere security gains being paired with American productive capacity: a named U.S. plant, port, yard, or directed productive-credit tool?
 
@@ -73,11 +73,43 @@ November 2026 · *Updated 6 Nov 2026 (Minnesota follow-the-money watch + Outcast
 - **Mid-August 2026, national.** Presidential Memorandum on rebuilding the U.S. Navy and America’s shipbuilding industrial base (mid-August 2026) expands the “Finland Model” from the U.S.–Finland icebreaker MOU. Foreign allied yards may build initial hulls for speed; follow-on vessels shift to U.S. yards under domestic investment, equity or new-yard conditions, and tech transfer. Dual-use: hemisphere and maritime security on one side; U.S. yard workforce and productive sovereignty on the other. Foreign initial builds are a bridge, not the end state.
 - **Texas.** Texas is already pairing local programs to that national signal — TWC ASCEND with dedicated shipbuilding training dollars, DOL-registered shipfitter apprenticeships (Gulf Copper with Lamar State College Port Arthur and Galveston College), MARAD Small Shipyard Grants to Gulf Copper, Port Arthur, and Kemah yards, and major yard commitments including Port of Brownsville / Saronic Port Alpha.
 
+**FACT · 27 Aug 2025, Pennsylvania.** Hanwha, which owns Philly Shipyard, announced a $5B investment to boost the Philadelphia yard's annual capacity, as part of South Korea's U.S. shipbuilding commitment.  
+[Hanwha](https://www.hanwha.com/newsroom/news/press-releases/hanwha-announces-5-billion-philly-shipyard-investment-as-part-of-south-koreas-commitment-to-us-shipbuilding-growth.do)
+
+**FACT · 13 Feb 2026.** America's Maritime Action Plan describes a potential "Bridge Strategy": in a multi-ship buy, the first ships are built in a foreign shipbuilder's home shipyard while that shipbuilder makes direct capital investments in a U.S. shipyard it has bought or partnered with, to bring construction onshore.  
+[White House](https://www.whitehouse.gov/wp-content/uploads/2026/02/Restoring-Americas-Maritime-Dominance.pdf)
+
+**ATTRIBUTED · 18 Oct 2026.** Korea JoongAng Daily reports, citing an unnamed source, that Hanwha's Philly expansion has stalled while it waits for government financing.  
+[Korea JoongAng Daily](https://www.koreajoongangdaily.com/business/nearly-a-year-on-koreas-150b-us-shipbuilding-pledge-remains-on-paper/12921915)
+
+**PATTERN TO WATCH (pairing candidate, not settled):** Philly is a named U.S. yard that could pair with the chokepoint partnerships in Watch 4 and fits the Bridge Strategy. It is pledged, not built, and reported stalled on financing. It stays a candidate until ships are counted from the expanded yard.
+
 **PATTERN TO WATCH:** whether follow-on hulls after the first foreign builds actually ship from U.S. yards on citizen seats, and which states beyond Texas pair federal shipbuilding / Finland Model signals with concrete citizen workforce and yard-capital programs. National signal without state/local citizen pipelines stays thin; that pairing is the local half of the loop.
 
-**Next mark:** a second state pairing yard capital with a citizen pipeline; a follow-on hull placed at a U.S. yard.
+**Next mark:** a second state pairing yard capital with a citizen pipeline; a follow-on hull placed at a U.S. yard; financing and a first expanded-capacity hull at Philly.
 
 **Operate this watch:** If you build, supply, or repair for a yard or port, which seats would follow-on work need, and where would your citizen crew come from? [Run this watch as an operator →](https://digitalknowledge.net/operator)
+
+### Watch 4 · Sea-lane chokepoints: hemisphere first, not hemisphere only
+*U.S. security partnerships at the world's sea-lane chokepoints: the security half a named U.S. yard would pair with.*
+
+**FACT · 13 Apr 2026, Malacca.** Secretary of War Hegseth and Indonesia's defense minister, Sjafrie Sjamsoeddin, announced a Major Defense Cooperation Partnership at the Pentagon. Its three pillars are military organization and capacity building; training and professional military education; and exercises and operational cooperation. The same day, Indonesia's defense ministry said a circulating overflight document was a letter of intent, "not final" and "not legally binding."  
+[Department of War](https://www.war.gov/News/News-Stories/Article/Article/4457873/hegseth-indonesian-counterpart-announce-defense-partnership/) · [Jakarta Globe](https://jakartaglobe.id/news/indonesia-says-blanket-us-overflight-access-deal-is-not-final)
+
+**FACT · Apr 2026, Gibraltar.** The U.S. and Morocco signed a defense cooperation roadmap to guide the relationship for the next decade. It strengthens ties on the African shore of the strait. It is not an agreement governing the strait.  
+[Morocco World News](https://www.moroccoworldnews.com/2026/04/287360/us-morocco-sign-new-defense-cooperation-roadmap/)
+
+**FACT · 22 Sep 2026, GIUK gap.** The U.S., Denmark, and Greenland signed an agreement amending the 1951 Greenland defense agreement. It allows the U.S. to establish an additional Defense Area at Narsarsuaq and Mestersvig, with modalities to be mutually agreed. It enters into force only after the necessary parliamentary procedures: signed, not yet in force.  
+[White House](https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/) · [Prime Minister's Office, Denmark](https://stm.dk/en/press/press-releases/agreement-between-greenland-denmark-and-the-united-states)
+
+**FACT · 16 Feb 2026, Luzon Strait.** The joint statement from the 12th Philippines–U.S. Bilateral Strategic Dialogue announced an additional FY2026 appropriation of $144M for the Department of War to invest in Enhanced Defense Cooperation Agreement (EDCA) sites. It does not name an EDCA site on the strait itself.  
+[State Department](https://www.state.gov/releases/office-of-the-spokesperson/2026/02/joint-statement-on-the-philippines-united-states-bilateral-strategic-dialogue) · [U.S. Embassy Manila](https://ph.usembassy.gov/joint-statement-on-the-philippines-united-states-bilateral-strategic-dialogue-2/)
+
+**PATTERN TO WATCH (not settled):** hemisphere first, not hemisphere only. The U.S. is building partnerships at Malacca, Gibraltar, the GIUK gap, and the Luzon Strait while it works the hemisphere. The status words differ: partnerships with the countries on each shore, one signed text pending ratification, and one funded partnership. This is the security half only. The pairing candidate is the Philly yard in Watch 3, which is pledged, not built.
+
+**Next mark:** the Greenland agreement entering into force; named EDCA site investments; ships counted from a U.S. yard paired with this work.
+
+**Operate this watch:** Which of your shipments or parts pass through Malacca, Gibraltar, the North Atlantic, or the Luzon Strait, and what would you change if one of those lanes slowed? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
 ---
 
