@@ -1,7 +1,7 @@
 # Sovereign Workforce under the American System
 **Citizen Capacity, Genius Visas, and the End of Temporary Labor as Permanent Design**  
 **National signals → business and local execution**  
-November 2026 · *Updated 6 Nov 2026 (silence test, OIG audit plan, EO 14431, docket re-check, PERM modernization re-check)*
+November 2026 · *Updated 13 Nov 2026 (Nov 9 silence test, DOL wage rule at OIRA, closed comment windows pulled, ICEB-2026-0100-0002 added)*
 
 **Watch line:** Is enforcement on short-cycle temporary and visa labor being paired with citizen pipelines into named seats, or is it still enforcement alone? When we see policy pairing, we see execution.
 
@@ -28,7 +28,10 @@ The settlement terms come from the agency release; the filing and the EEOC reply
 
 **PATTERN TO WATCH:** whether the audit produces a public announcement letter, interim, or final report, and whether a named plant, shop, or training pipeline converts seats to citizens who stay.
 
-**Labor-market testing and earlier lines on this watch:**
+**Labor-market test, newest (9–10 Nov 2026):**
+- **9–10 Nov 2026, silence test (FACT).** 32 PERM email applies were sent on 9 November. At the 24-hour close the count was 0 replied and 28 silent (27 employers; one had two roles). Four did not go through (two bounced, two redirected to an online form) and are not counted as silence. [Post](https://x.com/7SwanSwimming/status/2120543550458974556)
+
+**Earlier lines on this watch:**
 - **2–3 Nov 2026, silence test (FACT).** 42 PERM email applies were sent on 2 November. Once every 24-hour window closed on 3 November, the count was 7 replied, 35 silent, and 0 pending. [Post](https://x.com/7SwanSwimming/status/2117314175349473637) · [Post](https://x.com/7SwanSwimming/status/2117688722045222999)
 - **PERM labor-market testing continues (FACT).** A complaint went to the DOL Office of Inspector General. [Post](https://x.com/7SwanSwimming/status/2115454874196328875)
 - **13 Oct 2026.** DOL Inspector General issued J-1 subpoenas to nine universities. Enforcement action on the student-channel side, not only an announcement. Citizen seat still waiting.
@@ -43,13 +46,20 @@ The settlement terms come from the agency release; the filing and the EEOC reply
 **FACT · 5 Nov 2026.** Executive Order 14431, *Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program*, signed 18 September 2026 and published 23 September 2026 (FR Doc 2026-19555), directs the Departments of State, Labor, and Homeland Security to weigh whether a sponsor laid off similarly situated United States workers before an H-1B filing moves.  
 [Federal Register](https://www.federalregister.gov/d/2026-19555) · [Post](https://x.com/7SwanSwimming/status/2118429338991566869)
 
-**FACT · 5 Nov 2026, docket re-check.** On the 5 Nov 2026 re-check, all three DHS dockets were Proposed Rule, not withdrawn: ICEB-2026-0100 (Optional Practical Training Fees) comments closed 9 Nov 2026; USCIS-2026-0364 (Eliminating the Discretionary 60-Day Grace Period) comments closed 10 Nov 2026; USCIS-2026-0529 (Removing Deference to Prior USCIS Determinations of Eligibility) comments close 13 Nov 2026.
-- **Optional Practical Training Fees** (ICE, DHS Docket ICEB-2026-0100, 91 FR 64566, 8 Oct 2026). Comments closed **9 Nov 2026**. [Post](https://x.com/7SwanSwimming/status/2116239949687115813) · [Federal Register](https://www.federalregister.gov/d/2026-20660)
-- **Eliminating the Discretionary 60-Day Grace Period** (USCIS, DHS Docket USCIS-2026-0364, 91 FR 57807, 11 Sep 2026). Comments closed **10 Nov 2026**. [Post](https://x.com/7SwanSwimming/status/2116239949687115813) · [Federal Register](https://www.federalregister.gov/d/2026-18631)
-- **Removing Deference to Prior USCIS Determinations of Eligibility** (USCIS, DHS Docket USCIS-2026-0529, 91 FR 65119, 14 Oct 2026). Comments close **13 Nov 2026**. DHS proposed removing 8 CFR 214.1(c)(5), the rule that has USCIS defer to a prior approval when an H-1B, L-1 or other petition is extended (USCIS-2026-0529, 91 FR 65119). This is a structural rule change on the extension channel. [Comment](https://www.regulations.gov/commenton/USCIS-2026-0529-0001) · [Post](https://x.com/7SwanSwimming/status/2110135956108153060) · [Federal Register](https://www.federalregister.gov/d/2026-20941)
-- *Coming soon:* **PERM modernization** (DOL/ETA, RIN 1205-AC29). It cleared White House (OIRA) review on 23 Oct 2026, "Consistent with Change." It is not yet in the Federal Register, and no comment window is open. Re-checked 5 Nov 2026: it is still not in the Federal Register, and no comment window is open. [OIRA review](https://www.reginfo.gov/public/do/eoDetails?rrid=1533011)
+**FACT · 13 Nov 2026, comment windows closed.** The comment windows on the three DHS proposed rules closed 9, 10, and 13 Nov 2026: Optional Practical Training Fees (ICE, ICEB-2026-0100), Eliminating the Discretionary 60-Day Grace Period (USCIS, USCIS-2026-0364), and Removing Deference to Prior USCIS Determinations of Eligibility (USCIS, USCIS-2026-0529). All three remain proposed rules, not withdrawn, and no final rule has been published.  
+[Federal Register (OPT fees)](https://www.federalregister.gov/d/2026-20660) · [Federal Register (grace period)](https://www.federalregister.gov/d/2026-18631) · [Federal Register (deference)](https://www.federalregister.gov/d/2026-20941)
 
-**Suggested comment body (USCIS-2026-0529, comments close 13 Nov 2026):** first term on U.S. soil, the visa holder trains at least one **named American** (capability). If the seat continues, the firm builds a citizen pipeline so more Americans can hold it (capacity). Operating in the United States is not workforce-neutral.
+**FACT · open through 7 Dec 2026.** ICEB-2026-0100-0002, the Paperwork Reduction Act information collection that supports the OPT fee proposal (OMB Control No. 1653-0038), is open for public comment through **7 Dec 2026, 10:59 PM CT**. Designated school officials at SEVP-certified schools would confirm payment of applicable OPT fees in SEVIS. This is a separate window from the closed comments on the proposed rule.  
+[Comment](https://www.regulations.gov/commenton/ICEB-2026-0100-0002) · [Supporting statement](https://downloads.regulations.gov/ICEB-2026-0100-0002/content.pdf) · [Federal Register](https://www.federalregister.gov/d/2026-20660)
+
+**PATTERN TO WATCH:** whether comments on this information collection change how school officials confirm OPT-fee payment in SEVIS, and whether that confirmation is used to administer the fee. It does not reopen the closed comment window on the proposed rule.
+
+**FACT · 6 Nov 2026, wage rule at OIRA.** DOL/ETA's wage rule, RIN 1205-AC30, is under White House (OIRA) review as a Final Rule, received 6 Nov 2026 and marked economically significant. The proposed rule, *Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States*, was published 27 Mar 2026 (FR Doc 2026-06017).  
+[OIRA review](https://www.reginfo.gov/public/do/eoDetails?rrid=1596562) · [Federal Register](https://www.federalregister.gov/d/2026-06017) · [Post](https://x.com/7SwanSwimming/status/2120180638049562762)
+
+**PATTERN TO WATCH:** whether the final wage rule, once published, changes the labor-market test for U.S. workers, or only the wage floor.
+
+- *Coming soon:* **PERM modernization** (DOL/ETA, RIN 1205-AC29). It cleared White House (OIRA) review on 23 Oct 2026, "Consistent with Change." It is not yet in the Federal Register, and no comment window is open. Re-checked 13 Nov 2026: it is still not in the Federal Register, and no comment window is open. [OIRA review](https://www.reginfo.gov/public/do/eoDetails?rrid=1533011)
 
 **FACT (moratorium) · State watch: Florida.** Under Board of Governors Regulation 1.001(5)(h), Florida's public universities have a moratorium on hiring new employees who need immediate H-1B sponsorship, through 5 Jan 2027.  
 [FSU HR](https://hr.fsu.edu/article/h-1b-hiring-update) · [Reuters](https://www.reuters.com/legal/government/florida-public-universities-temporarily-halt-hiring-foreigners-h1-b-visas-2026-03-03/)
@@ -58,7 +68,7 @@ The settlement terms come from the agency release; the filing and the EEOC reply
 
 **PATTERN TO WATCH:** whether these rules finalize, and whether any of them is paired with a citizen pipeline. Litigation and stays are a real constraint on the speed of broad executive action on visa programs; they do not convert short-cycle temporary or visa labor into sound permanent design.
 
-**Next mark:** PERM modernization (RIN 1205-AC29) in the Federal Register; final action on the three DHS dockets; the 5 Jan 2027 end of Florida's moratorium.
+**Next mark:** PERM modernization (RIN 1205-AC29) in the Federal Register; the DOL wage rule (RIN 1205-AC30) published as final; final action on the three DHS dockets; comments on ICEB-2026-0100-0002 close 7 Dec 2026, 10:59 PM CT; the 5 Jan 2027 end of Florida's moratorium.
 
 **Operate this watch:** Which of your seats depend on an H-1B, OPT, or extension today, and which one could you move to a citizen pipeline before these rules land? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
