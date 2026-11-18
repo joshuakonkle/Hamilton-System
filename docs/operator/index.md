@@ -40,7 +40,21 @@ Foundation is green
 
 [See these four seats](/bots)
 
-## 3 Then the Free Training
+## 3 Useful bots get onboarded like new hires
+
+A bot with access to the right systems isn't ready to do a job yet. The SpaceXSI accounting team put it plainly:
+
+"Bots need the same investment in documentation, onboarding, and ongoing coaching as new employees."
+
+[Building an accounting team with Grok Bot](https://x.ai/news/grok-bot-accounting), Annay (Paul) Bains, Will Smerdon and Erin Jenks
+
+That's how we run our own SI team: one scoped job per bot, an operating manual only the process owner can change, and a person's own go before anything goes out.
+
+[See how our bots are onboarded, and what one showed us about a client's process](https://digitalknowledge.net/bots#how-our-bots-onboard)
+
+Learn how bots are built and given repeatable work: [Create and manage Bots](https://docs.x.ai/grok-bot/bots) and [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations).
+
+## 4 Then the Free Training
 
 ### Strategy
 
@@ -62,7 +76,7 @@ The standard every person and bot runs under.
 
 Give this training to your bots and ask them to help you execute according to this framework.
 
-## 4 American System Application
+## 5 American System Application
 
 ### Build capability
 
@@ -74,7 +88,7 @@ Give your bots more room.
 
 Can run together. Best done one at a time.
 
-## 5 Paid option
+## 6 Paid option
 
 Free to self-serve. Joshua's help is the paid option.
 
