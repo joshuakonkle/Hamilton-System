@@ -1,7 +1,7 @@
 # Hemisphere Enforcement + American System Feedback Loop
 **Security Gains as Precondition for Productive Capacity**  
 **National signals → business and local execution**  
-November 2026 · *Updated 13 Nov 2026 (sea-lane chokepoints security half + Philly yard pairing candidate)*
+November 2026 · *Updated 21 Nov 2026 (ASEAN security package beside the chokepoints watch)*
 
 **Watch line:** Are hemisphere security gains being paired with American productive capacity: a named U.S. plant, port, yard, or directed productive-credit tool?
 
@@ -105,9 +105,12 @@ November 2026 · *Updated 13 Nov 2026 (sea-lane chokepoints security half + Phil
 **FACT · 16 Feb 2026, Luzon Strait.** The joint statement from the 12th Philippines–U.S. Bilateral Strategic Dialogue announced an additional FY2026 appropriation of $144M for the Department of War to invest in Enhanced Defense Cooperation Agreement (EDCA) sites. It does not name an EDCA site on the strait itself.  
 [State Department](https://www.state.gov/releases/office-of-the-spokesperson/2026/02/joint-statement-on-the-philippines-united-states-bilateral-strategic-dialogue) · [U.S. Embassy Manila](https://ph.usembassy.gov/joint-statement-on-the-philippines-united-states-bilateral-strategic-dialogue-2/)
 
-**PATTERN TO WATCH (not settled):** hemisphere first, not hemisphere only. The U.S. is building partnerships at Malacca, Gibraltar, the GIUK gap, and the Luzon Strait while it works the hemisphere. The status words differ: partnerships with the countries on each shore, one signed text pending ratification, and one funded partnership. This is the security half only. The pairing candidate is the Philly yard in Watch 3, which is pledged, not built.
+**FACT · 18 Nov 2026, Philippines and Thailand.** "The United States and the Philippines will pursue" a Foreign Military Financing (FMF) loan package of more than $2 billion. The United States "will utilize $400 million in FMF" for the Philippine military. Subic Grain "will build" a $40 million fuel storage depot at Subic Bay. The Philippines "will modernize its Basco Airport." Thailand "intends to commit up to $123 million" toward HIMARS. The fact sheet's job counts (over 7,000; 1,500; 400) are expectations.  
+[White House fact sheet](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/)
 
-**Next mark:** the Greenland agreement entering into force; named EDCA site investments; ships counted from a U.S. yard paired with this work.
+**PATTERN TO WATCH (not settled):** hemisphere first, not hemisphere only. The U.S. is building partnerships at Malacca, Gibraltar, the GIUK gap, and the Luzon Strait while it works the hemisphere. Beside the Luzon / EDCA line, a security act is paired with a credit instrument (an FMF loan), sourced from U.S. suppliers. The two countries "will pursue" the FMF package, Thailand "intends to commit" toward HIMARS, and no U.S. plant is named. The status words differ: partnerships with the countries on each shore, one signed text pending ratification, one funded partnership, and a credit instrument stated as an intention. This is the security half only. The pairing candidate is the Philly yard in Watch 3, which is pledged, not built.
+
+**Next mark:** the Greenland agreement entering into force; named EDCA site investments; whether the Philippines FMF loan package closes and whether a U.S. plant is named; ships counted from a U.S. yard paired with this work.
 
 **Operate this watch:** Which of your shipments or parts pass through Malacca, Gibraltar, the North Atlantic, or the Luzon Strait, and what would you change if one of those lanes slowed? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
