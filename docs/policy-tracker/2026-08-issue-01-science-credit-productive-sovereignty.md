@@ -1,6 +1,6 @@
 # Science, Golden Age & Sovereign Capacity
 **National signals → business and local execution**  
-November 2026 · *Updated 13 Nov 2026 (Titomic EXIM loan; Anduril Arsenal-2 candidate)*
+November 2026 · *Updated 21 Nov 2026 (SI Exports Program Asia watch)*
 
 **Watch line:** Is national science policy turning into American production on the ground: named plants, mines, and citizen seats, backed by credit that favors building over financial engineering?
 
@@ -59,6 +59,21 @@ November 2026 · *Updated 13 Nov 2026 (Titomic EXIM loan; Anduril Arsenal-2 cand
 **Next mark:** published DoW audit outcomes or funding-eligibility actions; university reform statements before year-end.
 
 **Operate this watch:** Which core seats in your company run on short-cycle temporary labor today, and what would a citizen pipeline for them look like? [Run this watch as an operator →](https://digitalknowledge.net/operator)
+
+### Watch 4 · American SI Exports Program in Asia
+*A Commerce program that packages American SI for foreign buyers, and whether its Asia deals reach U.S. plants, crews, or federal credit.*
+
+**FACT · 16 Nov 2026.** The Department of Commerce announced "an initial 33 pre-set consortia." The list of record is the consortia menu. Designated packages are eligible for "priority routing for Federal financing referrals."  
+[Commerce / ITA](https://www.trade.gov/press-release/department-commerce-designates-si-export-packages-announces-next-phase-american-si) · [Consortia menu](https://siexports.gov/consortia-menu)
+
+**FACT · 18 Nov 2026.** The United States and the Philippines "agreed to partner" on supplying the Philippines' sovereign cloud infrastructure "through the United States' SI Exports Program." In Malaysia, "a U.S. consortium will develop a sovereign SI cloud." Brunei's Unified National Networks "intends to award" Vertiv the Rimba Data Centre tender.  
+[White House fact sheet](https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/)
+
+**PATTERN TO WATCH (not settled):** which consortium is named for Malaysia and the Philippines, whether any federal financing referral is made, and whether a U.S. plant or crew is attached. The menu's only plant line is HPE's "Wisconsin manufacturing facility," with no city, crew, or output given.
+
+**Next mark:** a named consortium for Malaysia or the Philippines; a federal financing referral; a U.S. plant or crew attached, with a city, crew, or output named.
+
+**Operate this watch:** If a U.S. consortium is named for a sovereign cloud in Malaysia or the Philippines, would any of your plants, parts, or crews be in a position to attach to that work? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
 ---
 
