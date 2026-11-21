@@ -126,15 +126,15 @@
     },
     {
       "id": "OVERLAY",
-      "export_filename": "Light-Tetrad-Overlay-v1-production-r2-final.pdf",
+      "export_filename": "Light-Tetrad-Overlay-v1-production-17p-v6.pdf",
       "published_path": "docs/public/Light-Tetrad-Overlay-v0.pdf",
       "public_url": "https://source.digitalknowledge.net/docs/public/Light-Tetrad-Overlay-v0.pdf",
-      "sha256": "de2ef5fcde1eb472be6b77c247b0c3be4e33978bcce66d166cab17e0e1693b43",
+      "sha256": "0a31e7738d698a18e0e1f93d82398e4913a2cee28ce5c9da2a4aadf7d1b7f011",
       "page_count": 17,
-      "bytes": 140715,
-      "previous_sha256": "374fb6a299d28670ea7af21c8168f5b40ce7b7a5cd9ff74e017ae2203639a77c",
-      "previous_bytes": 111324,
-      "previous_commit": "a81cb95f74c605651969080963b10f6c0f2e4ca2",
+      "bytes": 145809,
+      "previous_sha256": "de2ef5fcde1eb472be6b77c247b0c3be4e33978bcce66d166cab17e0e1693b43",
+      "previous_bytes": 140715,
+      "previous_commit": "a97df2d1030a74a866423d3d2392b04230f87bcc",
       "apex_static_url": "https://digitalknowledge.net/docs/Light-Tetrad-Overlay-v0.pdf",
       "apex_note": "Front-door overlay is a separate Vercel static file. This repository publishes the source.digitalknowledge.net copy only."
     }
