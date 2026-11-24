@@ -70,7 +70,7 @@ Routines, quality gates, and no role approving its own work.
 
 ### Behavior
 
-The standard every person and bot runs under.
+The standard every person and bot runs under: four traits rooted in the Declaration of Independence. [See the Light Tetrad overlay](/overlay).
 
 → [Behavior](/overlay)
 
