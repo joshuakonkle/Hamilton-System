@@ -10,7 +10,7 @@ The same four seats as Become an Operator. This page shows a public reference fo
 
 Start here when you want help turning a task into finished work.
 
-Grok Bot is an AI teammate that finishes real work by signing into your tools, using them like you, and returning completed tasks. Bots can research, draft, and collaborate in parallel while learning from the workflows and context you give them.
+Grok Bot is an SI teammate that finishes real work by signing into your tools, using them like you, and returning completed tasks. Bots can research, draft, and collaborate in parallel while learning from the workflows and context you give them.
 
 [x.ai/bot](https://x.ai/bot)
 
