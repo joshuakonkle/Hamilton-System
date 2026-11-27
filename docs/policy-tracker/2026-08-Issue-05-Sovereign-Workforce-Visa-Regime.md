@@ -59,7 +59,8 @@ The settlement terms come from the agency release; the filing and the EEOC reply
 
 **PATTERN TO WATCH:** whether the final wage rule, once published, changes the labor-market test for U.S. workers, or only the wage floor.
 
-- *Coming soon:* **PERM modernization** (DOL/ETA, RIN 1205-AC29). It cleared White House (OIRA) review on 23 Oct 2026, "Consistent with Change." It is not yet in the Federal Register, and no comment window is open. Re-checked 13 Nov 2026: it is still not in the Federal Register, and no comment window is open. [OIRA review](https://www.reginfo.gov/public/do/eoDetails?rrid=1533011)
+**FACT · 17 Nov 2026, proposed rule published.** **PERM modernization** (DOL/ETA, RIN 1205-AC29, FR Doc 2026-23370, 91 FR 73916) was published 17 Nov 2026 as a proposed rule, *Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program*. Comments on docket ETA-2026-0133 are due **19 Jan 2027, 10:59 PM CT**.  
+[Federal Register](https://www.federalregister.gov/d/2026-23370) · [Comment](https://www.regulations.gov/commenton/ETA-2026-0133-0002)
 
 **FACT (moratorium) · State watch: Florida.** Under Board of Governors Regulation 1.001(5)(h), Florida's public universities have a moratorium on hiring new employees who need immediate H-1B sponsorship, through 5 Jan 2027.  
 [FSU HR](https://hr.fsu.edu/article/h-1b-hiring-update) · [Reuters](https://www.reuters.com/legal/government/florida-public-universities-temporarily-halt-hiring-foreigners-h1-b-visas-2026-03-03/)
@@ -68,7 +69,7 @@ The settlement terms come from the agency release; the filing and the EEOC reply
 
 **PATTERN TO WATCH:** whether these rules finalize, and whether any of them is paired with a citizen pipeline. Litigation and stays are a real constraint on the speed of broad executive action on visa programs; they do not convert short-cycle temporary or visa labor into sound permanent design.
 
-**Next mark:** PERM modernization (RIN 1205-AC29) in the Federal Register; the DOL wage rule (RIN 1205-AC30) published as final; final action on the three DHS dockets; comments on ICEB-2026-0100-0002 close 7 Dec 2026, 10:59 PM CT; the 5 Jan 2027 end of Florida's moratorium.
+**Next mark:** comments on PERM modernization (RIN 1205-AC29, ETA-2026-0133) close 19 Jan 2027, 10:59 PM CT; the DOL wage rule (RIN 1205-AC30) published as final; final action on the three DHS dockets; comments on ICEB-2026-0100-0002 close 7 Dec 2026, 10:59 PM CT; the 5 Jan 2027 end of Florida's moratorium.
 
 **Operate this watch:** Which of your seats depend on an H-1B, OPT, or extension today, and which one could you move to a citizen pipeline before these rules land? [Run this watch as an operator →](https://digitalknowledge.net/operator)
 
